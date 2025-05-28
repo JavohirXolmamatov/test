@@ -9,7 +9,7 @@ function App() {
   return (
     <div style={{ width: "100dvh", height: "100dvh" }}>
       <h1 style={{ textAlign: "center" }}>Test</h1>
-      <iframe src="../public/Test_OT.txt" width="100%" height="100%"></iframe>
+      <iframe src="/Test_OT.txt" width="100%" height="100%"></iframe>
     </div>
   );
 }
