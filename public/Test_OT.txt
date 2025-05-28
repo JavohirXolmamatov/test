@@ -1,0 +1,2269 @@
+Operatsion tizim (OT) arxitekturasi nima uchun mo'ljallangan?
+====
+#Qurilmalarni boshqarish va dasturlarga xizmat ko'rsatish 
+====
+Dastur dasturlarini yaratish
+====
+Qurilmalarni yuklash
+====
+armoqlarni qo'llash
+++++
+Boshqa muhim modullarga yo'l qo'ymasdan, asosiy funksiyalarni bajarish uchun mo'ljallangan OT qismi qaysi?
+====
+Shell
+====
+#Kernel
+====
+Compiler
+====
+Scheduler
+++++
+Qaysi arxitektura dasturlarni qurilmalar bilan aloqador qilish uchun standart interfeyslar taqdim etadi?
+====
+Monolitik arxitektura
+====
+Mikroservislar arxitekturasi
+====
+#Modular arxitektura
+====
+Qismli tizimlar
+++++
+Dasturlar va qurilmalar orasidagi aloqani boshqarish uchun muvofiqlik va omma kutubxonalarini qo'llash qaysi arxitektura bilan bog'liq?
+====
+Monolitik arxitektura
+====
+Mikroservislar arxitekturasi
+====
+Modular arxitektura
+====
+#Halqaro arxitektura 
+++++
+Qaysi arxitektura tarmoqni tashkil etish uchun modullarni qo'llaydi va modullar orasidagi murojaatlarni tashkil etish uchun protokolni taqdim etadi?
+====
+#Mikroservislar arxitekturasi
+====
+Monolitik arxitektura
+====
+Modul arxitekturasi
+====
+Halqaro arxitektura
+++++
+Modullar juda katta bo'lganda, dastur bajarish uchun bir qatorda yoki to'plamda yig'ilish mumkin. Bu qaysi arxitektura?
+====
+#Monolitik arxitektura
+====
+Mikroservislar arxitekturasi
+====
+Modul arxitekturasi
+====
+Halqaro arxitektura
+++++
+Qaysi arxitektura barcha funksiyalarni modullarga ajratadi, ammo modullar o'zaro o'zgarishlarni almashishadi?
+====
+Monolitik arxitektura
+====
+Mikroservislar arxitekturasi
+====
+Modul arxitekturasi
+====
+#Halqaro arxitektura 
+++++
+Modullar avtomatik tuziladi va avtomatik qo'llaniladi. Bu qaysi arxitektura?
+====
+Mikroservislar arxitekturasi
+====
+Monolitik arxitektura
+====
+Modul arxitekturasi
+====
+#Halqaro arxitektura 
+ ++++
+Qaysi arxitektura yuqori moslamalar va foydalanuvchilar orasidagi aloqani qayta ishlashi uchun tizimni qo'zg'atadi?
+====
+Modul arxitekturasi
+====
+Mikroservislar arxitekturasi
+====
+#Halqaro arxitektura 
+====
+Monolitik arxitektura
+++++
+Qaysi arxitektura asosiy funksiyalarni oddiy modullar qilib qo'ylaydi?
+====
+Mikroservislar arxitekturasi
+====
+Halqaro arxitektura
+====
+#Modul arxitekturasi 
+====
+Monolitik arxitektura
+++++
+Boshqaruv modullari, foydalanuvchi interfeysi, tarmoq bog'lanish va o'zgaruvchan va o'zgaruvchanliklarni qo'llash uchun qaysi arxitekturaga tegishli?
+====
+Monolitik arxitektura
+====
+Modul arxitekturasi
+====
+#Mikroservislar arxitekturasi 
+====
+Halqaro arxitektura
+++++
+Qaysi arxitektura dasturlarni dastur uchun moslashtirilgan funktsional modullarga ajratadi?
+====
+#Mikroservislar arxitekturasi 
+====
+Halqaro arxitektura
+====
+Modul arxitekturasi
+====
+Monolitik arxitektura
+++++
+Qanday arxitektura dastur kodi o'zgarishlarini ozod qilib, qiziqishlar va xatolar yuzaga kelsa, ularga tez vaqtda qarab chiqish imkonini beradi?
+====
+Modul arxitekturasi
+====
+Mikroservislar arxitekturasi
+====
+Halqaro arxitektura
+====
+#Monolitik arxitektura 
+ ++++
+Qaysi arxitektura barcha modullarni oddiy kodni yig'uvchi to'plamda yig'adi?
+====
+#Monolitik arxitektura 
+ ====
+Mikroservislar arxitekturasi
+====
+Modul arxitekturasi
+====
+Halqaro arxitektura
+++++
+Qaysi arxitektura modullarni oddiy protokollar orqali aloqada qiladi?
+====
+Mikroservislar arxitekturasi
+====
+Halqaro arxitektura
+====
+#Modul arxitekturasi 
+====
+Monolitik arxitektura
+++++
+Qaysi arxitektura modullar aloqada bo'lganida dasturda o'zgarishlar ko'p bo'lishi mumkin?
+====
+Monolitik arxitektura
+====
+Mikroservislar arxitekturasi
+====
+Modul arxitekturasi
+====
+#Halqaro arxitektura 
+++++
+Qaysi arxitektura barcha tizimni qo'zg'atadi, ya'ni, bir nechta modullarini bitta turli qo'llanma uchun ishlatadi?
+====
+#Modul arxitekturasi 
+====
+Mikroservislar arxitekturasi
+====
+Halqaro arxitektura
+====
+Monolitik arxitektura
+++++
+Qaysi arxitektura o'zini o'zgarishlardan ko'ngilli saqlaydi?
+====
+Halqaro arxitektura
+====
+#Modul arxitekturasi 
+====
+Monolitik arxitektura
+====
+Mikroservislar arxitekturasi
+++++
+Qaysi arxitektura barcha modullarni alohida o'zi o'zgarishlarni yopishadi?
+====
+Mikroservislar arxitekturasi
+====
+#Monolitik arxitektura 
+====
+Halqaro arxitektura
+====
+Modul arxitekturasi
+++++
+Qaysi arxitektura dastur bajarilganda o'zgarishlar qo'shilib, to'g'rilanishlari dastur qayta qurilguncha kutib turadi?
+====
+Modul arxitekturasi
+====
+Mikroservislar arxitekturasi
+====
+Monolitik arxitektura
+====
+#Halqaro arxitektura 
+++++
+Qaysi arxitektura modullarni o'zaro aloqada bo'lganida oddiy ishlarni qo'llaydi?
+====
+Halqaro arxitektura
+====
+Monolitik arxitektura
+====
+#Modul arxitekturasi 
+====
+Mikroservislar arxitekturasi
+++++
+Qaysi arxitektura modullar tuzilishini o'zgartirishga qodir, ya'ni, ularning tuzilishini dastur ishlatishga moslashtirish mumkin?
+====
+#Modul arxitekturasi 
+====
+Halqaro arxitektura
+====
+Monolitik arxitektura
+====
+Mikroservislar arxitekturasi
+++++
+Qaysi arxitektura dastur tizimini qanday tuziladi, masalan, oddiy qatordan yoki to'plamdan yig'iladi?
+====
+#Monolitik arxitektura 
+====
+Mikroservislar arxitekturasi
+====
+Halqaro arxitektura
+====
+Modul arxitekturasi
+++++
+Operatsion tizim nima uchun mo'ljallangan?
+====
+Dasturlarni yaratish uchun muhit
+====
+#Qurilmalarni boshqarish va dasturlarga xizmat ko'rsatish 
+====
+Xavfsizlik muhofazasi
+====
+Dastur yaratish
+++++
+Qaysi tarmoq elementi operatsion tizimning qo'llanishiga xizmat qiladi?
+====
+Hard disk
+====
+#Network Interface Card 
+====
+RAM
+====
+CPU
+++++
+Qaysi tizim boshqaruvchisi qurilma komponentlariga to'g'ri bajarish uchun moslashadi?
+====
+#BIOS 
+====
+Shell
+====
+Kernel
+====
+Compiler
+++++
+Boshqaruv tizimida ko'plab dasturlar bir qatorda bajariladi. Bu qaysi boshqaruv tizimi?
+====
+Monolitik kernel 
+====
+Microkernel
+====
+Hybrid kernel
+====
+Exokernel
+++++
+Virtual ma'lumotlar tizimi qanday yo'lga qo'yiladi?
+====
+RAM
+====
+Disk
+====
+#RAM va disk 
+ ====
+Processor
+++++
+Qaysi tarmoq protokol operatsion tizimlar uchun asosiy?
+====
+HTTP
+====
+FTP
+====
+#TCP/IP 
+====
+DHCP
+++++
+Bir dasturga disk va konsolga qo'shimcha ma'lumot yozishni ta'minlovchi tizim qaysi?
+====
+#File System 
+====
+Device Drivers
+====
+Kernel
+====
+Shell
+====
+Qaysi dastur avtomatik ravishda operatsion tizimga o'zgartirishlarni yuklaydi?
+====
+Device Manager
+====
+Scheduler
+====
+#Automatic Update Service 
+====
+Memory Manager
+++++
+Qaysi operatsion tizimlar ko'plab qurilmalar va dasturlarni boshqarishda yordam beradi?
+====
+#Windows 
+====
+MacOS
+====
+Linux
+====
+Barchasi to'g'ri
+++++
+"Booting" nima ma'noni anglatadi?
+====
+Operatsion tizimning yangilash qilinishi
+====
+#Qurilmaning ishga tushishi 
+====
+RAM qurilmalarni o'zlashtirish
+====
+Dasturlar o'rnatilishi
+++++
+Qaysi tizim elementi kompyuterda barcha dasturlar bilan murojaat qiladi?
+====
+RAM
+====
+CPU
+====
+#Kernel 
+====
+BIOS
+++++
+Qaysi komponent BIOS sozlashlarini saqlaydi?
+====
+RAM
+====
+Hard disk
+====
+#ROM 
+====
+CPU
+++++
+Qaysi dastur qurilmaning boshlang'ich ko'rsatkichlarini o'qib chiqadi va operatsion tizimni yuklaydi?
+====
+#Bootloader 
+====
+Kernel
+====
+Shell
+====
+Compiler
+++++
+Qaysi operatsion tizimning "Task Manager" nomli vositasi bor?
+====
+#Windows 
+====
+MacOS
+====
+Linux
+====
+Android
+++++
+Qaysi tarmoq protokoli kompyuterlarni tarmoqda identifikatsiya qiladi?
+====
+#IP 
+ ====
+FTP
+====
+HTTP
+====
+TCP
+++++
+Qaysi operatsion tizim xususiy qurilmalarga moslashtirilgan, o'yinlar uchun eng yaxshi bo'lgan?
+====
+Windows
+====
+Linux
+====
+macOS
+====
+#SteamOS 
+++++
+Qaysi operatsion tizim ochiq kodli (open-source) va boshqa tarmoqlardan ishlab chiqarilgan?
+====
+Windows
+====
+#Linux 
+====
+macOS
+====
+iOS
+++++
+Qaysi operatsion tizim real vaqtli (real-time) to'lov qilinadigan tizimlarga qaratilgan?
+====
+Windows
+====
+Linux
+====
+#QNX 
+ ====
+Android
+++++
+Qaysi operatsion tizim shaxsiy kompyuterlarda eng ko'p ishlatiladi?
+====
+Linux
+====
+macOS
+====
+#Windows 
+ ====
+Android
+++++
+Qaysi operatsion tizimlar ob'ektiv ravishda ishlatiladigan, foydalanuvchi tomonidan tekshirilgan?
+====
+Monolitik kernel
+====
+Mikrokernel
+====
+Hibrid kernel
+====
+#Barchasi to'g'ri 
+++++
+Qaysi operatsion tizim boshqaruvchi kerak emas va modullar ko'paytirilgan?
+====
+Monolitik kernel
+====
+#Mikrokernel 
+====
+Hibrid kernel
+====
+Virtual kernel
+++++
+Qaysi operatsion tizim avtomobil tizimlarida eng ko'p ishlatiladi?
+====
+Windows
+====
+macOS
+====
+#QNX 
+====
+Linux
+++++
+Qaysi operatsion tizim o'rnatilgan (embedded) qurilmalarda eng ko'p ishlatiladi?
+====
+Windows
+====
+Linux
+====
+#RTOS 
+====
+macOS
+++++
+Qaysi operatsion tizim aynan bir foydalanuvchining tarmoq bilan bog'liq qurilmalarda ishlatiladi?
+====
+Windows
+====
+Linux
+====
+RouterOS
+====
+#FreeBSD 
+ ++++
+Qaysi operatsion tizimlar ko'pgina boshqaruv funksiyalarini barcha jamiyat kompyuterlarida ishlatish uchun yaratilgan?
+====
+Windows
+====
+Linux
+====
+macOS
+====
+#Unix 
+++++
+Qaysi operatsion tizimlar xususiy sohalarda qo'llaniladi, masalan, filmlarni montaj qilish uchun?
+====
+Windows
+====
+#macOS 
+====
+Linux
+====
+Unix
+++++
+Qaysi operatsion tizimlar internet serverlarida ko'pgina ishlatiladi?
+====
+Windows Server
+====
+#Linux 
+====
+macOS Server
+====
+FreeBSD
+++++
+Qaysi operatsion tizimlar "kernel"ning yo'qolishi bilan ajratiladi?
+====
+Monolitik kernel
+====
+#Mikrokernel 
+====
+Hibrid kernel
+====
+Virtual kernel
+++++
+Qaysi operatsion tizim o'rnatilgan kompyuterda birinchi marta ishga tushiriladi?
+====
+Windows
+====
+Linux
+====
+macOS
+====
+#DOS 
+++++
+Qaysi operatsion tizim Android smartfonlarda o'rnatilgan?
+====
+Windows
+====
+#Linux 
+====
+macOS
+====
+iOS
+++++
+Qaysi tizimlar ko'pgina boshqaruv funksiyalarini barcha jamiyat kompyuterlarida ishlatish uchun yaratilgan?
+====
+Windows Server
+====
+#Linux Server 
+====
+macOS Server
+====
+Unix Server
+++++
+Qaysi operatsion tizim aynan bir foydalanuvchining tarmoq bilan bog'liq qurilmalarda ishlatiladi?
+====
+Windows
+====
+Linux
+====
+RouterOS
+====
+#FreeBSD 
+++++
+Qaysi operatsion tizim "kernel"ning yo'qolishi bilan ajratiladi?
+====
+Monolitik kernel
+====
+#Mikrokernel 
+====
+Hibrid kernel
+====
+Virtual kernel
+++++
+Qaysi operatsion tizimlar ob'ektiv ravishda ishlatiladigan, foydalanuvchi tomonidan tekshirilgan?
+====
+Monolitik kernel
+====
+Mikrokernel
+====
+Hibrid kernel
+====
+#Barchasi to'g'ri 
+++++
+Embedded system nima?
+====
+Kompyuter va internet tarmog'ini birlashtirish tizimi
+====
+#O'z ichiga xususiy funktsiyalarga ega bo'lgan mahsus qurilma yoki qurilma qator 
+====
+Yozuvli ma'lumotlar qo'llab-quvvatlash tizimi
+====
+Simulyatsiya qilinadigan qurilma
+++++
+Qaysi tarmoq yoki qurilma embedded system bo'lishi mumkin?
+====
+Elektronik termostat
+====
+Smartfon
+====
+Tarvuz xaridorlari
+====
+#Barchasi to'g'ri 
+++++
+Embedded systemlarni qanday sinflashtirish mumkin?
+====
+#Sozlamalar, boshqaruv va tezlik 
+====
+O'z ichiga xususiy kompyuterlar va xususiy avtomobillar
+====
+Yozuvli va grafik dasturlar
+====
+To'g'ri javob berilmagan
+++++
+Qaysi tizimlar embedded systemlarda ko'p ishlatiladi?
+====
+#Linux va Android 
+====
+Windows va macOS
+====
+MS-DOS va Unix
+====
+FreeBSD va Solaris
+++++
+Qaysi tarmoq protokoli IoT (Internet of Things) qurilmalari uchun eng mos?
+====
+FTP
+====
+HTTP
+====
+#MQTT 
+====
+SSH
+++++
+Embedded systemlarda qanday tarzda komponentlar ishlatiladi?
+====
+#Maxsus ishlab chiqarilgan, chipta ko'plab qo'yilgan 
+====
+Standart kompyuter qurilmalari
+====
+Klassik RAM va disklar
+====
+Televizor va radiosignal ovlashlari
+++++
+Qaysi komponentlar embedded systemlarda tezlikni o'lchash uchun ishlatiladi?
+====
+Sonlar tizimi va GPS
+====
+#Sensorlar va analog-digital konvertorlar 
+====
+RAM va disklar
+====
+LED ekranlar va klaviaturalar
+++++
+Embedded systemlarda operatsion tizimlar qanday ishlatiladi?
+====
+Ko'pgina ishlatilmaydi, kengaytirilgan boshqaruv dasturlari ishlatiladi
+====
+#O'z ichiga xususiy operatsion tizimlar bor 
+====
+Faqat Microsoft Windows ishlatiladi
+====
+O'z ichiga xususiy operatsion tizimlar yo'q, sifatini nazorat qilish mumkin
+++++
+Qaysi dasturlar embedded systemlarda boshqaruvni muvofiqlashtiradi?
+====
+#C va Assembly 
+====
+Java va Python
+====
+PHP va HTML
+====
+CSS va JavaScript
+++++
+Embedded systemlar qanday birlashtirilgan bo'lishi mumkin?
+====
+Barchasi to'g'ri
+====
+#Tekshiriladigan sensorlar, avtomatlashtirilgan boshqaruv va internetga ulanish 
+====
+Ixtiyoriy komponentlar
+====
+Qondiradigan o'zgaruvchilar
+++++
+Qaysi tizim IoT (Internet of Things) uchun eng qulay bo'lgan?
+====
+Windows
+====
+#Linux 
+====
+macOS
+====
+Android
+++++
+Embedded systemlar qaysi sohada keng qo'llaniladi?
+====
+#Kommunikatsiyalar, transport, mashina-taminot, tibbiyot, energiya, va hokazo 
+====
+Harakatli o'yinlar va animatsiyalar
+====
+Ma'lumotlar ombori va tarqatuvchi dasturlar
+====
+Virtual realitet va grafik dasturlar
+++++
+Qaysi tarmoq protokoli embedded systemlarda ma'lumot almashish uchun eng qulay?
+====
+TCP/IP
+====
+MQTT
+====
+#SPI va I2C 
+====
+HTTP
+++++
+Qaysi muhit embedded systemlarda dasturlash uchun eng keng qo'llaniladi?
+====
+Java va Python
+====
+#C va C++ 
+====
+HTML va CSS
+====
+JavaScript va PHP
+++++
+O'rnatilgan dasturiy ta'minot (ODT) nima?
+====
+Dasturlarni yozish va ularga o'zgartirish
+====
+Dasturlarni to'g'ridan-to'g'ri ko'rish
+====
+Dasturlar uchun kerakli kompyuter dasturlari
+====
+#Dastur va uning qo'shimcha komponentlarini qo'llab-quvvatlash uchun xizmat 
+ ++++
+Qaysi tarmoq protokoli dasturlarni o'rnatish, yangilash va o'chirishda ishlatiladi?
+====
+HTTP
+====
+FTP
+====
+HTTPS
+====
+#MQTT 
+++++
+Qaysi dasturlar avtomatik ravishda o'rnatilgan dasturiy ta'minot tizimini yangilaydi?
+====
+#Software Update Service 
+====
+Disk Cleaner
+====
+Virus Scanner
+====
+Media Player
+++++
+O'rnatilgan dasturiy ta'minot qanday usullarda yuklanadi?
+====
+#Internet orqali, ma'lumotlar bazasi yordamida 
+====
+CD yoki DVD orqali
+====
+Flash haydovchisi yordamida
+====
+Barchasi to'g'ri
+++++
+Qaysi protokol dasturlarni o'rnatish, yangilash va o'chirishda ishlatiladi?
+====
+FTP
+====
+HTTPS
+====
+MQTT
+====
+#HTTP 
+++++
+Qaysi tarmoq protokoli dasturiy ta'minotni yuklashda yordam beradi?
+====
+TCP/IP
+====
+FTP
+====
+HTTP
+====
+#HTTPS 
+++++
+Qaysi dasturlar to'plamdagi o'rnatilgan dasturiy ta'minotni yangilash uchun yordam beradi?
+====
+Anti-virus dasturlar
+====
+Firewall dasturlar
+====
+#Software Update Service 
+====
+Disk Cleaner
+++++
+O'rnatilgan dasturiy ta'minot tizimini faqat ma'lum bir muhiti o'zgartirish uchun ishlatish mumkinmi?
+====
+Ha, foydalanuvchi tomonidan sozlanadi
+====
+Yo'q, bu tizim yalpi o'rnatiladi
+====
+#Faqat administratorlar tomonidan o'zgartirilishi mumkin 
+====
+O'rnatilgan dasturiy ta'minot tizimi avtomatik ravishda o'zini yangilaydi
+++++
+O'rnatilgan dasturiy ta'minot tizimi qaysi maqsadga xizmat ko'rsatadi?
+====
+Dasturlarni yangilash va o'rnatish
+====
+Ma'lumotlar bazasini o'rnatish
+====
+Dasturlarni bajargandan so'ng to'g'ri ishlashi
+====
+#Barchasi to'g'ri 
+ ++++
+O'rnatilgan dasturiy ta'minot tizimlarida qanday usullar mavjud?
+====
+#Standart o'rnatish va xavfsizlik to'g'risida imzolash 
+====
+Barcha dasturlar o'zlashtiriladi
+====
+Shaxsiy xavfsizlik sozlashlaridan o'tkazib yuboriladi
+====
+Yomonliklarni to'g'irlash uchun telefon qo'llaniladi
+++++
+O'rnatilgan dasturiy ta'minotning maqsadi nima?
+====
+Dasturlarni yuklash va boshqarish
+====
+Tarmoqni himoya qilish
+====
+Operatsion tizimlarni o'zlashtirish
+====
+#Dasturiy xavfsizlikni ta'minlash 
+++++
+O'rnatilgan dasturiy ta'minot tizimlarining yana qaysi nomi mavjud?
+====
+Software Deployment Systems
+====
+Software Management Systems
+====
+#Package Management Systems 
+====
+Application Configuration Systems
+++++
+O'rnatilgan dasturiy ta'minot tizimlarida qanday usulda dasturlar ishlab chiqariladi?
+====
+Har bir foydalanuvchi tomonidan o'zlashtiriladi
+====
+O'rnatilgan dasturiy ta'minot tizimi administratorlari tomonidan o'rnatiladi
+====
+Standart tarmoq protokollaridan foydalaniladi
+====
+#Foydalanuvchilar uchun yuklab olingan tashqi dasturlar orqali 
+++++
+O'rnatilgan dasturiy ta'minot tizimlarida dasturlar o'rnatilish tartibi qanday aniqlanadi?
+====
+Bitta foydalanuvchi tomonidan tanlangan
+====
+Administratorlar tomonidan boshqariladi
+====
+#Paketlar (packages) orqali 
+====
+Diskka yozib beriladi
+++++
+Buyruq terminali nima?
+====
+Dastur ishga tushirilgandan so'ng foydalanuvchi uchun interfeys
+====
+#Foydalanuvchining dastur ishga tushirish uchun ishlab chiqarilgan interfeys 
+====
+Faqat administratorlar tomonidan ishlatiladi
+====
+To'g'ri javob berilmagan
+++++
+Qaysi tarmoq protokoli buyruq terminalining ishlashini boshqaradi?
+====
+HTTP
+====
+FTP
+====
+#SSH 
+====
+TCP/IP
+++++
+Qaysi dasturlar buyruq terminali orqali ishga tushiriladi?
+====
+Word va Excel
+====
+Paint va Photoshop
+====
+#Command Prompt va Terminal 
+====
+Chrome va Firefox
+++++
+Qaysi operatsion tizimlarda Terminal yoki Command Prompt standart hisoblanadi?
+====
+Windows va macOS
+====
+#Linux va macOS 
+====
+Windows va Linux
+====
+Windows, Linux va macOS
+++++
+Buyruq terminalida foydalanuvchi qanday usullarda ishlay oladi?
+====
+Mouse va klaviatura orqali
+====
+#Klaviatura orqali 
+====
+Mouse orqali
+====
+Kursor va touchpad orqali
+++++
+Qaysi buyruqlar avtomatik ravishda ishga tushirilgan dastur orqali yuklanadi?
+====
+apt-get (Linux), brew (macOS)
+====
+#yum (Linux), pacman 
+====
+pip (Python), npm (Node.js)
+====
+aptitude (Linux), dnf (Fedor
+++++
+Terminalda "ls" buyrug'i nima uchun ishlatiladi?
+====
+#Fayllarni ro'yxatini ko'rsatish 
+====
+Faylni o'chirish
+====
+Yangi fayl yaratish
+====
+To'g'ri javob berilmagan
+++++
+"cd" buyrug'i nima uchun ishlatiladi?
+====
+#Katologga kirish 
+====
+Fayllar va direktoriyalarni ko'rish
+====
+Fayllarni o'chirish
+====
+Yangi direktoriya yaratish
+++++
+Terminalda "pwd" buyrug'i nima uchun ishlatiladi?
+====
+#Hozirgi ishlash katalogini ko'rsatish 
+====
+Fayllarni o'chirish
+====
+Katalogni o'chirish
+====
+Yangi fayl yaratish
+++++
+"mkdir" buyrug'i nima uchun ishlatiladi?
+====
+#Foydalanuvchi uchun yangi katalog yaratish 
+====
+Faylni ko'rish
+====
+Fayllarni o'chirish
+====
+Kataloglarni ro'yxatini ko'rish
+++++
+"rm" buyrug'i nima uchun ishlatiladi?
+====
+#Fayllarni o'chirish 
+====
+Faylni ko'rish
+====
+Kataloglarni o'chirish
+====
+Yangi fayl yaratish
+++++
+"cp" buyrug'i nima uchun ishlatiladi?
+====
+Fayllarni ko'rish
+====
+#Faylni ko'chirish 
+====
+Fayllarni o'chirish
+====
+Yangi fayl yaratish
+++++
+"mv" buyrug'i nima uchun ishlatiladi?
+====
+#Faylni ko'chirish va o'chirish 
+====
+Fayllarni ko'rish
+====
+Fayllarni o'chirish
+====
+Yangi fayl yaratish
+++++
+"grep" buyrug'i nima uchun ishlatiladi?
+====
+#Matnlar orasida qidirish 
+====
+Fayllarni ko'rish
+====
+Faylni o'chirish
+====
+Yangi fayl yaratish
+++++
+"chmod" buyrug'i nima uchun ishlatiladi?
+====
+#Fayl va kataloglarning ruxsatlarini o'zgartirish 
+====
+Fayllarni o'chirish
+====
+Fayllarni ko'rish
+====
+Yangi fayl yaratish
+++++
+Jarayon nima?
+====
+#Dastur ishga tushirildigida dastur boshqaruvchisi tomonidan ajratilgan yoki bajarilgan qo'llanma 
+====
+Jarayonlarning to'plami
+====
+Operatsion tizimning asosiy qismi
+====
+Jarayonlarni boshqarish uchun ishlatiladigan vosita
+++++
+Qaysi tarmoq protokoli jarayonlarni boshqaradi?
+====
+FTP
+====
+TCP/IP
+====
+HTTP
+====
+#POSIX Threads 
+++++
+Oqim nima?
+====
+Jarayonning kelajagi
+====
+Jarayonning qattiq ish vaqti
+====
+#Jarayonlar o'rtasidagi aloqa 
+====
+Jarayonning asosiy xususiyati
+++++
+Qaysi dasturlash tili ishlatilganda jarayonlarni boshqarish osonroq bo'ladi?
+====
+C++
+====
+Assembly
+====
+Python
+ ====
+#Java 
+++++
+Jarayonlar va oqimlar nima uchun ishlatiladi?
+====
+#Ishni qisqa vaqt ichida bajarish 
+====
+Fayllarni o'chirish uchun
+====
+Dastur ishga tushirildigida dastur boshqaruvchisi tomonidan ajratilgan yoki bajarilgan kerakli qo'llanma
+====
+Dastur o'zini boshqarish uchun
+++++
+Qanday jarayonlar avtomatik ravishda ishga tushiriladi?
+====
+Ishlab chiqarish yoki bajarish
+====
+#Ishlab chiqarish va mavjud bo'lgan jarayonlardan biri bajarilganiga qarab 
+====
+Fayllar yuklanib tashlanishi
+====
+Jarayonlarni qo'shish orqali
+++++
+"Concurrency" nima?
+====
+Bir nechta dasturlarni bir vaqtning o'zida ishga tushirish
+====
+Fayllarni bitta qovurug'da saqlash
+====
+Foydalanuvchi interfeysini boshqarish
+====
+#Jarayonlar orasidagi boshqaruv 
+++++
+Qanday usullar orqali oqimlarni boshqarish mumkin?
+====
+Ma'lumotlarni to'plab-quvvatlash
+====
+Ishni qisqa vaqt ichida bajarish
+====
+#Bir nechta dasturlarni bir vaqtning o'zida ishga tushirish 
+====
+Foydalanuvchi interfeysi yaratish
+++++
+Java dasturlash tilida jarayonlar va oqimlar qanday implementatsiya qilinadi?
+====
+#Runnable interfeysi va Thread klassi yordamida 
+====
+Mutex va Semaphore orqali
+====
+Assembly tilida
+====
+C++ dasturlash tilida
+++++
+Qaysi til asosan jarayonlar va oqimlarni boshqarishga mo'ljallangan?
+====
+Assembly
+====
+C++
+====
+#Java 
+====
+Python
+++++
+"Multithreading" nima?
+====
+#Bir nechta dasturlarni bir vaqtning o'zida ishga tushirish 
+====
+Jarayonlarni boshqarish uchun vosita
+====
+Dastur ishga tushirildigida dastur boshqaruvchisi tomonidan ajratilgan yoki bajarilgan kerakli qo'llanma
+====
+To'g'ri javob berilmagan
+++++
+"Deadlock" nima?
+====
+Jarayonlar orasidagi boshqaruv
+====
+Ishni qisqa vaqt ichida bajarish
+====
+#Qilib qo'yilgan ishni bajarishdan oldin o'zaro bog'lanib qolish holati 
+====
+Jarayonning kelajagi
+++++
+"Race condition" nima?
+====
+Bir nechta dasturlarni bir vaqtning o'zida ishga tushirish
+====
+Qilib qo'yilgan ishni bajarishdan oldin o'zaro bog'lanib qolish holati
+====
+#Oqimlar orasidagi tartibning aniqlanmagan holati 
+====
+Fayllarni bitta qovurug'da saqlash
+++++
+Qaysi dasturlash tillarida jarayonlar va oqimlar (threads) boshqariladi?
+====
+Assembly
+====
+Python
+====
+C++
+====
+#$Barcha variantlar 
+++++
+Qanday usullar orqali jarayonlar (threads) yaratiladi?
+====
+Extending Thread klassi yordamida
+====
+Implementing Runnable interfeys orqali
+====
+Kotlin tilida
+====
+#Barchasi to'g'ri 
+++++
+Java dasturlash tilida "synchronized" kalit so'z nima uchun ishlatiladi?
+====
+Kodning ishlash davridagi xatoliklarni tekshirish uchun
+====
+Jarayonlarni ko'paytirish uchun
+====
+#Kritik bo'lgan kod qatorlarini (kritik bo'lgan qism) himoya qilish uchun 
+====
+Fayllarni bitta qovurug'da saqlash
+++++
+"Race condition" nima?
+====
+Bir nechta jarayonning bitta resursni bir vaqtning o'zida ishlatishi
+====
+Ishni qisqa vaqt ichida bajarish
+====
+O'zaro bog'liqlik
+====
+#To'g'ri javob berilmagan
+++++
+Qaysi belgilar "Deadlock" yuzaga kelishini ko'rsatadi?
+====
+Jarayonlar orasidagi aloqa
+====
+Kritik bo'lgan kod qatorlarining bir vaqtning o'zida ishlatilishi
+====
+Har bir jarayon o'zining resurslariga erishib bo'lmaydi
+====
+#To'g'ri javob berilmagan 
+++++
+"Mutex" va "Semaphore" orasidagi asosiy farq nima?
+====
+#"Mutex" faqat bitta jarayon tomonidan egallanadi, "Semaphore" esa bir nechta jarayonlarga ruxsat beradi 
+====
+"Mutex" kritik bo'lgan kod qatorlarini himoya qiladi, "Semaphore" esa kritik bo'lgan kod qatorlariga ruxsat beradi
+====
+"Mutex" Java dasturlash tili uchun ishlatiladi, "Semaphore" esa C++ dasturlash tiliga mos ravishda
+====
+"Mutex" kuchli mutexlarni, "Semaphore" esa oddiy mutexlarni egallaydi
+++++
+Java dasturlash tilida "wait()" va "notify()" metodlari nima uchun ishlatiladi?
+====
+Jarayonlarning tugashini kuzatish uchun
+====
+Jarayonlarni to'xtatish va qaytarish uchun
+====
+#Jarayonlar orasidagi aloqani o'chirish va boshqarish uchun 
+====
+Ishni bajarish vaqtini o'chirish uchun
+++++
+"Starvation" nima?
+====
+Jarayonlar orasidagi aloqani buzish
+====
+Jarayonning kelajagi
+====
+#Bir nechta jarayonlarning bitta jarayonning qatnashishini kutishi 
+====
+Ishni bajarish vaqtini o'chirish
+++++
+Kotlin dasturlash tilida "Coroutine" nima uchun ishlatiladi?
+====
+Ishni bajarish vaqtini o'chirish
+====
+Jarayonlarni to'xtatish va qaytarish
+====
+#Ishni yengil va samarali qilish uchun 
+ ====
+Kritik bo'lgan kod qatorlarini himoya qilish
+++++
+"Concurrency" va "Parallelism" o'rtasidagi farq nima?
+====
+Bir nechta dasturlarni bir vaqtning o'zida ishga tushirish
+====
+Ishni bajarish vaqtini o'chirish
+====
+#"Concurrency" bir vaqtning o'zida bir nechta dasturlarni bajarishni ta'minlash, "Parallelism" esa bir nechta dasturni bir vaqtning o'zida ishga tushirish 
+====
+Fayllarni bitta qovurug'da saqlash
+++++
+Jarayonlarning ("threads") "daemon" bo'lishi nima ma'noni anglatadi?
+====
+Bu jarayonlar o'zgaruvchilarni o'zlashtirish uchun ishlatiladi
+====
+#Bu jarayonlar faqat boshqa jarayonlarga xizmat qiladi va asosiy dastur tugab qolishidan oldin o'chadi 
+====
+Bu jarayonlar aloqa protokollari uchun ishlatiladi
+====
+Bu jarayonlar qurilmaga xizmat qiladi
+++++
+Qaysi belgi "ConcurrentModificationException" yuzaga kelishining sababi bo'lishi mumkin?
+====
+"Mutex" xatoligi
+====
+"Deadlock"
+====
+#Bitta qatorning bir vaqtning o'zida bir nechta jarayonlar tomonidan o'zgartirilishi 
+====
+Faylni bitta qovurug'da saqlash
+++++
+Operatsion tizimlar qanday qilib xotirani boshqarishadi?
+====
+Faqat hard disk orqali
+====
+#RAM va disk orqali 
+====
+Faqat RAM orqali
+====
+Protsessor orqali
+++++
+Qaysi xotira modeli operatsion tizimlar uchun eng muhimdir?
+====
+L1 cache
+====
+#RAM 
+====
+L2 cache
+====
+Hard disk
+++++
+Xotiradagi malumotlar qanday shakllantiriladi?
+====
+#Raqamli ko'rsatkichlar 
+====
+Matnlar
+====
+Sonli ketma-ketliklar
+====
+To'g'ri javob berilmagan
+++++
+Xotira qanday tartibda yoziladi va o'qiladi?
+====
+#Biror tartibda (random access) 
+====
+Yopiq joylashuvda (sequential access)
+====
+Tanlangan tartibda
+====
+To'g'ri javob berilmagan
+++++
+Qaysi xotira turi tez yoziladi va o'qiladi?
+====
+#RAM 
+====
+SSD
+====
+Hard disk
+====
+ROM
+++++
+Qaysi xotira turi qayta yozishga imkon beradi?
+====
+RAM
+====
+#SSD 
+====
+ROM
+====
+Cache
+++++
+"Virtual Memory" nima uchun ishlatiladi?
+====
+Ommaviy foydalanuvchilar uchun xotira
+====
+Kengaytirilgan xotira mavjud emasligi uchun
+====
+#Xotira qo'shimcha sifatida ishlatiladi 
+====
+To'g'ri javob berilmagan
+++++
+Qaysi xotira turi operatsion tizimdagi barcha ish vaqtida ishlatiladi?
+====
+SSD
+====
+#RAM 
+====
+Cache
+====
+ROM
+++++
+Xotira kiritsa yoki chiqqanda qaysi amallar bajariladi?
+====
+CPU
+====
+BIOS
+====
+#Xotira kontrol birliklari 
+====
+Kuchi bloklar
+++++
+Qaysi tizimlar barcha xotira bo'shlig'ini to'ldiradi?
+====
+Windows
+====
+macOS
+====
+Linux
+====
+Barchasi to'g'ri 
+++++
+Xotira bo'shlig'ini tekshirish uchun qaysi amal bajariladi?
+====
+Defragmentatsiya
+====
+Diskni formatlash
+====
+Xotirani qoldiruvchi fayllarni o'chirish
+====
+#Diskdiagnostika dasturi 
+++++
+Qaysi xotira turi energiya taqsimotlarini yaxshilaydi?
+====
+SSD
+====
+RAM
+====
+#Hard disk 
+====
+ROM
+++++
+Xotira birligi nima?
+====
+Bit
+====
+#Byte 
+====
+Kilobayt
+====
+Gigabayt
+++++
+Qaysi xotira turi barcha operatsion tizimlar tomonidan qo'llaniladi?
+====
+RAM
+====
+Cache
+====
+ROM
+====
+#To'g'ri javob berilmagan 
+++++
+Xotira diskining yetarli bo'lishini aniqlash uchun qaysi amal bajariladi?
+====
+Defragmentatsiya
+====
+Diskni formatlash
+====
+#Diskdiagnostika dasturi 
+====
+Xotirani qoldiruvchi fayllarni o'chirish
+++++
+Fayl tizimi nima?
+====
+Foydalanuvchi interfeysi
+====
+Fayllarni saqlash uchun tizim
+====
+Xotira turi
+====
+#To'g'ri javob berilmagan
+++++
+Qaysi tizimlar fayllarni boshqarish uchun o'zgaruvchilarni o'zlashtiradi?
+====
+Windows
+====
+DOS
+====
+#Unix/Linux 
+====
+To'g'ri javob berilmagan
+++++
+"Root directory" nima?
+====
+Qaynatilgan katalog
+====
+Tizim katalogi
+==== 
+Barcha fayllarning saqlangan joyi
+====
+#Bosh katalog yoki kataloglar eyrarxiyasi boshidan iborat katalog 
+++++
+"Path" nima?
+====
+Faylning kengaytmasi
+====
+Faylning nomi
+====
+Faylni joylashuvi
+====
+#Faylni joylashuvi va nomi 
+++++
+Fayl tizimida qaysi qism faqat bir faylni ishlatish mumkin?
+====
+#Sektor 
+====
+Kesh (cache)
+====
+Blok
+====
+Fayl katalogi
+++++
+Qaysi fayl tizimlari bir qurilmadan boshqa qurilma uchun ishlatiladi?
+====
+NTFS
+====
+FAT32
+====
+NFS
+====
+#NFS va CIFS 
+++++
+Qaysi amal barcha fayl tizimlarida amalga oshiriladi?
+====
+Fayllarni ochish
+====
+Fayllarni yuklash
+====
+#Fayllarni o'chirish 
+====
+To'g'ri javob berilmagan
+++++
+Qaysi fayl tizimi operatsion tizimlarda fayllarni jo'natish va qabul qilishni boshqaradi?
+====
+NFS
+====
+FTP
+====
+SMTP
+====
+#FTP va HTTP 
+++++
+Qaysi fayl tizimi ko'p foydalanuvchilarni bitta faylga kirish vaqtini ta'minlash uchun ishlatiladi?
+====
+NFS
+====
+FTP
+====
+#CIFS 
+====
+HTTP
+++++
+Qaysi fayl tizimi fayllarni shifrlash uchun ishlatiladi?
+====
+NTFS
+====
+FAT32
+====
+Ext4
+====
+#NTFS va Ext4 
+++++
+Qaysi fayl tizimi boshqa tarmoqlarga fayllarni uzatish uchun ishlatiladi?
+====
+#NFS 
+====
+FAT32
+====
+NTFS
+====
+Ext4
+++++
+Qaysi fayl tizimi boshqa tarmoqlardan fayllarni yuklash uchun ishlatiladi?
+====
+NFS
+====
+#FTP 
+====
+SMTP
+====
+HTTP
+++++
+Qaysi fayl tizimi boshqa foydalanuvchilar bilan fayllarni o'zaro almashish uchun ishlatiladi?
+====
+NTFS
+====
+FAT32
+====
+#CIFS 
+====
+NFS
+++++
+Qaysi fayl tizimi Linux operatsion tizimida standart tizimlashtirish sifatida o'rnatilgan?
+====
+FAT32
+====
+NTFS
+====
+#Ext4 
+====
+NFS
+++++
+Bulutli hisoblash nima?
+====
+Yer ostida foydalanuvchilarga ma'lumotlar ombori taqdim etish
+====
+Yer ostida foydalanuvchilarga xizmat taqdim etish
+====
+#Internet orqali xizmatlarni taqdim etish 
+====
+Shaxsiy ma'lumotlar uchun xususiy onlayn saqlash
+++++
+"IaaS" qisqartmasi nima anglatadi?
+====
+Infrastruktura xizmatlari provayderi
+====
+#Xizmatni ta'minlash 
+====
+Identifikatsiya va autentifikatsiya xizmatlari
+====
+Axborot xavfsizligi tizimlari
+++++
+"SaaS" qisqartmasi nima ma'noni anglatadi?
+====
+Platforma xizmatlari provayderi
+====
+Identifikatsiya va autentifikatsiya xizmatlari
+====
+#Dasturani xizmat sifatida taqdim etish 
+====
+Shaxsiy ma'lumotlarni qo'llash xizmatlari
+++++
+"PaaS" qisqartmasi nima ma'noni anglatadi?
+====
+#Platforma xizmatlari provayderi 
+====
+Infrastruktura xizmatlari provayderi
+====
+Xizmatni ta'minlash
+====
+Axborot xavfsizligi tizimlari
+++++
+Qaysi tizimlar bulutli hisoblash uchun xizmat taqdim etadi?
+====
+Amazon Web Services (AWS)
+====
+Microsoft Azure
+====
+Google Cloud Platform (GCP)
+====
+#Barchasi to'g'ri 
+++++
+Bulutli hisoblashda ishlab chiqarish (production) tizimlarini boshqarish uchun qaysi xizmatlar ishlatiladi?
+====
+CI/CD (Continuous Integration/Continuous Deployment) xizmatlari
+====
+#Container orchestration xizmatlari (masalan, Kubernetes) 
+====
+Fayl tizimlari
+====
+To'g'ri javob berilmagan
+++++
+Qaysi tizim bulutli hisoblashda xavfsizlikni ta'minlaydi?
+====
+SSL/TLS shifrlash
+====
+SSH autentifikatsiyasi
+====
+End-to-end shifrlash protokollari
+====
+#Barchasi to'g'ri 
+++++
+"Elasticity" qanday tushunchani anglatadi?
+====
+Tarmoqni o'zgartirish
+====
+#Xizmatlarning qo'shilishi yoki kamayishi bo'yicha o'zgarishlarga ta'sir qilish  
+====
+Kuchli zaxiralarni qo'shish
+====
+To'g'ri javob berilmagan
+++++
+Bulutli hisoblashda monitoring qanday o'tkaziladi?
+====
+#Real vaqt monitoring 
+====
+Manual monitoring
+====
+Statistical monitoring
+====
+To'g'ri javob berilmagan
+++++
+"Serverless" model nima uchun ishlatiladi?
+====
+#Xizmatni ta'minlash
+====
+Xizmatlar uchun avtomatlashtirilgan ma'lumotlar ombori 
+====
+Xizmat sifatida ishlatish
+====
+Xizmatning qo'shilishi va kamayishi
+++++
+"Hybrid Cloud" nima?
+====
+Bir nechta bulut xizmatlarining bir qismi
+====
+#On-premises va bulut xizmatlarining birgalikda ishlatilishi 
+====
+Bulutli xizmatlar uchun hybrid identifikatsiya
+====
+To'g'ri javob berilmagan
+++++
+Qaysi bulut provayder "Lambda" xizmatini taklif qiladi?
+====
+#AWS (Amazon Web Services) 
+====
+Azure
+====
+GCP (Google Cloud Platform)
+====
+IBM Cloud
+++++
+"Edge Computing" nima uchun ishlatiladi?
+====
+Ma'lumotlarni qo'llash
+====
+Avtomatlashtirish
+====
+Batareya quvvatlanish
+====
+#Kuchli hisoblash kuchlarini yaqin xostinglarda ishlatish 
+++++
+Bulutli hisoblashda ma'lumotlar qanday muhofaza qilinadi?
+====
+#Shifrlangan bog'lamalar 
+====
+Ma'lumotlar bazalari
+====
+Kanallar tomonidan shifrlangan ma'lumotlar
+====
+Barchasi to'gri
+++++
+Xavfsizlik qanday tushunchani anglatadi?
+====
+Ma'lumotlarni yo'q etish
+====
+#Ma'lumotlarni muhofaza qilish 
+====
+Ma'lumotlarni o'chirish
+====
+To'g'ri javob berilmagan
+++++
+Operatsion tizimlarda xavfsizlikni ta'minlash uchun qaysi turdagi vositalar ishlatiladi?
+====
+#Antivirus dasturlar 
+====
+Multimedia ijrochi dasturlar
+====
+Kompilyatorlar
+====
+Internet brauzerlar
+++++
+"Firewall" nima uchun xizmat qiladi?
+====
+Internet ulanishlarini nazorat qilish
+====
+To'xtatilgan dasturlarni boshqarish
+====
+Tarmoq trafikini filtrlash va nazorat qilish 
+====
+O'zgarmas vaqtida ishlovchi dasturlar
+++++
+Xavfsizlik tizimlarida "Denial of Service (DoS)" lar qanday ta'sir qiladi?
+====
+Sistem resurslarini qat'iy to'ldirish
+====
+Ma'lumotlarni o'chirish
+====
+Tarmoqni bo'lish
+====
+#To'g'ri javob berilmagan
+++++
+"Phishing" nima?
+====
+Xavfsizlik o'chish
+====
+#Foydalanuvchilarni shaxsiy ma'lumotlarni bermaslik uchun qilinayotgan texnik xato 
+ ====
+Tarmoqni ta'sirga olish
+ ====
+To'g'ri javob berilmagan
+++++
+Qaysi dasturlash tilida xavfsizlik uchun eng ko'p ishlatiladigan yondosh xususiyatlar mavjud?
+====
+Python
+====
+Java
+====
+C++
+====
+#To'g'ri javob berilmagan
+++++
+"Malware" nima?
+====
+Ma'lumotlarni yo'q etish
+====
+#Komp'yuterlarga zarar yetkazadigan maxsus dasturlar 
+====
+Dasturlar
+====
+To'g'ri javob berilmagan
+++++
+"Ransomware" nima?
+====
+Foydalanuvchilarni shaxsiy ma'lumotlarni bermaslik uchun qilinayotgan texnik xato
+====
+Ma'lumotlarni yo'q etish
+====
+Ma'lumotlarni qulonboshqa bermoqchi bo'lgan texnik xato
+====
+#Ma'lumotlarni muhofaza qilish 
+++++
+Xavfsizlik o'chishlariga qarshi qaysi ilovalar qo'llaniladi?
+====
+Antivirus dasturlar
+====
+Firewall dasturlar
+====
+Virtual Private Networks (VPN)
+====
+#Barchasi to'g'ri 
+++++
+"Two-Factor Authentication (2F" nima uchun qo'llaniladi?
+====
+O'zlashtirilgan autentifikatsiya jarayoni 
+====
+Dasturlar o'rnatilganda
+ ====
+Tarmoq xavfsizligi uchun
+ ====
+To'g'ri javob berilmagan
+++++
+"Patch" nima?
+====
+Dasturni o'chirish
+====
+Xavfsizliklarni ta'minlash uchun ishlab chiqilgan batareya
+====
+Ommaviy o'tkazmalar
+====
+#Xavfsizlik tizimlarini yangilash uchun berilgan dasturlar 
+++++
+Xavfsizlik uchun qanday uskunalar ishlatiladi?
+====
+Antivirus dasturlar
+====
+Firewall sozlamalari
+====
+Virtual Private Networks (VPN)
+====
+#Barchasi to'g'ri 
+++++
+"Phishing" qanday tarzda o'tadi?
+====
+Ma'lumotlar bazasi sozlamalari
+====
+Foydalanuvchilarni xatoliklarini aniqlash
+====
+#Foydalanuvchilarni shaxsiy ma'lumotlarni bermaslik uchun qilinayotgan texnik xato 
+====
+To'g'ri javob berilmagan
+++++
+Xavfsizlikni ta'minlash uchun qaysi maslahatlar foydalaniladi?
+====
+Ma'lumotlar to'g'risidagi qonun
+====
+Antivirus dasturlar sozlamalari
+====
+Firewall sozlamalari
+====
+#Barchasi to'g'ri 
+++++
+"Antivirus" dasturini qanday ishlatish mumkin?
+====
+Ma'lumotlarni yo'q etish uchun
+====
+#Ma'lumotlarni muhofaza qilish uchun 
+====
+Internetga ulanish uchun
+====
+To'g'ri javob berilmagan
+++++
+Xavfsizlikning asosiy aspektlari nimalardan iborat?
+====
+Nomi
+====
+#Konfidensiallik, integritet, va xavfsizlik 
+ ====
+Ommaviylik
+====
+To'g'ri javob berilmagan
+++++
+"Social Engineering"ga misol qaysi variantda kiritilgan?
+====
+Foydalanuvchi shaxsiy ma'lumotlarini olish
+====
+Antivirus sozlamalari
+====
+Firewall sozlamalari
+====
+#Barchasi to'g'ri 
+++++
+Ma'lumotlar bazasi ta'siri nima?
+====
+Ma'lumotlarni yo'q etish
+====
+Ma'lumotlar bazasiga kirishni qo'llab-quvvatlash
+====
+Ma'lumotlarni muhofaza qilish 
+====
+To'g'ri javob berilmagan
+++++
+Xavfsizlikka tegishli ma'lumotlarni muhofaza qilish uchun qaysi turdagi dasturlardan foydalaniladi?
+====
+Virtual Private Networks (VPN)
+====
+Antivirus dasturlar
+====
+#Cryptography dasturlari 
+====
+To'g'ri javob berilmagan
+++++
+Qanday xavfsizlik usullari xavfsizlik yopilishiga qarshi himoya ta'minlaydi?
+====
+#"Data Encryption" va "Regular Backups" 
+====
+"Social Engineering" va "Phishing"
+====
+"Malware" va "Ransomware"
+====
+To'g'ri javob berilmagan
+++++
+Xavfsizlik bo'yicha maxsus agentlar nima qiladi?
+====
+Dasturlarni muhofaza qiladi
+====
+Foydalanuvchilarni xatoliklarini aniqlash
+====
+Tarmoqni nazorat qiladi
+====
+#Barchasi to'g'ri 
+++++
+"Encryption" nima uchun qo'llaniladi?
+====
+Ma'lumotlarni o'chirish
+====
+Ma'lumotlarni muhofaza qilish uchun 
+====
+Tarmoqni nazorat qilish
+====
+To'g'ri javob berilmagan
+++++
+Ma'lumotlarni uzoq yo'l orqali jo'natish paytida qaysi xavfsizlik protokollari ishlatiladi?
+====
+#SSH (Secure Shell) 
+====
+FTP (File Transfer Protocol)
+====
+HTTP (HyperText Transfer Protocol)
+====
+To'g'ri javob berilmagan
+++++
+Unix nima?
+====
+Operatsion tizim oilasi
+====
+Dasturlash tili
+====
+Har bir Operatsion tizim
+====
+#To'g'ri javob berilmagan
++++++
+Unixning birinchi versiyasi qachon ishlab chiqilgan?
+====
+1969-yil
+====
+1970-yil
+====
+#1971-yil 
+====
+1980-yil
+++++
+Unix dasturini kim ishlab chiqdi?
+====
+Bill Gates
+====
+Linus Torvalds
+====
+#Ken Thompson va Dennis Ritchie 
+====
+Tim Berners-Lee
+++++
+Unixning qanday asosiy tarmoq protokollari bor?
+====
+#TCP/IP 
+====
+UDP
+====
+HTTP
+====
+FTP
+++++
+Unixda amalga oshirilgan dasturlar qaysi tilida yoziladi?
+====
+#C va C++ 
+====
+Java
+====
+Python
+====
+JavaScript
+++++
+Unixda "Shell" nima?
+====
+Grafik interfeys
+====
+Terminal dasturi
+====
+#Dastur boshqaruv tili 
+====
+Dasturlash tili
+++++
+Unixda foydalanuvchilar uchun yordamchi dastur qanday nomlanadi?
+====
+Bash
+====
+Terminal
+====
+#Man 
+====
+Shell
+++++
+Qaysi Unix varianti tanqidiy va yopiq manbalarni ishlatadi?
+====
+Linux
+====
+macOS
+====
+FreeBSD
+====
+#Barchasi to'g'ri 
+++++
+Unixda barcha fayllar qanday yo'lovda o'rnatingan?
+====
+#Hierarchical 
+====
+Sequential
+====
+Random
+====
+Network
+++++
+Unixda komandalar va fayllar qanday nomlanadi?
+====
+Katta harflar bilan
+====
+Kichik harflar bilan
+====
+Hamma harflar katta
+====
+#To'g'ri javob berilmagan 
+++++
+Unix fayl tizimi nima?
+====
+Fayllar uchun format
+====
+#Fayllar strukturasi 
+====
+Fayllar uchun ko'rsatkichlar
+====
+To'g'ri javob berilmagan
+++++
+Unix fayl sistemasida maxsus fayl nomlari qanday uzatiladi?
+====
+.txt
+====
+.exe
+====
+#.conf 
+====
+.html
+++++
+Unixda foydalanuvchilar va guruhlar qanday boshqariladi?
+====
+#/etc/passwd va /etc/group fayllari orqali 
+====
+Man komandasidan foydalanish orqali
+====
+Terminal yordamida faqat
+====
+To'g'ri javob berilmagan
+++++
+Android Operatsion tizimi qanday kompaniya tomonidan ishlab chiqilgan?
+====
+#Google 
+====
+Apple
+====
+Microsoft
+====
+Samsung
+++++
+Android Operatsion tizimida qanday dasturlash tilidan foydalaniladi?
+====
+#Java 
+====
+C++
+====
+Python
+====
+Swift
+++++
+Android Operatsion tizimi qanday tarmoq protokollarini qo'llab-quvvatlaydi?
+===
+#TCP/IP 
+====
+UDP
+====
+HTTP
+====
+FTP
+++++
+Android dasturlarini qanday yo'l orqali yuklab olish mumkin?
+====
+#Google Play Store orqali 
+====
+App Store orqali
+====
+Microsoft Store orqali
+====
+To'g'ri javob berilmagan
+++++
+Android Operatsion tizimida foydalanuvchilar haqida ma'lumotlar qanday saqlanadi?
+====
+/etc/passwd faylida
+====
+/etc/group faylida
+====
+#SQLite bazasida 
+====
+/home faylida
+++++
+Android Operatsion tizimi qaysi Linux arxitekturasi asosida yaratilgan?
+====
+Debian
+====
+Ubuntu
+====
+#Linux Kernel 
+====
+Fedora
+++++
+Android ilovalarini yaratish uchun qaysi dasturlash vositasi ishlatiladi?
+====
+#Android Studio 
+====
+Xcode
+====
+Visual Studio
+====
+Eclipse
+++++
+Android Operatsion tizimi qanday fayl tizimini qo'llab-quvvatlaydi?
+====
+FAT32
+====
+NTFS
+====
+#ext4 
+====
+HFS+
+++++
+Android Operatsion tizimida yordamchi dasturlar qanday nomlanadi?
+====
+APK
+====
+AAR
+====
+AIDL
+====
+#AOSP 
+++++
+Android ilovalarini yaratish uchun Android SDK-da nima kerak?
+====
+Java Development Kit (JDK)
+====
+Android Virtual Device (AV
+====
+Android Debug Bridge (AD
+====
+#Barchasi to'g'ri 
+++++
+Android ilovasini qanday shakllantirish uchun XML-ni qo'llab-quvvatlaydi?
+====
+Ma'lumotlar saqlash uchun
+====
+Foydalanuvchining interfeysini shakllantirish uchun 
+====
+Dastur logikalari uchun
+====
+Ma'lumotlar bazasini qo'llab-quvvatlash uchun
+++++
+Android Operatsion tizimida foydalanuvchilar tomonidan o'rnatilgan ilovalar qaysi direktoriyada saqlanadi?
+====
+/system/apps
+====
+/data/apps
+====
+/system/bin
+====
+#/data/app 
+++++
+Android ilovasi o'rnatilganda qaysi fayl turi ishlatiladi?
+====
+#.apk 
+====
+.exe
+====
+.ipa
+====
+.dmg
+++++
+Android ilovalari qanday interfeyslarni qo'llab-quvvatlaydi?
+====
+#GUI (Graphical User Interface) 
+====
+CLI (Command Line Interface)
+====
+TUI (Text User Interface)
+====
+API (Application Programming Interface)
+++++
+Android operatsion tizimi qanday arxitektura asosida yaratilgan?
+====
+x86 arxitekturasi
+====
+#ARM arxitekturasi 
+====
+MIPS arxitekturasi
+====
+PowerPC arxitekturasi
+++++
+Operatsion tizim nima uchun mo'ljallangan?
+====
+#Qurilmalarni boshqarish resurslarini boshqarish va dasturlarga xizmat ko'rsatish 
+====
+Dastur dasturlarini yaratish
+====
+Foydalanuvchi interfeyslarini dizayn qilish
+====
+Tarmoqlarni so'nggi saqlash
+++++
+Operatsion tizimning qanday qismi tizim resurslarini boshqarish va dasturlarga platforma taqdim etishga mas'ul?
+====
+#Kernel 
+====
+Shell
+====
+Kompilyator
+====
+Fayl tizimi
+++++
+Operatsion tizimdagi CPU nima bilan shug'ullanadi?
+====
+#Protsesslarga tizim resurslarini taqsimlash 
+====
+Fayl ruxsatlarini boshqarish
+====
+Tarmoqlarni o'rnatish
+====
+Manba kodi yig'ish
+++++
+UNIX-shakl operatsion tizimlarida 'chmod' buyrug'ining vazifasi nima?
+====
+Katalogni o'zgartirish
+====
+#Fayl ruxsatlarini o'zgartirish 
+====
+Yangi faylni yaratish
+====
+Tizim ma'lumotlarini ko'rsatish
+++++
+Virtual xotira nima?
+====
+Operatsion tizim tomonidan ishlatiladigan fizik xotira
+====
+#RAM sifatida disk maydonini ishlatadigan xotira boshqaruv usuli 
+====
+Virtual realitet dasturlari uchun o'rnatilgan xotira
+====
+Virtual mashinada ajratilgan xotira maydoni
+++++
+Qaysi operatsion tizim Linux kerneliga asoslangan va asosiy ravishda smartfonlar va planshetlarda ishlatiladi?
+====
+Windows
+====
+macOS
+====
+#Android 
+====
+iOS
+++++
+Operatsion tizim haqida "RAID" nima deb ataladi?
+====
+#O'zaro bog'liqli disklar qatorining o'zgarishi 
+====
+Tavakkal qo'llash mumkin bo'lmagan moslamalar
+====
+Yordamchi kataloglar va qayta yaratish maydonlari
+===
+Uzoq muddatli nusxalar bilan ishlovchi disklar
+++++
+UNIX-shakl operatsion tizimlardagi "grep" buyrug'ining asosiy vazifasi nima?
+====
+#Fayllarda matn shablonlarini qidirish 
+====
+Tizim ish vaqti
+====
+Fayllarni arxivlash
+====
+Kataloglarni suratga olish
