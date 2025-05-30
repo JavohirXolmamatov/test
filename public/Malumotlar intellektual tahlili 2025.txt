@@ -1,0 +1,2459 @@
+Ma'lumotlar intellektual tahlili
+"Intellekt" so'zi qaysi so'zdan olingan va qanday ma'noni bildiradi?:
+====
+# Lotincha "intellye?tuz" so'zidan kelib chiqqan bo'lib, u bilish (aniqlash), tushunish yoki fahmlash (aql) ma'nosini bildiradi.
+====
+Grekcha "intellestio" so'zidan kelib chiqqan bo'lib, idrok qilish, tushunish, xulosa qilish yoki fahmlash ma'nosini bildiradi
+====
+Yunoncha "intellyestuz" so'zidan kelib chiqqan bo'lib, idrok qilish, bilish, tushunish, xulosa qilish ma'nosini bildiradi
+====
+Inglizcha "intellyes" so'zidan kelib chiqqan bo'lib, idrok qilish, tushunish, xulosa qilish yoki fahmlash ma'nosini bildiradi.
+++++
+"Intellekt" nima?:
+====
+# Intellekt - fikrlash qobiliyati, rasional bilish, shaxsni aqliy rivojlanishi, o'z xulqini sozlash yo'li bilan har qanday (ayniqsa yangi) holatga yetarli baho berish qobiliyati, turmushdagi dalillar o'rtasidagi o'zaro bog'liqlikni tushunish qobiliyati.
+====
+Intellekt - o'ylash, xulosa qilish, fikrlash, baho berish qobiliyati, turli xil masalalarni yecha olish qobiliyati
+====
+Intellekt - fikrlash qobiliyati, aqliy rivojlanish, tevarak atrofni idrok qila olish qobiliyati, turmushdagi dalillar o'rtasidagi o'zaro bog'liqlikni tushunish qobiliyati.
+====
+Intellekt - aqliy rivojlanish, bilish, fikrlash, har qanday holatga yetarli baho berish qobiliyati, turli xil muammolarni yechish va xulosa qilish qobiliyati
+++++
+"Intellekt" nima?:
+====
+# Barcha javoblar to'g'ri
+====
+Intellekt - fikrlash qobiliyati, rasional bilish va shunga o'xshash. Umumiy holda esa fikrlash, shaxsni aqliy rivojlanishi sinonimi bo'lib xizmat qiladi
+====
+Intellekt (aql) - o'z xulqini sozlash yo'li bilan har qanday (ayniqsa yangi) holatga yetarli baho berish qobiliyati
+====
+Intellekt- turmushdagi dalillar o'rtasidagi o'zaro bog'liqlikni tushunish qobiliyati. Bu qobiliyat belgilangan maqsadga erishishga olib boruvchi harakatlarni ishlab chiqish uchun kerak bo'ladi
+++++
+Sun'iy intellekt usullarini rivojlantirishning birinchi bosqichida nimalar asosiy tadqiqot maydoni hisoblangan?:
+====
+# Turli xil o'yinlar, boshqotirmalar va matematik masalalar
+====
+Fizikaviy va kimyoviy masalalar, tasvirlarni tanish masalalari
+====
+Tabiiy tilda ma'lumotlarni qayta ishlash, matematik masalalar, adaptiv dasturlash
+====
+Mashinada musiqalarni bastalash, fizik masalalar, o'yinlar
+++++
+Android nima?:
+====
+# Sun'iy (mexanik) odamcha
+
+====
+Intellektual EHM
+====
+Yuqori intellektga ega bo'lgan shaxs
+====
+Insonga o'xshash robot
+++++
+"Robot" termini qaysi tildagi so'zdan olingan va qanday ma'noni anglatadi?:
+====
+#"robot" degan chex so'zidan olingan bo'lib, odamzodga o'xshab harakat qiluvchi mashina degan ma'noni anglatadi
+====
+Inglizcha "robot" so'zidan olingan bo'lib, sun'iy odam degan ma'noni anglatadi
+====
+Lotincha"robotic" mexanik odam degan ma'noni anglatadi
+====
+Yunoncha "robot" so'zidan olingan bo'lib, intellektual mashina degan ma'noni bildiradi
+++++
+Birinchi avlod robotlarning xarakterli belgilari nima?:
+====
+# Oldindan berilgan aniq harakatlarni bir xil tarzda takrorlay olishi.
+====
+Ko'rish, eshitish, his qilish kabi texnik a'zolar bilan jixozlanganligi
+====
+Tashqi dunyoni modellashtira olish qobiliyati, tashqi dunyoni o'zining xotirasida aks ettirishi, tashqi muhit qonuniyatlarini tahlil qilishi.
+====
+Kiritilgan masalaning dasturini avtomatik hosil qilish qobiliyati
+++++
+Ikkinchi avlod robotlarning xarakterli belgilari nima?:
+====
+# Ko'rish, eshitish, his qilish kabi texnik a'zolar bilan jixozlanganligi
+====
+Oldindan berilgan aniq harakatlarni bir xil tarzda takrorlay olishi.
+====
+Tashqi dunyoni modellashtira olish qobiliyati, tashqi dunyoni o'zining xotirasida aks ettirishi, tashqi muhit qonuniyatlarini tahlil qilishi.
+====
+Kiritilgan masalaning dasturini avtomatik hosil qilish qobiliyati
+++++
+Uchinchi avlod robotlarning xarakterli belgilari nima?:
+====
+# Tashqi dunyoni modellashtira olish qobiliyati, tashqi dunyoni o'zining xotirasida aks ettirishi, tashqi muhit qonuniyatlarini tahlil qilishi.
+====
+Oldindan berilgan aniq harakatlarni bir xil tarzda takrorlay olishi
+====
+Ko'rish, eshitish, his qilish kabi texnik a'zolar bilan jixozlanganligi
+====
+Kiritilgan masalaning dasturini avtomatik hosil qilish qobiliyati
+++++
+Intellektual axborot - qidiruv tizimlari qanday vazifalarni bajaradi?:
+====
+# EHM bilan muloqot jarayonida foydalanuvchilarning tabiiy tilga yaqin bo'lgan kasb tillarida so'nggi foydalanuvchilar (programma tuzmaydiganlar) bilan ma'lumotlar, bilimlar manbalari o'rtasida o'zaro muloqotni ta'minlaydi.
+====
+
+Amaliy matematika va programmalashtirish sohasida mutaxassis bo'lmagan so'nggi foydalanuvchilarni murakkab matematik usullar va shunga mos amaliy programmalardan foydalanib o'zaro muloqot shaklida o'zlarining masalalarini EHMda yechishni ta'minlaydi.
+====
+Global tarmoqlarda ma'lumotlarni qidirishni ta'minlaydi
+====
+Amaliy matematika va programmalashtirish sohasida mutaxassis bo'lmagan so'nggi foydalanuvchilar uchun matematik va mantiqiy masalalarning optimal yechimini topishni ta'minlaydi
+++++
+Mashina so'zi nima?:
+====
+# Mazkur EHM turi uchun aniqlangan ikkilik razryadlar - bitlar ketma-ketligi
+====
+Dasturlash tilidagi ixtiyoriy operator
+====
+EHM tomonidan vaqt birligida qayta ishlanadigan ma'lumotlar ketma-ketligi
+====
+EHM xotirasida saqlanadigan so'zlar
+++++
+EHM ish ko'radigan axborot qanday turlarga bo'linadi
+====
+# Prosedurali va deklarativ
+====
+Uzlukli va uzluksiz
+====
+Statik va dinamik
+====
+Kiritiladigan va chiqariladigan
+++++
+Jumlani davom ettiring "Prosedurali axborot . . .?
+====
+# masalani yechish jarayonida bajariladigan dasturlarda moddiylashtirilgan axborot
+====
+bu dasturlar ishlatadigan ma'lumotlarda moddiylashtirilgan axborot
+====
+proseduralarda ishlatiladigan axborot
+====
+dastur ishlashi natijasida hosil bo'ladigan axborot
+++++
+Jumlani davom ettiring "Deklarativ axborot . . .:
+====
+# bu dasturlar ishlatadigan ma'lumotlarda moddiylashtirilgan axborot
+====
+masalani yechish jarayonida bajariladigan dasturlarda moddiylashtirilgan axborot
+====
+proseduralarda ishlatiladigan axborot
+====
+dastur ishlashi natijasida hosil bo'ladigan axborot
+++++
+Bilimlar bazasi nima?:
+====
+# Predmet soha va masalani qanday yechish haqidagi formallashtirilgan bilimlar
+====
+Predmet soha haqidagi formallashtirilgan bilimlar
+====
+Predmet soha haqidagi ma'lumotlar bazasi
+====
+
+Predmet sohaning lug'ati
+++++
+Quyidagilardan qaysi birini suniy intellektning amaliy tizimi deyish mumkin
+====
+# Tashxislovchi ekspert tizim
+====
+Mashinali tarjima tizimi
+====
+JAVA dasturlash tizimi
+====
+Maoshni hisoblovchi tizim
+++++
+Sun'iy intellekt sohasidagi tadqiqotlar necha bosqichga bo'linadi?:
+==== #3
+==== 4
+==== 2
+==== 5
+++++
+Sun'iy intellekt sohasidagi tadqiqotlar birinchi bosqichi nechanchi yillarga to'g'ri keladi?:
+====
+#50-yillar oxiri
+====
+60-yillar oxiri 70-yillar boshi
+====
+40-yillar oxiridan boshlab
+====
+80-yillar boshi
+++++
+Sun'iy intellekt sohasidagi tadqiqotlar ikkinchi bosqichi nechanchi yillarga to'g'ri keladi?:
+====
+#60-yillar oxiri 70-yillar boshi
+====
+50-yillar oxiri
+====
+70-yillar oxiridan boshlab
+====
+80-yillar boshi
+++++
+Sun'iy intellekt sohasidagi tadqiqotlar uchinchi bosqichi nechanchi yillarga to'g'ri keladi?:
+====
+#70-yillar oxiridan boshlab
+====
+50-yillar oxiri
+====
+60-yillar oxiri 70-yillar boshi
+====
+80-yillar boshi
+++++
+Bilimlarni tavsiflash tillari deb nimaga aytiladi?:
+====
+# Predmet sohalarni tavsiflash uchun mo'ljallangan tillar
+====
+Obyektga yo'naltirilgan dasturlash tillari
+
+====
+Modulga yo'naltirilgan dasturlash tillari
+====
+Quyi darajadagi dasturlash tillari
+++++
+Neyron to'rning "energetik funksiyasi" nima?:
+====
+# Neyron to'rning holatini baholaydigan maqsad funksiyasi
+====
+Tarmoqda akkumulyasiyalangan va masalani yechish uchun zarur bo'lgan energiyani baholash funksiyasi
+====
+Neyron to'rni hisoblash uchun mo'ljallangan neyron to'r
+====
+To'g'ri javob keltirilmagan
+++++
+Bilimlar injeneriyasida bilimlarni saqlashning mexanizmi sifatida neyron to'rlar bilimlarni tasvirlashning boshqa modellaridan nimasi bilan farq qiladi?:
+====
+# Bilimlarni saqlashda ularni formallashtirishning muxim emasligi bilan
+====
+Bilimlarni parallel qayta ishlashning mavjudligi bilan
+====
+Saqlanadigan bilimlar vizuallashtirishning murakkabligi bilan
+====
+Bilimlarning to'rning chiqish qismida sonlar orqali tasvirlanishi bilan
+++++
+Neyron to'rlarning quyida keltirilgan modellaridan qaysi birini o'zi o'rgatuvchi to'r deyish mumkin?:
+====
+# Xopfild modeli
+====
+Ko'pqavatli perseptron
+====
+Grossberg modeli (ART)
+====
+Koxonen modeli
+++++
+Quyidagi tushunchalardan qaysi birini modellashtirish sun'iy neyron to'rga mos keladi?:
+====
+# verbale fikrlash
+====
+anglash
+====
+obrazli fikrlash
+====
+o'ta anglash
+++++
+Neyron to'rlarning asosiy kamchiligi nimada?:
+====
+# Tarmoq tomonidan qaror qabul qilishni tushuntirish imkoniyatining mavjud emasligi
+====
+Qaror qabul qilishning aniq algoritmining mavjud emasligi
+====
+Ishlashda mantiqning mavjud emasligi
+====
+Tarmoq tomondan qaror qabul qilishning bir qiymatli emasligi
+++++
+Neyron to'rlarni qo'llashning asosiy afzalligi nimada?:
+
+====
+# to'rning ishlashini parallellashtirish mumkin
+====
+to'rning qaror qabul qilish prosedurasini formallashtirish kerak emas
+====
+signallarni neyron to'rlar yordamida qayta ishlash mumkin
+====
+halaqitlar mavjud bo'lgan sharoitda masalani yechish imkoniyati
+++++
+Quyidagi qo'llanilish sohalaridan qaysi biri neyron to'rlarga xos emas?:
+====
+# Nutqni analiz va sintez qilish
+====
+Shaxmat masalalarini yechish
+====
+Medisina diagnostikasi
+====
+Tasvirlarni tanish
+++++
+Neyron to'rlarning sig'imi nimada o'lchanadi?:
+====
+# tarmoq eslab qolgan tasvirlar soni bilan
+====
+neyronlarning soni bilan
+====
+Litrlarda
+====
+?'rgatish jarayonida tarmoq taqdim etgan misollar soni bilan
+
+++++
+"Obraz" so'zi qaysi so'zdan olingan va qanday ma'noni bildiradi?:
+====
+# inglizcha "Pattern recognition" so'zidan olingan bo'lib "obraz", "model", "bog'liqlik", "uslub" kabi tushunchalarni bidiradi
+====
+nemischa "Pattern recognition" so'zidan olingan bo'lib "obraz", "model", "bog'liqlik", "uslub" kabi tushunchalarni bidiradi
+====
+fransuzcha "Pattern recognitio" so'zidan olingan bo'lib "obraz", "model", "bog'liqlik", "uslub" kabi tushunchalarni bidtradi
+====
+grekcha "Pattern recognit" so'zidan olingan bo'lib "obraz", "model", "bog'liqlik", "uslub" kabi tushunchalarni bildiradi
+
+++++
+Obrazlarni aniqlashning asosiy vazifasi
+====
+# bu ob'ektlarning bir-biriga mosligini o'rganishda ishlatiladigan, ya'ni ularning o'xshashligini aniqlaydigan hal qiluvchi qoidalarni topishdan iborat.
+====
+bu ob'ektlarning bir-biriga mos emasligini o'rganishda ishlatiladigan moslik qoidalarni topishdan iborat
+====
+bu belgilarning bir-biriga o'xshashligini aniqlaydigan hal qiluvchi qoidalarni topishdan iborat
+====
+bu belgilar va ob'ektlarning bir-biriga o'xshashligini aniqlaydigan hal qiluvchi qoidalarni topishdan iborat
+
+++++
+Obrazni anglashimiz uchun
+====
+# ob'ektlarni emas, balki ularning belgilaridan foydalanamiz
+====
+belgilarni emas, balki ob'ektlardan foydalanamiz
+====
+ob'ektlar orasidagi masofadan foydalanamiz
+====
+obrazlar orasidagi masofadan foydalanamiz
+
+++++
+Sinf -
+====
+# bu umumiy xususiyatga ega bo'lgan ob'ektlar to'plami
+====
+bu umumiy xususiyatga ega bo'lmagan ob'ektlar to'plami
+====
+bu belgilari bo'yicha o'xshash bo'lmagan ob'ektlar to'plami
+====
+bu belgilari bo'yicha bir-biriga yaqin bo'lmagan ob'ektlar to'plami
+++++
+Ma'lumotlarni o'rganish
+====
+# ob'ektlarni ularning belgilariga asosan o'rganish, ya'ni ob'ektlar uchun xos bo'lgan asosiy belgilarni topish
+====
+ob'ektlar uchun xos bo'lmagan asosiy belgilarni topish
+====
+ob'ektlar uchun chegaraviy sharti bo'lgan asosiy belgilarni topish
+====
+ob'ektlar uchun boshlang'ich sharti bo'lmagan asosiy belgilarni topish
+++++
+O'qituvchi yordamida o'rganishda
+====
+# ob'ektlarning qaysi sinfga qarashliligi, ob'ektlar va ularning belgilari soni ma'lum bo'ladi
+====
+ob'ektlarning qaysi sinfga qarashliligi, ularning belgilari soni ma'lum bo'ladi
+====
+ob'ektlarning qaysi sinfga qarashliligi, ularning ob'ektlari soni ma'lum bo'ladi
+====
+ob'ektlar soni ma'lum bo'ladi
+
+++++
+O'qituvchisiz o'rganishda
+====
+# ob'ektlarning qaysi sinflarga qarashliligi va sinflar soni noma'lum, ob'ektlar va ularning belgilari soni ma'lum bo'ladi
+====
+ob'ektlarning qaysi sinflarga qarashliligi va sinflar soni noma'lum, ob'ektlar soni ma'lum bo'ladi
+====
+ob'ektlarning qaysi sinflarga qarashliligi va sinflar soni noma'lum, ularning belgilari soni ma'lum bo'ladi
+====
+ob'ektlarning qaysi sinflarga qarashliligi va sinflar soni noma'lum, ob'ektlar va ularning belgilari soni xam noma'lum bo'ladi
+++++
+
+Sinflashtirish
+====
+# bu ob'ektlarni ularning umumiy xossalari asosida sinflarga bo'lish
+====
+bu belgilarni ularning umumiy xossalari asosida sinflarga bo'lish
+====
+bu tasvirlarni ularning umumiy xossalari asosida sinflarga bo'lish
+====
+bu sinflarni ularning umumiy xossalari asosida ob'ektlarga bo'lish
+++++
+Neyroto'rlar
+====
+# ma'lumotlar oqimini taxlil qilib, undagi qonuniyatlarini o'rganib, o'z ishini takomillashtirish xususiyatiga ega bo'lgan algoritmlar to'plamining umumiy nomlanishi
+====
+boshlang'ich shartlar oqimini taxlil qilib, undagi qonuniyatlarini o'rganib, o'z ishini takomillashtirish xususiyatiga ega bo'lgan algoritmlar to'plamining umumiy nomlanishi
+====
+chegaraviy shartlar oqimini taxlil qilib, undagi qonuniyatlarini o'rganib, o'z ishini takomillashtirish xususiyatiga ega bo'lgan algoritmlar to'plamining umumiy nomlanishi
+====
+yadro maydonlari oqimini taxlil qilib, undagi qonuniyatlarini o'rganib, o'z ishini takomillashtirish xususiyatiga ega bo'lgan algoritmlar to'plamining umumiy nomlanishi
+
+++++
+Neyrotarmoq texnologiyasini qo'llash nechta bosqichdan iborat
+==== #3
+==== 5
+==== 8
+==== 7
+
+++++
+Neyronlarni nechta turga ajratish mumkin
+==== #3
+==== 6
+==== 7
+==== 9
+
+++++
+"Intellekt" so'zi qaysi so'zdan olingan va qanday ma'noni bildiradi?:
+====
+# Lotincha "intellye?tuz" so'zidan kelib chiqqan bo'lib, u bilish (aniqlash), tushunish yoki fahmlash (aql) ma'nosini bildiradi
+====
+Grekcha "intellestio" so'zidan kelib chiqqan bo'lib, idrok qilish, tushunish, xulosa qilish yoki fahmlash ma'nosini bildiradi
+====
+Yunoncha "intellyestuz" so'zidan kelib chiqqan bo'lib, idrok qilish, bilish, tushunish, xulosa qilish ma'nosini bildiradi
+
+====
+Inglizcha "intellyes" so'zidan kelib chiqqan bo'lib, idrok qilish, tushunish, xulosa qilish yoki fahmlash ma'nosini bildiradi
+
+++++
+"Intellekt" nima?:
+====
+# Intellekt - fikrlash qobiliyati, rasional bilish, shaxsni aqliy rivojlanishi, o'z xulqini sozlash yo'li bilan har qanday (ayniqsa yangi) holatga yetarli baho berish qobiliyati, turmushdagi dalillar o'rtasidagi o'zaro bog'liqlikni tushunish qobiliyati.
+====
+Intellekt - o'ylash, xulosa qilish, fikrlash, baho berish qobiliyati, turli xil masalalarni yecha olish qobiliyati
+====
+Intellekt - fikrlash qobiliyati, aqliy rivojlanish, tevarak atrofni idrok qila olish qobiliyati, turmushdagi dalillar o'rtasidagi o'zaro bog'liqlikni tushunish qobiliyati
+====
+Intellekt - aqliy rivojlanish, bilish, fikrlash, har qanday holatga yetarli baho berish qobiliyati, turli xil muammolarni yechish va xulosa qilish qobiliyati
+
+++++
+Atribut bu -:
+====
+# Ob'ektni tavsiflovchi xesusiyat
+====
+Jadvak ustuni
+====
+Hodisa yoki misol
+====
+Jadval satri
+++++
+Data Mining - bu
+====
+#ma'lumotlarda noma'lum, noaniq, amaliy jihatdan inson ish faoliyatining turli sohalarida yechimlarni qabul qilish uchun zarur bo'lgan amaliy jihatdan foydali va bilimlar interpretatsiyasi uchun mumkin bo'lgan jarayondir
+====
+Ma'lumotlar tahlili
+====
+Ma'lumotlarni uzatish
+====
+Ma'lumotlar bazasi
+
+++++
+Bilim - bu
+====
+# tasvirlanadigan savol, fan, muammo va shu kabilar haqida qandaydir xabardorlik darajasiga mos tushadigan butun tasvirlanishini beradigan ma'lumotlar yig'indisidir
+====
+ma'lumotlar bazasi
+====
+atributlar to'plami
+====
+informatsiya
+
+++++
+"Mining" so'zining ma'nosi
+
+====
+# inglizchadan olingab bo'lib "foydali qazilmalarni topish" degan ma'noni bildiradi
+====
+qayta ishlash
+====
+izlash
+====
+tartiblash
+
+++++
+Sinflashtirish - bu
+====
+# ob'ektlarning (kuzatishlar, hodisalar) oldindan ma'lum bo'lgan sinflardan biriga tegishliligidir
+====
+ob'ektlarning (kuzatishlar, hodisalar) oldindan ma'lum bo'lmagan sinflardan biriga tegishliligidir
+====
+tartiblash
+====
+barcha javoblar to'g'ri
+
+++++
+Klasterizatsiya - bu
+====
+# ob'ekt mazmunini yoritadigan ma'lumotlar asosida ob'ektlar ni guruhlashdir.
+====
+ob'ekt mazmunini yoritadigan ma'lumotlar asosida ob'ektlar ni saralash
+====
+ob'ekt mazmunini yoritadigan ma'lumotlar asosida ob'ektlar ni qidirish
+====
+to'g'ri javob keltirilmagan
+
+++++
+Assotsiativ qoidalarni izlash - bu
+====
+# bog'langan hodisalar orasida qonuniyatni aniqlash
+====
+o'zaro bog'liq bo'lmagan hodisalar orasida qonuniyatni aniqlash
+====
+bir-biriga o'xshah qoidalarni izlash
+====
+izlash jarayoni
+
+++++
+Klassifikatsiya masalasi quyidagi algoritmlar yordamida yechiladi:
+====
+# Neyron tarmoqlar va chiziqli regressiya
+====
+k-means
+====
+Apriori
+====
+c- means
+
+++++
+Klassifikatsiya masalasni quyidagi qaysi algoritm yordamida yechib bo'lmaydi?:
+====
+# Apriori
+
+====
+Na�ve Bayes
+ ==== ID3
+====
+OneRule
+
+++++
+Bog'langan hodisalar orasida qonuniyatni aniqlash bu -:
+====
+# assotsiativ qoidalarni izlash
+====
+klassifiktsiya
+====
+klasterizatsiya
+====
+regressiya
+
+++++
+Tavsifiy masalalar
+====
+# izlanayotgan ma'lumotlarning bog'liqlik mohiyatiga e'tibor qaratadi
+====
+izlanayotgan ma'lumotlarning hajmiga e'tibor qaratadi
+====
+izlanayotgan ma'lumotlarning mazmuniga e'tibor qaratadi
+====
+to'g'ri javob keltirilmagan
+
+++++
+Oldindan sinflarning ma'lum bo'lishi ... masalasining xususiyati hisoblanadi
+====
+# klassifikatsiya
+====
+kasterizatsiya
+====
+assotsiativ qoidalarni izlash
+====
+regressiya
+
+++++
+Oldindan sinflarning ma'lum bo'lmasligi ... masalasining xususiyati hisoblanadi
+====
+# klasterizatsiya
+====
+klassifikatsiya
+====
+assotsiativ qoidalarni izlash
+====
+regressiya
+
+++++
+Ma'lumotlarning intellektual tahlilini yechish usullarini
+====
+#"o'qituvchi bilan o'rgatish" va "o'qituvchisiz o'rgatish" usullariga ajratish mumkin
+====
+faqat "o'qituvchi bilan o'rgatish" usuliga ajratish mumkin
+
+====
+faqat "o'qituvchisiz o'rgatish" usuliga ajratish mumkin
+====
+barcha javoblar noto'g'ri
+
+++++
+Nominal shkalada
+====
+# ma'lumotlarni tartiblash mumkin, lekin ular ustida hech qanday arifmetik amallarni bajarib bo'lmaydi
+====
+ ob'ektlarga sonlar ularning bir-biridan farqiga nisbatan emas, balki joylashgan o'rinlariga (pozitsiyalariga) nisbatan o'zlashtiriladi
+====
+ qiymatlar orasidagi tafovutni hisoblash mumkin, ammo ularning nisbatlari ma'noga ega bo'lmaydigan shkala
+====
+ma'lumotlarni tartiblash va ular ustida arifmetik amallarni bajarish mumkin
+
+++++
+Tartibli shkalada
+====
+# ob'ektlarga sonlar ularning bir-biridan farqiga nisbatan emas, balki joylashgan o'rinlariga (pozitsiyalariga) nisbatan o'zlashtiriladi
+====
+ma'lumotlarni tartiblash mumkin, lekin ular ustida hech qanday arifmetik amallarni bajarib bo'lmaydi
+====
+ qiymatlar orasidagi tafovutni hisoblash mumkin, ammo ularning nisbatlari ma'noga ega bo'lmaydigan shkala
+====
+ma'lumotlarni tartiblash va ular ustida arifmetik amallarni bajarish mumkin
+
+++++
+Oraliqli shkalada
+====
+# qiymatlar orasidagi tafovutni hisoblash mumkin, ammo ularning nisbatlari ma'noga ega bo'lmaydigan shkala
+====
+ob'ektlarga sonlar ularning bir-biridan farqiga nisbatan emas, balki joylashgan o'rinlariga (pozitsiyalariga) nisbatan o'zlashtiriladi
+====
+ma'lumotlarni tartiblash mumkin, lekin ular ustida hech qanday arifmetik amallarni bajarib bo'lmaydi
+====
+ma'lumotlarni tartiblash va ular ustida arifmetik amallarni bajarish mumkin
+
+++++
+Nisbiy shkalada
+====
+# ma'lum bir sanoq boshi mavjud bo'lib, shkala qiymatlari orasidasi nisbatlarni aniqlash mumkin
+====
+ qiymatlar orasidagi tafovutni hisoblash mumkin, ammo ularning nisbatlari ma'noga ega bo'lmaydigan shkala
+====
+ma'lumotlarni tartiblash mumkin, lekin ular ustida hech qanday arifmetik amallarni bajarib bo'lmaydi
+====
+ ob'ektlarga sonlar ularning bir-biridan farqiga nisbatan emas, balki joylashgan o'rinlariga (pozitsiyalariga) nisbatan o'zlashtiriladi
+
+++++
+Relyasion ma'lumotlar - bu
+====
+# relyasion bazadagi (jadvaldagi) ma'lumotlar
+====
+o'zaro bog'liq ma'lumotlar
+====
+o'zaro bog'liq bo'lmagan ma'lumotlar
+====
+OLAP kubida tasvirlangan ma'lumotlar
+
+++++
+Jadvalli ma'lumotlar - bu
+====
+# yozuvlardan tashkil topgan shunday ma'lumotki, ularning har biri fiksirlangan sondagi atributlar majmuasidan tashkil topgan bo'ladi
+====
+ yozuvlardan tashkil topgan shunday ma'lumotki, ularning har biri fiksirlanmagan sondagi atributlar majmuasidan tashkil topgan bo'ladi
+====
+ma'lumotlar bazasi
+====
+barcha javoblar to'g'ri
+++++
+Ko'p o'lchovli ma'lumotlar
+====
+# OLAP kubida tasvirlangan ma'lumotlar
+====
+relyasion bazadagi (jadvaldagi) ma'lumotlar
+====
+o'zaro bog'liq bo'lmagan ma'lumotlar
+====
+o'zaro bog'liq ma'lumotlar
+++++
+O'zgaruvchili ma'lumotlar -
+====
+# masalalarni hal qilish jarayonida o'z qiymatlarini o'zgartirib turuvchi ma'lumotlar
+====
+o'zgaruvchi ma'lumotlar
+====
+qiymatlari o'zgarib turadigan ma'lumotlar
+====
+barcha javoblar noto'g'ri
+++++
+O'zgarmas ma'lumotlar -
+====
+# masalalarni hal qilish jarayonida o'z qiymatlarini o'zgartirmaydigan (matematik konstantalar, qo'zg'almas ob'ektlarning koordinatalari) va tashqi omillarga bog'liq bo'lmagan ma'lumotlar
+====
+masalalarni hal qilish jarayonida o'z qiymatlarini o'zgartirib turuvchi ma'lumotlar
+====
+qiymatlari o'zgarib turadigan ma'lumotlar
+====
+barcha javoblar noto'g'ri
+++++
+OLAP bu
+====
+
+# real vaqtda analitik qayta ishlash
+====
+real vaqtda ma'lumotlar tahlili
+====
+analitik qayta ishlash
+====
+ma'lumotlarni qayta ishash
+++++
+Metama'lumotlar - bu
+====
+# ma'lumotlar haqidagi ma'lumot
+====
+katta hajmdagi ma'lumotlar
+====
+kichik hajmdagi ma'lumotlar
+====
+ma'lumotlar yig'indisi
+++++
+Klassifikatsiyalash jarayoni quyidagi ikki bosqichda amalga oshiriladi:
+====
+# modelni konstruksiyalash va undan foydalanish
+====
+ma'lumotlarni yig'ish va qayta ishlash
+====
+ma'lumotlarni izlash va saralsh
+====
+modelni konstruksiyalash
+++++
+Yechimlar daraxtini realizatsiya qiluvchi algoritmlar
+====
+# CART, C4.5
+====
+k-means, Apriori
+====
+Naive Bayes, OneRule
+====
+c-means, ASI
+++++
+Klassifikatsiya ... strategiyasiga tegishli
+====
+#"o'qituvchi bilan o'rgatish"
+====
+"o'qituvchisiz o'rgatish"
+====
+boshqariluvchi o'rgatish
+====
+barcha javoblar to'g'ri
+++++
+Klassifikatsiya bu -:
+====
+# ob'ektni oldindan ma'lum bo'lgan sinfga tegishli ekaligini aniqlash
+====
+ob'ektni oldindan ma'lum bo'lmagan sinfga tegishli ekaligini aniqlash
+====
+saralash
+====
+tartiblash
+
+++++
+Yechimlar daraxti metodi ... masalalarini yechishda ishlatiladi
+====
+# klassifikatsiya
+====
+klasterizatsiya
+====
+assotsiativ qoidalarni izlash
+====
+regressiya
+++++
+Ob'ekt ... kabi tavsiflanadi
+====
+# atributlar to'plami
+====
+o'zgaruvchilar to'plami
+====
+o'zgarmaslar to'plami
+====
+ma'lumotlar to'plami
+++++
+.... ob'ekt hisoblanmaydi
+====
+# o'zgaruvchi
+====
+atributlar to'plami
+====
+ma'lumotlar to'plami
+====
+yozuv
+++++
+Ma'lumotlar quyidagilarni o'zida aks ettiradi:
+====
+# barchasi to'g'ri
+====
+matn
+====
+rasmlar, ovozlar, analogli yoki signally video segmentlari
+====
+faktlar va grafiklar
+++++
+Quyida keltirilganlardan qaysi biri Data Mining masalasi bosqichlaridan hisoblanmaydi?:
+====
+# erkin izlash
+====
+matematik modellashtirish
+====
+bashoratli modellashtirish
+====
+istesnolarni tahlil qilish
+++++
+Yechimlar daraxti ... guruxiga tegishli
+====
+# Statistikaga oid metodlar
+====
+Kibernetika oid metodlar
+====
+
+Mantiqqa oid metodlar
+====
+Matematik modellashtirishga oid metodlar
+++++
+Apriori algoritmi ... masalalarini yechishga mo'ljallangan
+====
+# assotsiativ qoidalarni izlash
+====
+klassifikatsiya
+====
+regressiya
+====
+klasterizatsiya
+++++
+Klasterizatsiya va klassifikatsiya . . .:
+====
+# mos ravishda "o'qituvchisiz o'rgatish" va "o'qituvchi bilan o'rgatish" strategiyalariga tegishli
+====
+"o'qituvchi bilan o'rgatish" strategiyasiga tegishli
+====
+"o'qituvchi bilan o'rgatish" strategiyasiga tegishli
+====
+to'ri javob keltirilmagan
+
+++++
+Naive Bayes algoritmi ... masallarini yechishga mo'ljallangan
+====
+# klassifikatsiya
+====
+assotsiativ qoidalarni izlash
+====
+klasterizatsiya
+====
+regressiya
+++++
+Assotsiativ qoidalarni izlash masalasini ... algoritmiyordamida yechish mumkin
+====
+# Apriori
+====
+k-means
+====
+Naive Bayes
+ ==== ID3
+++++
+Ma'lumotlar haqidagi ma'lumot bu -:
+====
+# metama'lumotlar
+====
+katta hajmdagi ma'lumotlar
+====
+kichik hajmdagi ma'lumotlar
+====
+ma'lumotlar yig'indisi
+++++
+Klassifikatsiya masalasi quyidagi algoritmlar yordamida yechiladi:
+====
+
+# Chiziqli regressiya va neyron tarmoqlar
+ ==== SETM
+====
+Apriori
+ ==== AIS
+++++
+Assotsiativ qoidalarni izlash masalasini ... algoritmiyordamida yechish mumkin emas
+====
+# Naive Bayes
+ ==== SETM
+====
+Apriori
+ ==== AIS
+
+++++
+K-means algoritmi ... masalalarini yechish uchun mo'ljallangan
+====
+# klasterizatsiya
+====
+assotsiativ qoidalarni izlash
+====
+klassifikatsiya
+====
+matematik modellashtirish
+
+++++
+Ob'ektni tavsiflovchi xususiyat bu -:
+====
+# Atribut
+====
+Jadvak ustuni
+====
+Hodisa yoki misol
+====
+Jadval satri
+
+++++
+Ma'lumotlarda noma'lum, noaniq, amaliy jihatdan inson ish faoliyatining turli sohalarida yechimlarni qabul qilish uchun zarur bo'lgan amaliy jihatdan foydali va bilimlar interpretatsiyasi uchun mumkin bo'lgan jarayon ...
+====
+# data mining
+====
+ma'lumotlar tahlili
+====
+ma'lumotlarni uzatish
+====
+ma'lumotlar bazasi
+
+++++
+O'zgaruvchi-
+====
+# ob'ekt hisoblanmaydi
+
+====
+atributlar to'plamidir
+====
+ma'lumotlar to'plamidir
+====
+bu yozuv
+
+++++
+C4.5 algoritmi ... masalalarini yechishga mo'ljallangan
+====
+# klassifikatsiya
+====
+assotsiativ qoidalarni izlash
+====
+klasterizatsiya
+====
+matematik modellashtirish
+
+++++
+CART algoritmi ... masalalarini yechishga mo'ljallangan
+====
+# assotsiativ qoidalarni izlash
+====
+klasterizatsiya
+====
+klassifikatsiya
+====
+matematik modellashtirish
+
+++++
+OneRule algoritmi ... masalalarini yechishga mo'ljallangan
+====
+# klassifikatsiya
+====
+assotsiativ qoidalarni izlash
+====
+klasterizatsiya
+====
+matematik modellashtirish
+
+++++
+Ob'ektlarni ularning umumiy xossalari asosida sinflarga bo'lish
+====
+# sinflashtirish
+====
+klasterlash
+====
+tartiblash
+====
+saralash
+++++
+ASI algoritmi ... masalalarini yechishga mo'ljallangan
+====
+# assotsiativ qoidalarni izlash
+====
+klassifikatsiya
+====
+
+klasterizatsiya
+====
+matematik modellashtirish
+++++
+c-means algoritmi ... masalalarini yechishga mo'ljallangan
+====
+# klasterizatsiya
+====
+klassifikatsiya
+====
+assotsiativ qoidalarni izlash
+====
+matematik modellashtirish
+++++
+Chiqishlarda axborotni uzatish usuliga ko?ra neyron tarmoqlar qanday turlarga bo'linadi?:
+====
+#chiqish neyronlariga va chiqish neyronlarining kuchiga qarab signallarni qabul qiluvchi neyronli tarmoqlarga bo'linadi;
+====
+Topologik, o?xshashlik va chiquvchi signallarni uzatuvchi neyron tarmoqlarga bo'linadi;
+====
+Supervizorli, vaznli va sinapsli signallarni uzatuvchi neyron tarmoqlarga bo'linadi;
+====
+Buyruq-asosli, topologik va kiruvchi signallarni uzatuvchi neyron tarmoqlarga bo'linadi.
+++++
+O?rgatishni tashkil etishga ko?ra neyron tarmoqlar qanday turlarga bo?linadi?:
+====
+#O?qituvchili va o?qituvchisiz o'rgatadigan neyronli tarmoqlarga bo'linadi;
+====
+Topologikli va chiquvchi signallarsiz neyron tarmoqlarga bo'linadi;
+====
+Supervizorli va vaznli neyron tarmoqlarga bo'linadi;
+====
+Buyruq-asosli va topologikli neyron tarmoqlarga bo'linadi.
+++++
+Har bir neyronning chiqishi barcha boshqa neyronlar kirishlari bilan, uning kirishlari esa qolgan neyronlar chiqishlari bilan bog?langan bo'lsa-bu	neyron tarmoq deyiladi.
+====
+#to?liq bog?langan;
+====
+topologikli;
+====
+supervizorli;
+====
+to?liq bog?lanmagan.
+++++
+Neyron guruhlarining tegishli alohida qatlam va darajalarda joylashgan tarmog?i-bu	neyron
+tarmoq bo'ladi.
+====
+#iyerarxikli;
+====
+topologikli;
+====
+supervizorli;
+====
+to?liq bog?langan.
+++++
+
+Bog?lanish yo?nalishlari bo?yicha teskari aloqasiz tarmoq-bu . . .neyron tarmoq bo'ladi.
+====
+#norekurrent;
+====
+topologikli;
+====
+supervizorli;
+====
+to?liq bog?langan.
+++++
+Bog?lanish yo?nalishlari bo?yicha teskari aloqalai tarmoq-bu . . .neyron tarmoq bo'ladi.
+====
+#rekurrent;
+====
+to'liq va topologikli;
+====
+supervizorli;
+====
+to?liq bog?langan.
+++++
+Agar rekurrent neyron tarmoqda o?zining bir qatlamdagi neyronlar o?rtasida tormozlaydigan aloqalari bo?lsa, u holda bunday tarmoqni . . .tormozlanishli neyron tarmoq deb ataydi.
+====
+#lateralli;
+====
+to'liq va topologikli;
+====
+rekurrent;
+====
+to?liq bog?langan.
+++++
+Bir nechta hisoblanuvchi neyronlar qatlamlaridan iborat bo?lgan tarmoqlar-bu	neyron to'lar
+bo'ladi.
+====
+#ko?p qatlamli;
+====
+to'liq va topologikli;
+====
+rekurrent;
+====
+lateralli va to?liq bog?langan.
+++++
+Xopfild modeli holatida energetik funksiya qaysi formula bilan tavsiflanadi ?
+
+
+====
+E ? ? 1 ? ?
+2	il
+
+====
+
+
+
+? ?
+i?1
+
+
+
+?
+j?1
+
+
+wij
+
+
+xi xj ;
+
+1  ?	T	N	N
+E ? 2 ???i? yi ?? ? ?? wij xi xj ;
+
+
+====
+
+i?1
+
+??1
+
+i?1
+
+j?1
+
+E ? ? 1 ??
+?
+
+?il
+
+yni
+
+yml .
+
+++++
+Mak-Kallokk va U. Pits neyronli tarmoqiining formal modeli qaysi formula bilan tavsiflanadi ?
+==== #
+====
+====
+;
+
+====
+.
+++++
+Perseptron deb qanday funksiyaning qiymatini hisoblovchi qurilmaga aytiladi ?
+==== #
+====
+;
+====
+;
+
+====
+.
+++++
+Perseptron nechta qatlamli bo'lishi mumkin ?:
+====
+#ko'pqatlamli;
+====
+faqat bir qatlamli;
+====
+faqat ikki qatlamli;
+====
+faqat nol qatlamli.
+++++
+Insonda assotsiatsiya paydo bo'lishi uchun u obyekt haqida qanday axborotlarni olishi mumkin bo'ladi?:
+====
+#to'liq bo'lmagan ba'zi axborotlarni;
+====
+to'liq bo'lgan axborotlarni;
+====
+bir qiymatli axborotlarni;
+====
+ko'p qiymatli axborotlarni.
+++++
+...-bu noto'liq va qisman noishonchli axborotlar asosida "oldindan tanish bo'lgan" obyekt haqida yetarli to'liq tavsifni tiklashga imkoniyat yaratadi.
+====
+#Assotsiativli xotira;
+====
+
+Noassotsiativli xotira;
+====
+Noishonchli xotira;
+====
+Birqiymatli xotira.
+++++
+Xopfild neyronli tarmoqlari ............va	hisoblanadi.
+====
+#bir qatlamli; teskari aloqali;
+====
+bir qatlamli; to'g'ri aloqali;
+====
+ko'p qatlamli; teskari aloqali;
+====
+ko'p qatlamli; to'g'ri aloqali.
+++++
+Xopfild neyronli tarmoqlari	xotirali hisoblanadi.
+====
+#Assotsiativ;
+====
+Noassotsiativ;
+====
+Noishonchli;
+====
+Birqiymatli.
+++++
+Diskret vaqtda ishlaydigan Xopfild tarmog?ida obyektlarning yaqinlik o?lchovi sifatida mos vektorlarning skalyar ko?paytmasi	formula bilan hisoblanadi.
+==== #
+====
+;
+====
+;
+====
+.
+++++
+Xemming neyron tarmoqlarining goyasi ....... obyektdan boshqa barcha ...... obyektlargacha bo'lgan Xemming .......topishdan iborat.
+====
+#testlanayotgan; etalon; masofasini;
+====
+testlanayotgan; etalon; radiusini;
+====
+testlanayotgan; etalon; diametrini;
+====
+testlanayotgan; etalon; darajasini.
+++++
+Xemming masofasi deb ikkita binar qiymat qabul qiluvchi vektorlarning ......farqlar soniga aytiladi.
+====
+#bitlardagi;
+====
+baytlardagi;
+====
+
+eng katta;
+====
+eng kichik.
+++++
+Xemming neyron tarmoqining kirishdagi .......... obyektgacha	masofaga ega bo'lgan etalon
+obyektni tanlashi kerak va natijada tarmoqda ushbu etalon obyektga mos keluvchi	chiqish
+faollashadi.
+====
+#noma'lum; minimal; bitta;
+====
+noma'lum; maxsimal; bitta;
+====
+noma'lum; minimal; ikkita;
+====
+noma'lum; minimal; uchta.
+++++
+Ikkiyo'nalishli assotsiativli xotira (IAX) .........qatlamlamli bo'lib, ikkinchi qatlam	signallari
+birinchi qatlam	signallariga teskari aloqa bo'yicha qo'shiladi.
+====
+#ikki; chiqish; kirish;
+====
+bir; chiqish; kirish;
+====
+ikki; kirish; kirish;
+====
+ikki; kirish; chiqish.
+++++
+116.Xebba tarmoqi bo'yicha o'rgatishning signalli usuli bo'yicha o'rgatishda vaznlarning o'zgarishini aniqlovchi qoidani ko'rsating ?:
+====
+#
+====
+
+====
+
+====
+
+++++
+Koxonen tarmoqlari sinflash masalasini .................. yechadigan tarmoqlar hisoblanadi.
+====
+#o'qituvchisiz;
+====
+o'qituvchili;
+====
+etalon tanlovli;
+====
+chiziqli;
+++++
+Koxonen tarmoqlari yordamida sinflash masalasini yechishda nuqtalar to'plamini Evklid masofasining ........... bo'yicha bir-biriga .......... bo'lgan	singlarga ajratish talab qilinadi.
+====
+#kvadrati; yaqin; k ta;
+====
+kubi; uzoq; k ta;
+
+====
+yarmi; o'xshashmas; minimal;
+====
+soni; maksimal; minimal.
+++++
+Koxonen tarmoqlari yordamida sinflash masalasini yechish uchun ta shunday k nuqtalarni topish kerakki, ular uchun	bo'lsin.
+====
+# minimal;
+====
+
+
+
+====
+
+
+====
+
+
+++++
+
+maksimal;
+minimal; maksimal.
+
+Koxonen tarmoqlari yordamida nuqtalar to'plamini K ta sinflarga ajratuvchi qoidani ko'rsating?
+====
+#;
+====
+;
+====
+;
+====
+.
+++++
+Koxonen algoritmi bo'yicha o'rgatishda kiruvchi obyektlar va ularning vaznli koeffitsiyentlarining qiymatlarini normallashtirish qoidasini ko'rsating ?
+====
+#;
+====
+
+;
+====
+;
+====
+
+.
+++++
+Kirish va chiqishlarda ishlatiladigan signallarga qarab neyron to?rlar .... turlarga bo?linadi.
+====
+#analogli va binar;
+====
+raqamli va tasodifiy;
+====
+
+analogsiz va uzluksiz;
+====
+analogli va uzluksiz.
+++++
+Vaqtni modellashtirish bo?yicha neyron to?rlar ... vaqtli turlarga bo?linadi.
+====
+#uzluksiz va diskret;
+====
+uzilikli va tasodifiy;
+====
+analogsiz va uzluksiz;
+====
+analogli va uzlukli.
+++++
+Bir qatlamli neyron tarmoq - bu . .. turdagi tarmoqdir.
+====
+#sodda, iyerarxik, norekurrent;
+====
+sodda va to?g?ri aloqasiz, teskari aloqali;
+====
+teskari aloqasiz, to?g?ri aloqali va iyerarxik;
+====
+to?g?ri aloqasiz, to?g?ri aloqali va sodda
+++++
+Obrazlarni aniqlashni o'rgatish nazariyasi usullari ulug' olimlar -
+====
+#V.V.Aleksandrov, Ye.M.Braverman, V.N.Vapnik, V.I.Vasilyev, A.For, Yu.I.Juravlev, M.M.Komilov, Ya.A.Fomin, A.G.Ivaxnenko, B.V.Anisimov ilmiy ishlari bilan bog'liq.
+====
+V.V.Sidirov, Ye.M.Ivanov, V.N.Shevchenko, V.I.Ya?yenko, A.Shor, Yu.I.Slipchenko, M.I.Yarashev, Ya.A.Filipchenko, A.S.Ivanenko ilmiy ishlari bilan bog'liq.
+====
+V.A.Sidorenko, A.M.Ivanchenko, A.N.Shulga, A.I.Abduraimov, A.I.Shor, Yu.I.Slipchenko, M.I.Sidelnikov, Ya.A.Firsov, A.S.Iva?yenko ilmiy ishlari bilan bog'liq..
+====
+S.S.Semyonov, Ye.M.Sladkov, V.N.Suleymanov, V.I.Sirodja, A.Gusman, Yu.I.Slipchenko, M.I.Axmedov, Ya.A.Fuksman, A.S.Ergashev ilmiy ishlari bilan bog'liq..
+++++
+Obyektlar haqida empirik ma'lumotlar -
+====
+#tajriba usulida aniqlanadi.
+====
+ekspert yordamida aniqlanadi.
+====
+foydalanuvchi yordamida aniqlanadi.
+====
+komp'yuter yordamida aniqlanadi
+++++
+Ma'lumotlarni o'rganish -
+====
+#obyektlarni ularning belgilariga asosan o'rganish, ya'ni obyektlar uchun xos bo'lgan asosiy belgilarni topish.
+====
+obyektlar uchun xos bo'lmagan asosiy belgilarni topish.
+====
+obyektlar uchun chegaraviy sharti bo'lgan asosiy belgilarni topish.
+====
+
+obyektlar uchun boshlang'ich sharti bo'lmagan asosiy belgilarni topish.
+++++
+Hal qiluvchi funksiyani topish -
+====
+#o'qituvchi yordamida yoki o'qituvchisiz o'rganish jarayonida obyektlarga xos bo'lgan asosiy belgilar tizimini topish. Bu belgilar tizimiga xos bo'lgan funksiya hal qiluvchi funksiya deb ataladi va u chiziqli, chiziqsiz, kvadratik hamda mantiqiy ko'rinishda bo'ladi;
+====
+o'qituvchi yordamida yoki o'qituvchisiz o'rganish jarayonida obyektlarga xos bo'lgan asosiy belgilar tizimini topish. Bu belgilar tizimiga xos bo'lgan funksiya hal qiluvchi funksiya deb ataladi va u chiziqli ko'rinishda bo'ladi;
+====
+o'qituvchi yordamida yoki o'qituvchisiz o'rganish jarayonida obyektlarga xos bo'lgan asosiy belgilar tizimini topish. Bu belgilar tizimiga xos bo'lgan funksiya hal qiluvchi funksiya deb ataladi va u chiziqsiz ko'rinishda bo'ladi;
+====
+o'qituvchi yordamida yoki o'qituvchisiz o'rganish jarayonida obyektlarga xos bo'lgan asosiy belgilar tizimini topish. Bu belgilar tizimiga xos bo'lgan funksiya hal qiluvchi funksiya deb ataladi va u chiziqli hamda mantiqiy ko'rinishda bo'ladi;
+++++
+Axborot - tanuvchi tizimlarni yaratishda eng asosiy masalalardan biri -
+====
+#bu axborot - tanuvchi obyektlarning xarakteristikalarini aniqlashdan iborat
+====
+bu axborot - tanuvchi sinflarning xarakteristikalarini aniqlashdan iborat
+====
+bu axborot - tanuvchi belgilarning xarakteristikalarini aniqlashdan iborat
+====
+bu axborot - tanuvchi tasvirlarning xarakteristikalarini aniqlashdan iborat
+++++
+Belgilarning qanday turlari mavjud-
+====
+#Determinalli, mantiqli strukturali, ehtimolli;
+====
+Strukturali, ehtimolli;
+====
+Determinalli, mantiqli,;
+====
+Strukturali, determinalli;
+++++
+Determinalli belgilar -
+====
+#aniq va sonli qiymatlarga ega b?ladi;
+====
+uzlukli qiymatlarga ega b?ladi;
+====
+ehtimolli xarakterlarga ega b?ladi;
+====
+simvol k?rinishda b?ladi;
+++++
+Ehtimolli belgilar-
+====
+#ehtimolli (tavakkali) xarakterga ega b?ladi
+====
+sonli qiymatlarga ega b?ladi;
+====
+aniq qiymatlarga ega b?ladi;
+
+====
+0 va 1 qiymatlarga ega b?ladi;
+++++
+Mantiqiy belgilar -
+====
+#belgilarning mavjudligi yoki mavjud b?lmasligi bilan aniqlanadi;
+====
+belgilarning mavjudligi bilan aniqlanadi;
+====
+belgilarning ehtimolli qiymati bilan aniqlanadi;
+====
+nominal qiymatlar bilan aniqlanadi;
+++++
+Strukturali belgilar
+====
+#simvol va tasvir k?rinishida berilgan obyektlarda uchraydi;
+====
+simvol k?rinishda berilgan obyektlarda uchraydi;
+====
+tasvir k?rinishida berilgan obyektlarda uchraydi;
+====
+geologiyaviy obyektlarda uchraydi;
+++++
+O'z-o'zini o'rgatuvchi tizimlarning o'qituvchi yordamida o'rgatuvchi tizimlardan farqi-
+====
+#obyektlar to'plami va belgilar alfaviti berilgan bo'ladi.
+====
+sinflar to'plami va obyektlar alfaviti berilgan bo'ladi.
+====
+tasvirlar to'plami va sinflar alfaviti berilgan bo'ladi.
+====
+sinflar to'plami va tasvirlar alfaviti berilgan bo'ladi.
+++++
+{1, 2, 3, 4, 5} belgilar to'plamlaridan tadan guruxlaganda nechta tayanch to'plam ostilari xosil bo'ladi.
+==== #10
+==== 8
+==== 6
+==== 9
+++++
+
+
+{1, 2, 3, 4, 5} belgilar to'plamlaridan bo'ladi.
+==== #5
+==== 8
+==== 6
+==== 9
+++++
+
+2
+5 tadan guruxlaganda nechta tayanch to'plam ostilari xosil
+
+
+{1, 2, 3, 4, 5,6} belgilar to'plamlaridan bo'ladi.
+====
+#20
+==== 28
+==== 36
+==== 15
+++++
+
+4
+5 tadan guruxlaganda nechta tayanch to'plam ostilari xosil
+
+
+
+
+
+
+
+
+C3
+
+139. {1, 2, 3, 4, 5,6,7} belgilar to'plamlaridan
+xosil bo'ladi.
+==== #21
+==== 38
+==== 32
+==== 49
+++++
+6 
+tadan guruxlaganda nechta tayanch to'plam ostilari
+
+
+{1, 2, 3, 4, 5,6,7} belgilar to'plamlaridan bo'ladi.
+====
+#35
+==== 55
+==== 62
+==== 49
+++++
+"Maxmin" algoritmining maqsadi
+====
+
+2
+7 tadan guruxlaganda nechta tayanch to'plam ostilari xosil
+
+#erkin tanlovdan yadroviy obyektlarni topish va bu obyektlar orqali sinflarni hosil qilish;
+====
+erkin tanlovdan yadroviy obyektlarni tapish;
+====
+obyektlarni guruhlash;
+====
+bitta obyektga nisbatan sinflarni hosil qilish;
+++++
+
+"Maxmin" algoritmida
+====
+
+N1 ??
+
+N2 yadrolar orasidagi porog sifatida nima olinadi.
+
+# N1 ??
+====
+N1 ??
+=====
+
+N2 yadrolar orasidagi masofaning yarmi olinadi;
+
+N2 yadrolar orasidagi masofa olinadi;
+
+N1 yadrodan eng uzoqda joylashgan N2 yadroning qiymati olinadi;
+====
+
+N1 ??
+++++
+
+N2 yadrolar orasidagi masofaning kvadrati olinadi;
+
+"Maxmin" algoritmida sinflar kanday beriladi.
+====
+#sinflar soni avtomatik ravishda topiladi;
+====
+sinflar soni oldindan beriladi;
+====
+sinflar soni cheksiz b?ladi;
+====
+sinflar soni obyektlar sonidan k?p b?ladi;
+++++
+"Maxmin" algoritmi o'z ishini to'xtatadi, agarda . . .:
+====
+#sinflar va yadrolar ?zgarmasdan qolsa;
+====
+sinflar kesishmasa;
+====
+yadrolar soni sinflar sonidan k?p b?lsa;
+====
+sinflar ?zgarmasdan yadrolar ?zgarsa;
+++++
+Formulalarning qaysi biri Yevklid masofasi ekanligini ko'rsating.
+====
+
+?	?
+# d ( X i , X
+
+) ? ?? n
+?? k ?1
+
+
+xik
+
+? x jk
+
+2 ?1/ 2
+?	;
+??
+
+====
+?	?	n
+d ( X i , X j ) ? ? xik ? x jk ;
+k ?1
+====
+?	?
+d ( X i , X j ) ? max xik ? x jk .
+k
+====
+?	?	n
+
+d ( X i , X j ) ? ?
+k ?1
+++++
+Formulalarning qaysi biri Manxetten masofasi ekanligini ko'rsating
+====
+?	?	n
+# d ( X i , X j ) ? ? xik ? x jk
+k ?1
+
+====
+?	?
+
+
+?? n
+
+2 ?1/ 2
+
+
+
+d ( X i , X
+
+j ) ? ??
+?? k ?1
+
+xik
+
+? x jk	?	;
+??
+
+====
+?	?
+d ( X i , X j ) ? max xik ? x jk .
+k
+====
+?	?	n
+
+d ( X i , X j ) ? ?
+k ?1
+++++
+
+Formulalarning qaysi biri Cheb?shev masofasi ekanligini ko'rsating
+==== ?	?
+# d ( X i , X j ) ? max xik ? x jk
+k
+
+====
+?	?
+
+
+?? n
+
+2 ?1/ 2
+
+
+
+d ( X i , X
+
+j ) ? ??
+?? k ?1
+
+xik
+
+? x jk	?	;
+??
+
+====
+?	?	n
+
+d ( X i , X j ) ? ? xik ? x jk ;
+k ?1
+====
+?	?	n
+
+d ( X i , X j ) ? ?
+k ?1
+++++
+Formulalarning qaysi biri Kamberra masofasi ekanligini ko'rsating
+====
+?	?	n
+
+# d ( X i , X j ) ? ?
+k ?1
+====
+?	?	n
+
+d ( X i , X j ) ? ? xik ? x jk ;
+k ?1
+====
+?	?
+d ( X i , X j ) ? max xik ? x jk .
+k
+
+====
+?	?
+
+
+?? n
+
+2 ?1/ 2
+
+
+
+d ( X i , X
+
+j ) ? ??
+?? k ?1
+
+xik
+
+? x jk	?
+??
+
+++++
+O'xshashlik funksiyalaridagi a koeffisiyent qaysi formula bilan hisoblanadi.
+====
+# ? xik ? x jk k ?1
+====
+?(1 ? xik ) x jk k ?1
+====
+? xik (1 ? x jk )
+k ?1
+====
+?(1 ? xik ) (1 ? x jk )
+k ?1
+++++
+O'xshashlik funksiyalaridagi h koeffisiyent qaysi formula bilan hisoblanadi.
+====
+# ?(1 ? xik ) x jk k ?1
+====
+
+
+
+? xik ? x jk k ?1
+====
+? xik (1 ? x jk )
+k ?1
+====
+?(1 ? xik ) (1 ? x jk )
+k ?1
+++++
+O'xshashlik funksiyalaridagi q koeffisiyent qaysi formula bilan hisoblanadi.
+====
+# ? xik (1 ? x jk )
+k ?1
+====
+?(1 ? xik ) x jk k ?1
+====
+? xik ? x jk k ?1
+====
+?(1 ? xik ) (1 ? x jk )
+k ?1
+++++
+O'xshashlik funksiyalaridagi b koeffisiyent qaysi formula bilan hisoblanadi.
+====
+# ?(1 ? xik ) (1 ? x jk )
+k ?1
+====
+?(1 ? xik ) x jk k ?1
+====
+? xik (1 ? x jk )
+k ?1
+====
+? xik ? x jk k ?1
+++++
+Rassel va Rao funksiyasi qaysi formula bilan hisoblanadi.
+====
+
+# S1 (xi , x
+====
+
+j ) ?
+
+d
+
+
+d ? b ? q ? h
+
+? d ; h
+
+S6 (xi , x
+
+j ) ?
+
+d	;
+q ? h
+
+====
+
+S3 (xi , x
+
+j ) ?
+
+d	;
+2d ? h ? q
+
+====
+S8 (xi , x j ) ?	;
+
+++++
+Jokar va Nidmen funksiyasi qaysi formula bilan hisoblanadi.
+====
+# S2 (xi , x j ) ? n ? b ;
+====
+
+S7 (xi , x
+
+) ? 1 [
+j	2
+  
+d d ? q
+
+?		d	]; d ? h
+
+====
+
+S9 (xi , x
+
+) ? d ? b ? q ? h .
+j	db ? qh
+
+====
+
+S3 (xi , x
+
+j ) ?
+
+d	;
+2d ? h ? q
+
+++++
+Days funksiyasi qaysi formula bilan hisoblanadi.
+====
+# S3 (xi , x j ) ? 2d ? h ? q ;
+====
+
+S1 (xi , x
+====
+
+j ) ?
+
+d
+
+
+d ? b ? q ? h
+
+? d ; h
+
+S8 (xi , x j ) ?	;
+
+====
+
+S7 (xi , x
+
+) ? 1 [
+j	2
+  
+d d ? q
+
+?		d	]; d ? h
+
+++++
+Sokal va Skif funksiyasi qaysi formula bilan hisoblanadi.
+====
+
+# S4
+
+(xi , x
+
+j ) ?
+
+d	;
+d ? 2(q ? h)
+
+====
+
+S9 (xi , x
+
+) ? d ? b ? q ? h .
+j	db ? qh
+
+====
+
+S6 (xi , x
+
+j ) ?
+
+d	;
+q ? h
+
+====
+
+S2 (xi , x
+
+j ) ?
+
+d	;
+n ? b
+
+++++
+Sokal va Mishner funksiyasi qaysi formula bilan hisoblanadi.
+====
+
+# S5 (xi , x j ) ?
+====
+
+d ? b ; h
+
+S1 (xi , x
+====
+
+j ) ?
+
+d
+
+
+d ? b ? q ? h
+
+? d ; h
+
+S7 (xi , x
+
+) ? 1 [
+j	2
+  
+d d ? q
+
+?		d	]; d ? h
+
+====
+S8 (xi , x j ) ?	;
+
+++++
+Kuljinskiy funksiyasi qaysi formula bilan hisoblanadi.
+====
+# S6 (xi , x j ) ? q ? h ;
+====
+
+S1 (xi , x
+====
+
+j ) ?
+
+d
+
+
+d ? b ? q ? h
+
+? d ; h
+
+S4 (xi , x
+
+j ) ?
+
+d	;
+d ? 2(q ? h)
+
+====
+S8 (xi , x j ) ?	;
+
+++++
+Mazurov funksiyasi qaysi formula bilan hisoblanadi.
+====
+
+# S7
+
+(xi , x
+
+) ? 1 [
+j	2
+  
+d d ? q
+
+?		d	]; d ? h
+
+====
+
+S4 (xi , x
+
+j ) ?
+
+d	;
+d ? 2(q ? h)
+
+====
+S1 (xi , x
+====
+
+
+j ) ?
+
+
+d
+
+
+d ? b ? q ? h
+
+
+? d ; h
+
+S9 (xi , x
+
+) ? d ? b ? q ? h .
+j	db ? qh
+
+++++
+Sirodja funksiyasi qaysi formula bilan hisoblanadi.
+====
+# S8 (xi , x j ) ?	;
+====
+
+S4 (xi , x
+
+j ) ?
+
+d	;
+d ? 2(q ? h)
+
+====
+
+S6 (xi , x
+
+j ) ?
+
+d	;
+q ? h
+
+====
+S1 (xi , x
+++++
+
+
+j ) ?
+
+
+d
+
+
+d ? b ? q ? h
+
+
+? d ; h
+
+Yul funksiyasi qaysi formula bilan hisoblanadi.
+====
+
+# S9 (xi , x j ) ?
+====
+
+d ? b ? q ? h . db ? qh
+
+S4 (xi , x
+
+j ) ?
+
+d	;
+d ? 2(q ? h)
+
+====
+S1 (xi , x
+====
+
+
+j ) ?
+
+
+d
+
+
+d ? b ? q ? h
+
+
+? d ; h
+
+S7 (xi , x
+
+) ? 1 [
+j	2
+  
+d d ? q
+
+?		d	]; d ? h
+
+++++
+"Maksmin" algoritmining maqsadi.
+====
+#obyektlar orasidagi masofani hisoblash o'qituvchi yordamisiz sinflarga ajratadigan va sinflar sonini avtomatik ravishda aniqlaydi
+====
+obyektlar orasidagi masofani hisoblash o'qituvchi yordami bilan sinflarga ajratadigan va sinflar sonini avtomatik ravishda aniqlaydi
+====
+obyektlar orasidagi masofani hisoblash sinflar yordami bilan tasvirlarga ajratadigan va tasvirlar sonini avtomatik ravishda aniqlaydi
+====
+obyektlar orasidagi masofani hisoblash tasvirlar yordamisiz sinflarga ajratadigan va sinflar sonini avtomatik ravishda aniqlaydi
+++++
+"Maksmin" algoritmi-...
+====
+#erkin tanlovdan tayanch obyektlarni topishga va bu obyektlar orqali sinflarni hosil qilishga asoslangan.
+
+====
+erkin tanlovdan tayanch masofalarni topishga va bu masofalar orqali sinflarni hosil qilishga asoslangan
+====
+erkin tanlovdan tayanch tasvirlarni topishga va bu tasvirlar orqali sinflarni hosil qilishga asoslangan
+====
+erkin tanlovdan tayanch tasvirlarni topishga va bu tasvirlar orqali masofalarni hosil qilishga asoslangan
+++++
+"Maksmin" algoritmi nechta qadamdan iborat.
+==== #16
+==== 21
+==== 12
+==== 30
+++++
+"Maksmin" algoritmi kachon o'z ishini to'xtatadi
+====
+#Agar sinflar soni va yadrolar o'zgarmasdan qolsa,
+====
+Agar tasvirlar soni va masofalar o'zgarmasdan qolsa
+====
+Agar obyektlar soni va masofalar o'zgarmasdan qolsa
+====
+Agar obyektlar soni va tasvirlar o'zgarmasdan qolsa
+++++
+"K o'rtacha" algoritmi "Maksmin" algoritmidan kanday farq qiladi
+====
+#boshlang'ich shartlari va markazlar soni bilan
+====
+chegaraviy shartlari va masofalar soni bilan
+====
+asosiy shartlari va obyektlar soni bilan
+====
+bevosita shartlari va sinflar soni bilan
+++++
+"IZODATA" algoritmi.
+====
+#yadrolar soni obyektlarni o'rganish jarayonida ketma - ket hosil qilinadi va obyektlar topilgan yadrolar asosida sinflashtiriladi.
+====
+boshlang'ich shartlar obyektlarni o'rganish jarayonida ketma - ket hosil qilinadi va obyektlar topilgan boshlang'ich shartlar asosida sinflashtiriladi.
+====
+tasvirlar soni obyektlarni o'rganish jarayonida ketma - ket hosil qilinadi va obyektlar topilgan tasvirlar asosida sinflashtiriladi.
+====
+chegaraviy shartlar obyektlarni o'rganish jarayonida ketma - ket hosil qilinadi va obyektlar topilgan chegaraviy shartlar asosida sinflashtiriladi.
+++++
+"IZODATA" algoritmi nechta qadamdan iborat.
+==== #6
+==== 10
+====
+
+14
+==== 9
+++++
+Obektlarni kodli tavsiflash-
+====
+#mutloq va nisbiy kodli tavsiflashga bo'linadi
+====
+mutloq va nisbiy bulmagan kodli tavsiflashga bo'linadi
+====
+oddiy va abstrak kodli tavsiflashga bo'linadi
+====
+absalyut va tasviriy kodli tavsiflashga bo'linadi
+++++
+Neyrotarmoq texnologiyasini qo'llash nechta bosqichdan iborat
+==== #3
+==== 5
+==== 8
+==== 12
+++++
+Neyronlarni nechta turga ajratish mumkin
+==== #3
+==== 7
+==== 10
+==== 6
+++++
+Neyrotarmoqli dasturi kaysi firmasi tomonidan nechanchi yillarda ishlab chiqilgan -
+++++
+#1990 - yillarda California Scientific SoftWare
+====
+1920 - yillarda Sony Ericsson CoftVare
+====
+1895 - yillarda Microsoft Windows Vista
+====
+1960 - yillarda Nokia Music Store
+++++
+DENDRAL - qanday vazifani bajargan?:
+====
+#murakkab organik molekulalar strukturalarini tanish uchun qo'llaniladigan ekspert tizim;
+====
+idrok etuvchi, dinamik muhitda murakkab rejalarni amalga oshiruvchi ekspert tizim;
+====
+mehanik integrallashgan robotlarni boshqaruvchi ekspert tizim;
+====
+robotlarni ishlab chiqarishga mo'ljallangan ekspert tizim.
+++++
+MYCIN - qanday vazifani bajargan?:
+====
+#ichak kasalliklariga tashxis qo`yuvchi ekspert tizim;
+
+====
+murakkab rejalarni amalga oshiruvchi ekspert tizim;
+====
+iqtisodiy masalalarni boshqaruvchi ekspert tizim;
+====
+bank operatsiyalariga mo'ljallangan ekspert tizim.
+++++
+PROSPECTOR -qanday vazifani bajargan?:
+====
+#foydali qazilmalarni topishda maslahat beruvchi ekspert tizim;
+====
+loyihalashni amalga oshiruvchi ekspert tizim;
+====
+biznes masalalarni boshqaruvchi ekspert tizim;
+====
+bank operatsiyalariga mo'ljallangan ekspert tizim.
+++++
+Prolog, FRL, KRL, GUS - nima?:
+====
+#mantiqiy dasturlash tillari;
+====
+loyihalashni amalga oshiruvchi ekspert tizimlar;
+====
+biznes masalalarni boshqaruvchi muloqat tizimlar;
+====
+bank operatsiyalariga mo'ljallangan dasturlar.
+++++
+??qdim etil?dig?n biliml?r t?r?ibi quyid?gil?rni t?'minl?ydi:
+====
+#?izimd? m?dell?shtiril?dig?n m?hiyatni ?de?v?t t?svirl?sh
+====
+??nsteptu?l biliml?rni t?r?ibini sh??ll?ntirish
+====
+?izimd? f??tu?l biliml?rni t?svirl?sh
+====
+Intelle?tu?l tiziml?rni ishl?sh s?m?r?si
+++++
+Nim?ni e?spert tiziml?rining o'zini ?ngl?shishig? ?iritish mum?in?:
+====
+#O'z mul?h?z?l?rini t?dqiq?t qilish q?biliyati
+====
+Mur????b q?id?l?rd?n f?yd?l?nish q?biliyati
+====
+Q?r?rl?rning e?spert d?r?j?sig? erishish q?biliyati
+====
+M?'lum?tl?r v? biliml?rning must?qilligi, o'zini ?ngl?sh
+++++
+Predmetli s???ning j?riy ??l?tini ?ldind?n ?niql?shni yoki q?yt? sh??ll?ntirishni ?m?lg? ?shiruvchi v?zif? bu.......
+====
+#??hlil qilish v?zif?si
+====
+O'zg?rtirish v?zif?si
+====
+Predmetli s???ni belgil?sh v?zif?si
+====
+??nl?sh v?zif?si
+
+++++
+Det?lli? d?r?j?si quyid?gich? b?g'l?ng?n
+====
+#Biliml?rni m?ntiqiy v? jism?niy t?sh?il qilish bo'yich?
+====
+Met?biliml?r bo'yich?
+====
+Mu?mm?li s?h? bo'yich? tizim biliml?ri bo'yich?
+====
+Predmetli biliml?r bo'yich?
+++++
+Biliml?r b?z?si tiziml?rining ?s?siy ??mp?nentl?ri bo'lib quyid?gil?r his?bl?n?di:
+====
+#biliml?r b?z?si, interfeys, echiml?r ?lish me??nizmi
+====
+biliml?r b?z?si, echiml?r ?lish me??nizmi,
+====
+biliml?r b?z?si, interfeys, MBB?, ??b?r?t m?ssiv
+====
+biliml?r b?z?si, interfeys, chiq?rish me??nizmi
+++++
+Biliml?rning t?sh?il qilish ?stid? nim? tushunil?di
+====
+#biliml?rni t?r?ibl?shtirish
+====
+biliml?r b?z?sig? biliml?rni ?iritish
+====
+biliml?r b?z?sini m?ssivl?rini yar?tish
+====
+m?'lum?tl?r b?z?sini m?ssivl?rini yar?tish
+++++
+Biliml?r b?z?sid?gi biliml?r quyid?gi guru?l?rg? bo'lin?di
+====
+#interpret?stiyal?ng?n v? interpret?stiyal?nm?g?n
+====
+yord?mchi biliml?r v? mul?q?t to'g'risid?gi biliml?r
+====
+?per?sti?n biliml?r v? q?id?l?r.
+====
+Te?n?l?gi? v? sem?nti?
+++++
+F?yd?l?nuvchi v? biliml?r mu??ndisi intelle?tu?l ??b?r?t tizim biliml?r b?z?si bil?n quyid?gil?r ?rq?li mul?q?t qilish?di:
+====
+#lingvisti? pr?stess?r ?rq?li.
+====
+ishchi ??tir?, interpret?t?r v? lingvisti? pr?stess?r.
+====
+interpret?t?r v? ?rtirilg?n biliml?r.
+====
+ishchi ??tir? v? tushintirish ??mp?nent?si.
+++++
+To'plam elementlarini (ob'ektlar, ma'lumotlar, xarakteristikalar vektorlari) o'xshashlik printsipiga ko'ra avtomatik ravishda guruhlarga bo'lish:
+====
+#klasterlash
+====
+
+tasnifi
+====
+interpolyatsiya
+====
+modulyatsiya
+++++
+Ma'lumotni bilimga, bilimni esa foyda olish uchun biznes harakatlariga aylantirish jarayoni. Bu turli xil tahliliy va guruh vositalari va ilovalari, shuningdek, ma'lumotlar ombori infratuzilmasi tomonidan osonlashtirilgan oxirgi foydalanuvchi faoliyati:
+====
+#Biznes razvedkasi
+====
+Bepul qidiruv
+====
+Istisno tahlili
+====
+Tasniflash
+++++
+Ekspert tizimi:
+====
+#odatda inson tajribasini talab qiladigan muammolarni hal qilish uchun ==== kompyuterga kiritilgan inson bilimlaridan foydalanadigan tizim.
+====
+ob'ektlar, hodisalar yoki jarayonlar sinfini ifodalash uchun zarur bo'lgan ma'lumotlarning minimal tuzilmalari
+====
+o'rganish, o'qish va tajriba natijasida olingan muammoni hal qilish uchun keng, aniq bilimlar.
+====
+muammolarni tushunish, shakllantirish va hal qilish uchun zarur bo'lgan bilimlar.
+++++
+Tahlilchi - bu . . .:
+====
+#tahlil va modellashtirish sohasidagi mutaxassis
+====
+mavzu bo'yicha mutaxassis;
+====
+muayyan vazifalarni hal qiluvchi shaxs;
+====
+dasturlash tajribasiga ega bo'lgan shaxs.
+++++
+Mutaxassis - bu . . .:
+====
+#fan sohasi mutaxassisi;
+====
+tahlil qilish va modellashtirish sohasidagi mutaxassis;
+====
+shaxs, muayyan muammolarni hal qilish;
+====
+dasturlash bo'yicha tajribaga ega bo'lgan shaxs.
+++++
+Regressiya muammosi . . . gacha kamayadi.
+====
+#uning ayrim parametrlarining qiymatini ob'ektning ma'lum xususiyatlari bo'yicha aniqlash;
+====
+ob'ekt sinfini uning xususiyatlariga ko'ra aniqlash;
+====
+ob'ektlar yoki hodisalar o'rtasida tez-tez bog'liqliklarni topish;
+
+====
+tahlil qilinadigan ma'lumotlarning butun majmuasida mustaqil guruhlarni va ularning xususiyatlarini qidirish.
+
+++++
+Klasterlash vazifasi . . .:
+====
+#tahlil qilinadigan ma'lumotlarning butun majmuasida mustaqil guruhlarni va ularning xususiyatlarini qidirish.
+====
+ob'ekt sinfini uning xususiyatlariga ko'ra aniqlash;
+====
+uning ayrim parametrlarining qiymatini ob'ektning ma'lum xususiyatlari bo'yicha aniqlash;
+====
+ob'ektlar yoki hodisalar o'rtasida tez-tez bog'liqliklarni topish;
+++++
+Assotsiatsiya qoidalarini topishdan maqsad . . .:
+====
+#ob'ektlar yoki hodisalar o'rtasida tez-tez bog'liqliklarni topish;
+====
+ob'ekt sinfini uning xususiyatlariga ko'ra aniqlash;
+====
+uning ayrim parametrlarining qiymatini ob'ektning ma'lum xususiyatlari bo'yicha aniqlash;
+====
+tahlil qilinadigan ma'lumotlarning butun majmuasida mustaqil guruhlarni va ularning xususiyatlarini qidirish.
+++++
+Gipoteza qilingan modellardan oldin ushbu ma'lumotlar modellari:
+====
+#klassifikatsiya modellari va ketma-ketliklari;
+====
+regressiv, klasterlash, istisno qilish, umumlashtirish va assotsiatsiya;
+====
+tasniflash, klasterlash, chiqarib tashlash, jami va birlashmalar;
+====
+klassifikatsiya, ketma-ketlik va istisnolar modellari.
+
+++++
+Ta'riflovchi modellar quyidagi ma'lumotlar modellarini o'z ichiga oladi:
+====
+#regressiv, klasterlash, istisno qilish, umumlashtirish va assotsiatsiya;
+====
+klassifikatsiya modellari va ketma-ketliklari;
+====
+tasniflash, klasterlash, chiqarib tashlash, jami va birlashmalar;
+====
+klassifikatsiya, ketma-ketlik va istisnolar modellari.
+++++
+10 ta ketma-ketlik modellari tasvirlangan . . .:
+====
+#uzluksiz o'zgarishlarni bashorat qilish imkonini beruvchi funksiyalar raqamli parametrlar;
+====
+qoidalar yoki qoidalar to'plami, unga ko'ra siz mumkin har qanday yangi ob'ekt tavsifini sinflardan biriga tayinlash;
+====
+
+odamlarga tushunarli shakldagi qaram va mustaqil ko'rsatkichlar va o'zgaruvchilar o'rtasidagi funktsional bog'liqliklar;
+====
+ob'ektlarni bo'lish mumkin bo'lgan guruhlar, ular to'g'risidagi ma'lumotlar tahlil qilinadi.
+++++
+Ma'lumotlarni tozalash - . . .:
+====
+#bartaraf etishga qaratilgan usullar va tartiblar majmui to'g'ri ishlov berishga xalaqit beradigan sabablar: anomaliyalar, kamchiliklar, dublikatlar, qarama-qarshiliklar, shovqinlar va boshqalar.
+====
+ma'lumotlarni ba'zi ma'lumotlar bilan to'ldirish jarayoni, bu esa analitik vazifalarni ajratish samaradorligini oshirishga imkon beradi.
+====
+analitik muammoni ajratish uchun foydali bo'lishi mumkin bo'lgan tuzilgan ma'lumotlarni o'z ichiga olgan ob'ekt ma'lumotlarni olishga qaratilgan usullar va protseduralar to'plami turli manbalar, ularning zarur darajasini ta'minlash.
+====
+axborot mazmuni va sifati, ularni ma'lumotlar omboriga yoki tahliliy tizimga yuklash mumkin bo'lgan yagona formatga aylantirish
+
+++++
+Metadata - . . .:
+====
+#axborot modelini aks ettirishning yuqori darajali vositalari va ma'lumotlar strukturasi tavsifi
+====
+foydalanuvchi nuqtai nazaridan, odatda ma'lumotlar bazasiga kirish bilan bog'liq bo'lgan ba'zi ma'lumotlar bo'yicha amalga oshirilgan yagona bajarilgan deb hisoblanadigan ma'lumotlar bazasidagi muayyan operatsiyalar to'plami.
+====
+jarayonni qo'llab-quvvatlashga qaratilgan saqlash tizimlarining bir turi ma'lumotlar tahlili yaxlitligi, ta'minlaydi, izchillik va ma'lumotlarning xronologiyasi, shuningdek, analitikni bajarishning yuqori tezligi so'rovlar
+====
+bu diskret chiqish o'zgaruvchisining kirish o'zgaruvchilariga bog'liqligini o'rnatish
+++++
+Bog'langan hodisalar orasida qonuniyatni aniqlash bu -:
+====
+# assotsiativ qoidalarni izlash
+====
+klassifiktsiya
+====
+klasterizatsiya
+====
+regressiya
+++++
+Tavsifiy masalalar
+====
+# izlanayotgan ma'lumotlarning bog'liqlik mohiyatiga e'tibor qaratadi
+====
+izlanayotgan ma'lumotlarning hajmiga e'tibor qaratadi
+====
+izlanayotgan ma'lumotlarning mazmuniga e'tibor qaratadi
+====
+to'g'ri javob keltirilmagan
+++++
+Oldindan sinflarning ma'lum bo'lishi ... masalasining xususiyati hisoblanadi
+====
+
+# klassifikatsiya
+====
+kasterizatsiya
+====
+assotsiativ qoidalarni izlash
+====
+regressiya
+++++
