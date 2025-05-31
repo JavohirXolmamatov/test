@@ -5,7 +5,7 @@ function App() {
     <div className="container">
       <h1 className="title">Hammamiz kirib ketaylik🤣</h1>
       <iframe
-        src="../public/Kompyuter falsafasi.txt"
+        src="/Kompyuter falsafasi.txt"
         title="Text File"
         className="responsive-iframe"
       ></iframe>
