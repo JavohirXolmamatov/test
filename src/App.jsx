@@ -3,9 +3,9 @@ import "./App.css";
 function App() {
   return (
     <div className="container">
-      <h1 className="title">Test</h1>
+      <h1 className="title">Hammamiz kirib ketaylik</h1>
       <iframe
-        src="/Malumotlar intellektual tahlili 2025.txt"
+        src="/Test_OT.txt"
         title="Text File"
         className="responsive-iframe"
       ></iframe>
