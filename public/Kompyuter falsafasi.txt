@@ -1,0 +1,2406 @@
+"Falsafa" so’zining ma’nosini aniqlang{
+===="bilimni sevish";
+===="ilmni sevish";
+====#"donishmandlikni sevish";
+===="bahs-munozarani sevish";
+++++
+
+"Falsafa" atamasi qachon paydo bo’lgan?{
+====m. VIII-IV asrlarda;
+====#m. VII-III asrlarda;
+====m. VI-II asrlarda;
+====m. V-I asrlarda;
+++++
+
+"Falsafa" atamasini birinchi bo’lib qayerda va kim ishlatgan?{
+====Qadimgi Hindistonda, Vardxamana;
+====Qadimgi Xitoyda, Lao-szы;
+====#Qadimgi Yunonda, Pifagor;
+====Qadimgi Rimda, Lukresiy Kar;
+++++
+
+"Substansiya" so’zining ma’nosini aniqlang:{
+====#"mohiyat";
+===="mazmun";
+===="asos";
+===="g’oya";
+++++
+
+"Substansiya" tushunchasining talqiniga daxldor quyidagi javoblardan biri noto’g’ri. Uni toping:{
+====Pifagor: "Hamma narsa sonlardan tashkil topgan";
+====Platon: "Substansiya - bu g’oyalardir";
+====Demokrit: "Olamning asosida atomlar yotadi";
+====#Aristotel: "Substansiya dunyoni bilishdan iborat";
+++++
+
+"Plyuralizm" tushunchasining mazmuniga doir to’g’ri javobni toping:{
+====olamning asosi yakkayu yagona sababga ega;
+====olamning asosida ikkita asos - ham modda va ham ruh, g’oya yotadi;
+====#olamning asosida ko’p narsa va g’oyalar yotadi;
+====olam faqat moddiy narsalardan iborat;
+++++
+
+"Dialektika" atamasining asl ma’nosini aniqlang:{
+===="bilish nazariyasi";
+====#"bahs va suhbatlashish san’ati";
+===="tabiatdan keyin";
+===="ataylab chalg’itish";
+++++
+
+Falsafaning gnoseologik vazifasi nimadan iborat?{
+====#dunyoni bilishdan;
+====inson va dunyoqarashni shakllantirishdan;
+====biron narsani kashf etishdan;
+====inson faoliyatida biron usul va uslubdan foydalanishdan;
+++++
+
+Tabiatdagi jism va hodisalar dastlabki ibtido-suvdan paydo bo’lgan va yana suvga aylanadi, bu moddiy birlik doimo o’zgarishda, - bu aqida qaysi faylasufga mansubdir?{
+====#Fales;
+====Anaksimandr;
+====Anaksimen;
+====Geraklit;
+++++
+
+"Kurash hamma narsaning otasi, hamma narsaning podshosidir", - bu so’zlarni kim aytgan?{
+====Pifagor;
+====#Geraklit;
+====Demokrit;
+====Epikur;
+++++
+
+Borliq to’g’risidagi falsafiy fanni aniqlang:{
+====gnoseologiya;
+====#ontologiya;
+====aksiologiya;
+====praksiologiya;
+++++
+
+"Ikkinchi tabiat" borlig’ini qanday tavsif qilish mumkin?{
+====tabiiy tabiatda mavjud bo’lgan narsalar borlig’i;
+====tabiiy tabiatda mavjud bo’lmagan narsalar borlig’i;
+====#odam mehnati bilan ishlab chiqarilgan narsalar borlig’i;
+====to’g’ri javob yo’q;
+++++
+
+Borliqning eng asosiy atributini aniqlang:{
+====#harakat;
+====harakatsizlik;
+====o’zgarish;
+====o’zgarmaslik;
+++++
+
+Tabiat borlig’ining darajalari qaysi tushunchalar qatorida ifodalangan?{
+====tabiat, jamiyat, ong;
+====#makrodunyo, mikrodunyo, megadunyo;
+====organik dunyo, anorganik dunyo, ijtimoiy dunyo;
+====biosfera, noosfera, ekosfera;
+++++
+
+Olamdagi narsa, voqyea va jarayonlarga xos bo’lgan aniq, yagona, takrorlanmaydigan belgilar hamda xususiyatlarni ifodalaydigan falsafiy kategoriyani aniqlang:{
+====#alohidalik kategoriyasi;
+====umumiylik kategoriyasi;
+====xususiylik kategoriyasi;
+====to’g’ri javob yo’q;
+++++
+
+Olamdagi narsa va hodisalar doimo o’zgarib, rivojlanib boradi, bu jarayonlarda narsalar doimo paydo bo’ladi, o’zgarib turadi. Bu holat falsafaning qaysi kategoriyalarida o’rganiladi?{
+====zaruriyat va tasodif;
+====imkoniyat va voqyelik;
+====#miqdor va sifat;
+====mohiyat va hodisa;
+++++
+
+Voqyelikdagi sababiy bog’lanishlar bilan aloqador ikki falsafiy oqimni aniqlang:{
+====dialektika va metafizika;
+====sofistika va ekletika;
+====sinergetika va struktualizm;
+====#determinizm va indeterminizm;
+++++
+
+«O’zingni bilsang, olamni bilasan», - o’z-o’zini anglash mavzusiga tegishli bu hikmatni qaysi faylasuf aytgan?{
+====Pifagor;
+====#Suqrot;
+====Demokrit;
+====Epikur;
+++++
+
+Falsafaning bilish masalalari bilan shug’ullanuvchi sohasini aniqlang:{
+====#gnoseologiya;
+====aksiologiya;
+====ontologiya;
+====praksiologiya;
+++++
+
+Bilish obyektini aniqlang:{
+====#insonning ilmiy faoliyatiga qaratilgan barcha narsa, hodisa, jarayon, munosabatlar;
+====insonning ilmiy faoliyatida faqat tabiat hodisalari va ularning mavjudlari bilish;
+====faqat jamiyat (ijtimoiy) munosabatlar;
+====faqat insonning o’zi;
+++++
+
+Bilish subyektini aniqlang:{
+====bilish bilan shug’ullanuvchi kishilar;
+====bilish bilan shug’ullanuvchi butun insoniyat;
+====#bilish bilan shug’ulanuvchi kishilar va butun insoniyat;
+====bilishning subyekti yo’q;
+++++
+
+G’oya shakllarining quyidagi tasnifida bir-birini inkor qilmaydigan g’oyalar qatorini ko’rsating:{
+====diniy va dunyoviy g’oyalar;
+====diniy va tabiiy-ilmiy g’oyalar;
+====ilmiy va g’ayri ilmiy g’oyalar;
+====#milliy va umuminsoniy g’oyalar;
+++++
+
+Falsafaning qadriyatlarni o’rganuvchi tarkibiy qismini aniqlang:{
+====ontologiya;
+====#aksiologiya;
+====mifologiya;
+====teologiya;
+++++
+
+Tadqiqot predmetini chuqur o’rganish jarayonida fanning yangi soha va tarmoqlari vujudga keladi. Quyidagi  javoblarda tabiatshunoslik sohalarini belgilang:{
+====#botanika, zoologiya, kimyo, matematika, fizika;
+====arxeologiya, antropologiya, etnografiya;
+====ontologiya, gnoseologiya, aksiologiya;
+====algebra, geometriya, trigonometriya;
+++++
+
+Yevropa madaniyatiga "filosofiya" atamasi qaysi faylasuf asarlari orqali kirgan?{
+====Ksenofan asarlari orqali;
+====Arastu asarlari orqali;
+====#Aflotun asarlari orqali;
+====Farobiy asarlari orqali;
+++++
+
+Falsafiy dunyoqarash tarkibidagi eng muhim qismlarni aniqlang:{
+====bilim, tasavvur, fikr;
+====#e’tiqod, hissiyot, aql;
+====g’oya, maqsad, ishonch;
+====sezgi, hissiyot, bilim;
+++++
+
+Falsafiy dunyoqarashning kommunikativ vazifasi qaysi javobda ko’rsatilgan?{
+====baholash;
+====boshqarish;
+====nazorat qilish;
+====#birlashtirish;
+++++
+
+Falsafiy fanlar tizimida keltirilgan "estetika" tushunchasi mohiyatini qanday tavsiflash mumkin?{
+====#jamiyat va inson hayotida go’zallikning o’rni, qonun-qoidalari haqidagi fan;
+====insonning axloqiy faoliyati, uning talab va tartib-qoidalari to’g’risidagi fan;
+====insonning o’zgartiruvchan, amaliy faoliyati to’g’risidagi falsafiy ta’limot;
+====bilish, uning shakllari, usullari va imkoniyatlari to’g’risidagi falsafiy ta’limot;
+++++
+
+Falsafaning tarbiyaviy funksiyasi qaysi javobda ifodalangan?{
+====olam va odamni bilish;
+====olam va odam xossalarini kashf etish;
+====#inson dunyoqarashini tarbiyalash va shakllantirish;
+====borliqning foydali tomonlarini o’rganish;
+++++
+
+"Oqar suvga bir soniyada ikki marta tushish mumkin emas, chunki suv har daqiqada yangilanib turadi". Bu falsafiy hikmat kimga mansub?{
+====#Geraklitga;
+====Ksenofanga;
+====Aflotunga;
+====Arastuga;
+++++
+
+Demokrit, Epikur va Lukresiy Kar o’z falsafiy ta’limotlarida qaysi yagona fikrni ilgari surganlar?{
+====olam moddalardan iborat;
+====olam g’oyalardan iborat;
+====#olam atomlardan iborat va ular-bo’linmas va o’zgarmas;
+====olamdagi hamma narsa harakatda;
+++++
+
+Estetik tarbiya nima?{
+====guzallikni tatbik etish;
+====#ijodiy faol bo’lgan inson shaxsni shakllantirish ;
+====insonparvarlik ;
+====ta’lim tarbiya vositasi ;
+++++
+
+San’atda go’zallikning ifodasini ko’rsating?{
+====ijtimoiy xayot ;
+====inson mexnati ;
+====#san’at tabiatini anglash;
+====tabiatdagi go’zallik;
+++++
+
+«Estetika» fanining o’rganish doirasi nima?{
+====#borliqni estetik o’zlashtirish doirasi va qonuniyatlari ;
+====moddiy va ma’naviy boyliklar doirasi va qonuniyatlari;
+====voqyelik olami;
+====go’zallik olami ;
+++++
+
+Farobiyning estetikaga doir asarini ko’rsating.{
+====#Musiqa haqida katta kitob;
+====Fozil odamlar shahri;
+====Musiqa haqida so’z;
+====Xattotlik haqida kitob;
+++++
+
+San’atda badiiy haqiqat qanday namoyon bo’ladi?{
+====san’at asarlarida ;
+====#badiiy qiyofalar tizimi orqali ;
+====obrazlarda ;
+====amaliyotda ;
+++++
+
+Badiiy adabiyot nima?{
+====xalq madaniy merosi;
+====badiiy madaniyat turi;
+====milliy tafakkur turi ;
+====#so’z san’ati;
+++++
+
+Quyidagilardan qaysi biri estetiga kategoriyasi hisoblanmaydi.{
+====go’zallik;
+====ulug’vorlik ;
+====#Axloq;
+====kulgililik;
+++++
+
+Materializm bu...{
+====#borliqdagi barcha narsalarning birlamchi asosi moddiy ibtidodir, deb e’tirof qiladigan falsafiy ta’limot;
+====moddiy olamdagi barcha narsalarni ikkilamchi ekanligini e’tirof qiladigan ta’limot ;
+====g’oya barcha mavjud narsalarning majmuasidir, deb hisoblaydigan konsepsiya;
+====olamdagi barcha nomoddiy narsalarni keltirib chikaradigan birlamchi substansiya haqidagi qarashdir ;
+++++
+
+Idealizm bu...{
+====#barcha narsalarning birlamchi asosini tashkil qiladigan moxiyat ruxdir, deb e’tirof qiladigan ta’limot;
+====moddiy va ma’naviy narsalarni keltirib chiqaradigan ruxiy substansiyalar majmuasi xaqidagi qarash ;
+====ideal olam haqidagi qarashlar tizimi ;
+====«men uchun mendan yukori bo’lgan narsa yo’qdir», deb hisoblaydigan ta’limot ;
+++++
+
+Rasionalizm bu...{
+====#bilimimizning shakl va mazmunini, faoliyatimiz tartibi va yunalishini akl belgilaydi deb hisoblaydigan ta’limot;
+====barcha narsa va xodisalar, axborot va bilimlar manbai ongdir deb hisoblaydigan ta’limot;
+====butun moddiy va ma’naviy faoliyatimizni, uning yunalishi va istikbolini akl boshkaradi deb hisoblaydigan ta’limot;
+====barcha javoblar to’g’ridir ;
+++++
+
+Panteizm bu...{
+====#xudo shaxssiz ibtido bo’lib, tabiat bilan aynanligini e’tirof etadi;
+====olam yagona sifatdan tashkil topgan deb tushuntiruvchi ta’limotdir;
+====borlik haqidagi ta’limotdir ;
+====tabiat haqidagi ta’limotdir;
+++++
+
+Xarakat va o’zgarishlarni inkor kiladigan aporiyalarni muallifi kim?{
+====#Zenon ;
+====Aristotel ;
+====Sukrot ;
+====Platon ;
+++++
+
+O’zgarish, xarakat va rivojlanish manbai ziddiyat ekanligini kim aytgan?{
+====#Gegel;
+====Leybnis ;
+====Ko’zanskiy ;
+====Kant ;
+++++
+
+Bilish nima?{
+====#vokelikni inson ongida in’ikos etishga karatilgan faoliyatidir;
+====vokelikda moda, energiya va axborotni miyada ifodalanishi;
+====vokelikdan olingan tasavvurlarni ongda bir tizimga keltirilishi;
+====barcha javoblar tugri;
+++++
+
+Mavjudlik tushunchasi{
+====#borlikdagi barcha narsa va xodisalarni vokeligi, bor bo’lishi;
+====borlikni mavjudmasligi;
+====borlik va yuklikni mavjudligidir;
+====imkoniyatni mavjudligidir;
+++++
+
+Ruxiy borliq...{
+====#ong, e’tikod, akl – zakovat va xis – tuygulardan tashkil topgan ma’naviy mavjudlikdir;
+====odamni ichki dunyosini ifodalaydi va faqat tafakkur bilan bog’liq bo’lgan mavjudlik shakli;
+====ma’anviy olamni belgilaydigan xosila;
+====ichki dunyoni tashkariga chikaradigan ongdir;
+++++
+
+Inson borlig’i{
+====#insonning bio – tabiiy, ijtimoiy, shaxsiyatli va ma’anviy jihatlari birligi;
+====barcha yer yuzida yashovchi kishilarni hayoti;
+====individning iqtisodiy va ma’naviy, siyosiy va huquqiy  xossalarini majmuasi;
+====xis kiluvchi va fikrlovchi odam hayoti;
+++++
+
+«Dialektike texne» (baxslashuv san’ati) tushunchasini kim ishlab chikkan?{
+====#Sukrot;
+====Zenon;
+====Parmenid;
+====Platon ;
+++++
+
+«Transsendental dialektika» tushunchasini kim ishlab chikkan?{
+====#Kant;
+====Volf;
+====Leybnis;
+====Gegel ;
+++++
+
+Idealistik dialektika ta’limoti va usulini kim ishlab chikkan?{
+====#Gegel ;
+====Volf;
+====Kant;
+====Leybnis;
+++++
+
+Materialistik dialektikani kim ishlab chikkan?{
+====#Marks;
+====Kant;
+====Shelling;
+====Gegel ;
+++++
+
+Materiya tushunchasi ...{
+====#obyektiv borlikni ifodalaydigan falsafiy katigoriya;
+====olamdagi narsalarning moxiyatini belgilovchi xodisa;
+====moddiy olamdagi barcha xodisalarni ifodalaydigan tushuncha;
+====barcha javoblar tug’ri;
+++++
+
+Xarakatning asosiy shakllari ...{
+====issiklik, yoruglik, magnetizm, o’zgarish va kimyoviy birikish ;
+====#mexanik, fizik, kimyoviy, biologik, ijtimoiy xarakatlar;
+====mexanik o’zgarish, issiklik, parchalanish, birikish, ijtimoiy xayot ;
+====urin olmashish, issiklik, yorug’lik, birikish, organik xayot ;
+++++
+
+Fazoni me’yoriy ulchovlari ...{
+====#fazo uch ulchovli xislatga ega;
+====fazo turt ulchovli substansiyadir;
+====fazo kup ulchovli moddiy asosdir;
+====fazo aprior, ulchovsiz tushuncha;
+++++
+
+Vaqtning me’yoriy ulchovlari{
+====#vaqt bir ulchovli xislatga ega;
+====vaqt kup ulchovli xislatga ega;
+====vaqt uch ulchovli davomiylikdir;
+====vaqt me’yoriy ulchovga ega emas;
+++++
+
+Dastlab vujudga kelgan kadimiy ijtimoiy ong{
+====#axlokiy ong;
+====huquqiy ong;
+====falsafiy ong ;
+====siyosiy ong ;
+++++
+
+Dialektika qanday qonuniyatlarni o’rganadi?{
+====#umumiy aloqadorlik va rivojlanish qonuniyatlarini;
+====bir xolatdan ikkinchi xolatga o’tish qonuniyatlarini;
+====bir sifatli obyektdan ko’p sifatli obyektga o’tish qonuniyatlarini ;
+====bir bosqichdan ikkinchi bosqichga o’tish qonuniyatlarini;
+++++
+
+Taraqqiyot tushunchasi{
+====#tizimdagi xossa va sifatni takomillashishi, yuksalishi;
+====har qanday usish va kupayish jarayoni;
+====narsa va xodsalarda sodir buladigan tarixiy o’zgarish;
+====barcha javoblar tug’ri;
+++++
+
+Qadimgi zamon falsafasida «Xamma narsa xarakatlanadi va o’zgaradi» degan fikrni ilgari surgan mutafakkir?{
+====#Geraklit.;
+====Anaksimen.;
+====Pifagor.;
+====Parmeni;
+++++
+
+Dunyoqarashning ilk shakli{
+====Materializm;
+====Idealizm;
+====Din;
+====#Mifologiya;
+++++
+
+Qadimgi Yunonistonda qaysi mutafakkir olamning asosiga olovni qo’ygan?{
+====Anaksimen;
+====Anaksimandr;
+====Fales;
+====#Geraklit;
+++++
+
+Zenon o’z dalillarida qaysi tezisni ximoya kilgan?{
+====#Xarakat yuq;
+====Xarakatnifikrlash mumkin emas;
+====Xarakat tugri chiziqli;
+====Aylanma Xarakat;
+++++
+
+Ziddiyat tushunchasi bu...{
+====#qarama-qarshi tomonlar o’rtasidagi o’zaro munosabat;
+====konfliktli xolatlar vujudga kelishi disgarmoniyasi, yemirilishi;
+====karama-karshi tomonlar o’rtasidagi tashki munosabatlarni aks ettiradi;
+====mos kelishlik, uygunlikning karama-karshi tomoni;
+++++
+
+Sakrash bu...{
+====#mikdor o’zgarishlari natijasida predmet yoki xodisaning tub, sifat o’zgarishi, eski sifatiningyangi sifatga aylanishi;
+====mikdor o’zgarishlarining tabiati, bir narsaning ikkinchi bir narsaga aylanishi , barkarorlikning bo’zilishi;
+====barkarorlikning bo’zilishi;
+====bir narsaning ikkinchi bir narsaga aylanishi;
+++++
+
+Ziddiyatlar ta’limoti{
+====#konfliktologiya;
+====kosmologiya;
+====ontologiya;
+====kataloniya;
+++++
+
+Diniy dunyokarash nimaga asoslanadi?{
+====#iloxiy qudratga, e’tikod ishonchga;
+====afsonaviy kuchlarga;
+====bilish nazariyasiga;
+====materializmga;
+++++
+
+Falsafada iloxiyot, diniy e’tikod tushunchalari bilan bog’lik fan{
+====#teologiya;
+====idealogiya;
+====ontologiya;
+====dialektika;
+++++
+
+Yunonchada ta’limot degani bu...{
+====#logos;
+====ideya;
+====sofiya;
+====eydos;
+++++
+
+Jismning barcha tashki xossalarini, yaxlit va umumiyligini, nisbiy barkarorligini ifodalovchi kategoriya.{
+====#sifat;
+====moxiyat va xodisa;
+====ayniyat;
+====ziddiyat;
+++++
+
+Sinergetikada tartibsizlik bu...{
+====#xaos;
+====logos;
+====kosmos;
+====bifurkasiya;
+++++
+
+Inkorni inkor konuniyatining moxiyati:{
+====#eskining inkori, yangilikning shakllanishi va shu jarayonning doimiy takrorlanishi;
+====tafovut va ziddiyatlarning paydo bulishi va rivojlanishi;
+====narsa va xodisalarning mavjudligi ;
+====tafovut va ziddiyatlarning paydo bulishi va rivojlanishi, narsa va xodisalarning mavjudligi;
+++++
+
+Falsafani fan sifatida aniq sistema tarzida ifoda etgan buyuk yunon faylasufi{
+====#Aristotel;
+====Platon;
+====Sokrat;
+====Pifagor;
+++++
+
+Umumiy qonuniyatlar tarkibida, elementlarning individual rivojlanish jarayonini belgilovchi kategoriya{
+====#aloxidalik;
+====xususiylik;
+====umumiylik;
+====me’yor;
+++++
+
+Narsa va xodisalarning bog’lanishlari aloqadorligi va munosabatininng tartibli, tadrijiy rivojlanishini, o’zida elementlar va ularning strukturasini ifodalagan kategoriya{
+====#sistema;
+====mikdor va sifat;
+====me’yor;
+====sintez;
+++++
+
+Taraqqiyotning mavjud hodisalarda jo bo’lgan obyektiv tendensiyasini, obyektning (narsa va xodisaning) paydo bulishi uchun shart-sharoit borligi yoki yo’qligini ifolalovchi kategoriya:{
+====#imkoniyat va voqye’lik;
+====zaruriyat va tasodif;
+====sabab va okibat;
+====moxiyat va xodisa;
+++++
+
+Ilmiy bilish metodlarini o’rganadigan maxsus soxa{
+====#metodologiya;
+====gnoseologiya;
+====gneseologiya;
+====metodika;
+++++
+
+Bilishning yuqori boskichi:{
+====#akliy bilish;
+====norasional bilish;
+====irrasional bilish;
+====xissiy bilish;
+++++
+
+Inson bilimining vokyelikka to’g’ri kelishi:{
+====#xaqiqat;
+====obyekt;
+====subyekt;
+====abstrakt;
+++++
+
+Tafakkurning shakllarini ko’rsating.{
+====tushuncha, tafakkur, aql;
+====g’oya, nazariya, ta’limot;
+====aql, hukm, xulosa;
+====#tushuncha, hukm, xulosa;
+++++
+
+Tafakkurning qonunlarini ko’rsating.{
+====#ayniyat qonuni, ziddiyat qonuni, uchinchisini istisni qonuni;
+====uchinchisini istisno, dialektika qonuni, yetarli asos qonuni;
+====ayniyat qonuni,ziddiyat qonuni,inkorni-inkor qonuni;
+====uchinchisini istisno, inkorni-inkor qonuni, yetarli asos qonuni;
+++++
+
+Dunyoqarashning tarixiy turlarini ko’rsating.{
+====materalistik va idealistik;
+====V  progressiv va reaksion;
+====ilmiy, sinfiy, milliy;
+====#mifologik, diniy, falsafiy;
+++++
+
+Falsafaning asosiy funksiyalari qaysilar?{
+====boshqarish, yo’naltira olish;
+====birlashtira olish, oldindan ko’ra bilish;
+====narsa va hodisalarga to’g’ri baho bera olish va tarbiyalash;
+====#metodologik, gnoseologik, praksiologik, evristik, aksiologik, didaktik;
+++++
+
+Ontologiya qanday ta’limot?{
+====#borliq to’g’risidagi ta’limot;
+====insonning amaliy faoliyati haqidagi ta’limot;
+====axloq to’g’risidagi  bilimlar, qarashlar;
+====Qadriyatlar to’g’risidagi ta’limot;
+++++
+
+Gnoseologiya qanday ta’limot?{
+====#bilishning shakl, usullari to’g’risidagi ta’limot;
+====tafakkur shakllarini o’rganadi;
+====qadriyatlar to’g’risidagi fan;
+====go’zallik haqidagi qarashlar;
+++++
+
+Borliqning shakllarini ko’rsating.{
+====#moddiy, ijtimoiy, ma’naviy;
+====moddiy va ijtimoiy borliq;
+====moddiy va inson borlig’i;
+====materiya va moda;
+++++
+
+Borliqning asosiy atributlari (ajralmas xususiyatlari) qaysilar?{
+====#harakat, fazo va vaqt;
+====harakatt va uning shakllari;
+====fazo va vaqt;
+====harakat va vaqt;
+++++
+
+Harakatning eng oddiy shakli qanday harakat?{
+====#mexanik;
+====Fizik;
+====Ximik;
+====biologik;
+++++
+
+Harakatning eng yuqori shakli qanday harakat?{
+====#ijtimoiy harakat;
+====biologik harakat;
+====mexanik harakat;
+====fizik harakat;
+++++
+
+Ijtimoiy harakat qayerda sodir bo’ladi?{
+====#jamiyatda bo’ladi;
+====jonli tabiatda ro’y beradi;
+====jonsiz tabiatda ro’y beradi;
+====butun borliqda ro’y beradi;
+++++
+
+Harakat bu...{
+====#butun borliqdagi barcha o’zgarishlar;
+====faqat jamiyatda ro’y beradi;
+====faqat jonsiz tabiatda bo’ladi;
+====Jonsiz tabiatdagi o’zgarishlar;
+++++
+
+... materiyaning tuzilish tartibi, ko’lamini, olamdagi narsalarning o’zaro joylashish vaziyatini ifodalaydi. (nuqtalar o’rniga to’g’ri keladigan tushunchani qo’ying){
+====vaqt;
+====#fazo;
+====harakat;
+====substansiya;
+++++
+
+... hodisalarning ketma-ketligi, jarayonlarning davomiyligini ifodalaydi. (nuqtalar o’rniga to’g’ri keladigan tushunchani qo’ying){
+====#vaqt;
+====Fazo;
+====borliq;
+====materiya;
+++++
+
+Borliqning sifatiy rivojlanish darajalarini ko’rsating.{
+====#anorganik, organik, ijtimoiy dunyo;
+====jonli va jonsiz tabiat;
+====materiya va moda;
+====organik va anorganik dunyo;
+++++
+
+Dastlabki vaqtlarda borliq, tabiat, jamiyat, inson va bir butun dunyodagi barcha narsa hamda hodisalarning asosini tashkil etadigan moddiy yoki ruhiy birlamchi asosni oxtarish falsafada qanday tushuncha bilan ifodalanadi?{
+====materiya;
+====#substansiya;
+====rasionallik;
+====plyuralizm;
+++++
+
+….umumiy tushuncha sifatida bir butun dunyo va undagi narsa va hodisalardan tortib, inson hayoti, ongi, kishilar faoliyatining barcha obyektiv va subyektiv sharoitlari, hatto jamiyatda sodir bo’ladigan butun jarayonlardan iborat hamma realliklarni o’z ichiga oladi. (nuqtalar o’rniga to’g’ri keladigan tushunchani qo’ying){
+====materiya;
+====Fazo;
+====tabiat;
+====#borliq;
+++++
+
+Dialektikani baxslashuv san’ati sifatida kim ishlab chiqgan?{
+====#Suqrot;
+====Geraklit;
+====Parmenid;
+====Pifagor;
+++++
+
+Sofistika bu...{
+====ongli ravishda mantik qonun-qoidalarini bo’zmasdan fikrlaydi;
+====#ongli ravishda mantik qonun-qoidalarini bo’zib fikrlaydi;
+====bilishni ziddiyatli ekanligini inkor qiladi;
+====falsafada mantiqqa tayangan yo’nalish ;
+++++
+
+Dogmatizm bu...{
+====hamma narsani o’zgarishda rivojlanishda deb o’rganuvchi ta’limot;
+====dogma haqidagi ta’limot ;
+====#hamma narsani o’zgarishsiz qotib qolgan holda o’rganuvchi ta’limot;
+====dogmaga asoslangan faoliyat turi;
+++++
+
+Dialektika ta’limotida qonun tushunchasi{
+====olamdagi obyektlarning xarakatini yo’naltiradigan xislat;
+====qonun jamiyatda amal qiladigan qonunlarni ifodalaydigan tushuncha;
+====insonlar va narsa va xodisalarning harakatini belgilaydigan bog’lanishdir;
+====#narsa va xodisalar o’rtasidagi ichki, zaruriy, takrorlanadigan aloqa va bog’lanishdir;
+++++
+
+Narsa-hodisalarning farq qiluvchi tomonlarini ifodalovchi tushuncha-bu …{
+====#tafovut;
+====Ziddiyat;
+====qarama-qarshilik;
+====qarama-qarshiliklar o’rtasidagi munosabatni ifodalaydi.;
+++++
+
+Ziddiyat nima?{
+====#qarama-qarshiliklar o’rtasidagi munosabatni ifodalaydigan tushuncha;
+====narsa-hodisalar o’rtasidagi o’xshashliklarni ifodalaydigan tushuncha;
+====narsa-hodisalardagi farqlarni ifodalaydigan tushuncha;
+====jamiyat va inson munosabatlarini ifodalaydigan tushuncha;
+++++
+
+Narsalarning ichki va tashqi muayyanligi bo’lib, uning xossa, xususiyatlari birligini ifodalaydi{
+====#sifat;
+====Me’yor;
+====miqdor;
+====tafovut;
+++++
+
+Miqdor va sifat o’rtasidagi birligini ifodalaydigan tushuncha{
+====#Me’yor;
+====sakrash;
+====Ayniyat;
+====tafovut;
+++++
+
+Tabiat va jamiyatda sodir bo’ladigan mikdor o’zgarishlari natijasida predmet yoki xodisaning tub, sifat o’zgarishi bu...{
+====#Sakrash;
+====qarama-qarshiliklar;
+====Ziddiyat;
+====me’yor;
+++++
+
+Eskini yangi bilan almashinuvi…{
+====#inkor deb aytiladi;
+====miqdor deyiladi;
+====me’yor deyiladi;
+====qarama-qarshilik deyiladi;
+++++
+
+Inkorni-inkor qonuni bo’yicha taraqqiyot …{
+====#spiralsimon shaklga ega bo’ladi;
+====to’g’ri chiziqli bo’ladi;
+====chiziqlar tutashgan aylana shaklda bo’ladi;
+====vorissiz bo’ladi;
+++++
+
+Narsa, hodisalar, jarayonlarga xos doimiy, takrorlanadigan belgilar, xususiyatlar yig’indisini aks ettiruvchi falsafiy tushunchani ko’rsating?{
+====#Umumiylik;
+====sabab;
+====oqibat;
+====alohidalik;
+++++
+
+Ma’lum sharoit mavjud bo’lgan taqdirda albatta yuz beradigan voqyea yoki hodisa qaysi?{
+====#zaruriyat;
+====tasodif;
+====butun;
+====imkoniyat;
+++++
+
+Olamdagi narsa va hodisalar doimo o’zgarishda, o’zaro aloqadorlik va bog’liqlikda, rivojlanish va taraqqiyotda deb hisoblovchi ta’limotni ko’rsating?{
+====#dialektika;
+====metafizika;
+====eklektika;
+====sofistika;
+++++
+
+Olamni, voqyelikdagi moddiy va ma’naviy sistemalar mohiyatini, tabiat va insoniyat qonuniyatlarini ishonarli bilish mumkinligini inkor etuvchi ta’limot nima deyiladi?{
+====gnostisizm;
+====#agnostisizm;
+====gnoseologiya;
+====aksiologiya;
+++++
+
+Inson bilish jarayonining umumiy natijasi bu…{
+====idrokdir;
+====tushunchadir;
+====#bilimdir;
+====sezgidir;
+++++
+
+Inson bilishining bosqichlarini ko’rsating.{
+====sezgi, idrok, tasavvur;
+====#hissiy va aqliy (mantiqiy) bilish;
+====tushuncha va xulosa;
+====hukm va xulosa;
+++++
+
+Hissiy bilish shakllarini aniqlang.{
+====#sezgi, idrok, tasavvur;
+====tushuncha, hukm, xulosa;
+====til, belgi, ma’no;
+====kuzatish, analiz, sintez;
+++++
+
+Aqliy (mantiqiy) bilish shakllari qaysilar?{
+====#tushuncha, hukm, xulosa;
+====sezgi, idrok, tasavvur;
+====kuzatish, analiz, sintez;
+====induksiya, deduksiya, analogiya;
+++++
+
+Nazariy bilishning usullari qaysilar?{
+====kuzatish, analiz, sintez, eksperiment;
+====abstraktlashtirish, konkretlashtirish, eksperiment;
+====#induksiya, deduksiya, modellashtirish;
+====kuzatish, abstraktlashtirish, analiz, sintez;
+++++
+
+Bilishning subyektini ko’rsating.{
+====barcha tirik mavjudotlar;
+====#tadqiqot olib boruvchi inson;
+====reallikning o’zi;
+====borliqning barcha ko’rinishlari;
+++++
+
+Bilishning obyektini ko’rsating.{
+====faqat tabiat va jamiyatdagi narsalar va hodisalar;
+====faqat inson faoliyati;
+====#tadqiqot doirasiga tortilgan har qanday narsa-hodisa;
+====faqat jonli tabiat;
+++++
+
+Ilmiy bilish qanday bilish?{
+====#fan yordamida bilish;
+====axloqiy normalar yordamida bilish;
+====diniy qadriyatlar yordamida bilish;
+====faqat san’at vositalari orqali bilish;
+++++
+
+Obyektni qismlarga bo’lib, tahlil qilib, shu qismlarni fikran bir butunga birlashtirishni qaysi metod o’rganadi?{
+====kuzatish va eksperiment;
+====#analiz va sintez;
+====modellashtirish;
+====analogiya;
+++++
+
+Tafakkurning shakllari dyeb nimaga aytiladi?{
+====fikrning simvollar, byelgilar sistyemasida ifodalanganligi;
+====fikr mazmuning til shaklida ifodalanish usuli;
+====fikrning (ichki) strukturaviy tuzilishi;
+====#fikr mazmuni kismlarining o’zaro bog’lanish usullari.
+++++
+
+Mantiq fani nimani o’rgatadi?{
+====tafakkur taraqiyotinig qonunlarini;
+====xulosa chiqarish va uning usullarini;
+====#to’g’ri fikr yuritishning (tafakkurning) asosiy qonun va shakllarini;
+====isbot va inkor etish nazariyasining qonun va shakllarini.
+++++
+
+Mantiq fani byevosita qaysi fan bilan bog’liq?{
+====psixologiya
+====pyedagogika
+====etika va estyetika
+====#grammatika
+++++
+
+SHakliy mantiq (formalashgan mantiq) fani pryedmyeti;{
+====ruhiyat;
+====tafakkurning paydo bo’lishi, rivojlanishi;
+====#tafakkurning shakllari va qonunlari;
+====isbot va inkor etish nazariyasining mantiqiy asoslari.
+++++
+
+Dialyektik mantiq fani nimani o’rgatadi?{
+====#tafakkurning mazmuni, rivojlanish qonunlarini;
+====xulosa chiqarish va uning asosaiy qonun, qoidalarini;
+====tafakkurning shakl va qonunlarini;
+====tafakkur va tilning dialyektik birligini.
+++++
+
+Fikrning chinligi bu:{
+====uning til shakllarida to’g’ri ifodalanish ;
+====uning tushuncha , muhokamaga mos kelishi;
+====#uning voqyelikka mos kelishi;
+====uning muhokamalari shaklida ifodalanishi.
+++++
+
+Tafakkur qonunlari deb nimaga aytiladi?{
+====to’g’ri xulosa chiqarishning qonunlarini;
+====muhokama yuritishning zarur talablarini;
+====isbot va inkor etishning eng muhim prinsiplarini;
+====#fikr elyemyentlarining ichki, zaruriy, muhim bog’lanishlari;
+++++
+
+Matyematik mantiq fanining asoschisi:{
+====Arastu;
+====Aflotun;
+====#Lyeybnis.;
+====Pifagor.
+++++
+
+Ayniyat qonunning talabi:{
+====Ikki fikr bir vaqtda, munosabatda mazmunan tyeng bo’lishi kerak;
+====Ikki qarama-qarshi fikr hajmi va mazmun jihatdan mos bo’lishi kerak;
+====Har qanday fikr muhokama jarayonida o’z o’ziga zid bo’lmasligi kerak;
+====#Har qanday fikr muhokama jarayonida aynan tyeng bo’lishi  kerak;
+++++
+
+Ziddiyatsizlik qonunining talabi bu:{
+====#bir-biriga zid ikki muhokama bir vaqtda xato bo’lishi mumkin;
+====fikr yuritish jarayoni ziddiyatsiz bo’lishi kerak;
+====bir pryedmyet haqida aytilgan ikki qarama-qarshi hukm turli bo’lishi mumkin;
+====kishi ongida aks etayotgan, narsa-hodisalar zidiyatsiz bo’lmog’i zarur.
+++++
+
+Tushuncha nima?{
+====tushuncha-tafakkurning nyegizi, asosiy yadrosi bulib nomuhim byelgilari asosida aks ettiruvchi tafakkur shakli;
+====tushuncha- voqyelikning hissiy tarzdagi obrazi;
+====tushuncha-ob’yektiv ryeallikning sub’yektiv obrazi;
+====#tushuncha- pryedmyet- hodisalarni umumiy, muhim byelgilari asosida aks ettiruvchi tafakkur shakli;
+++++
+
+Quyidagi tushunchalarning qaysi birining hajmi kichik, lyekin mazmuni keng?{
+====davlat manfatlarini himoya qiluvchi;
+====#O’zbyekiston davlati qonunlarini himoya qiluvchi;
+====inson huquqlarini himoya qiluvchi;
+====huquq qonunlarini himoya qiluvchi.
+++++
+
+Quyidagi gaplarning qaysi biri xukmni ifodalaydi?{
+====Aytingchi, soat nyecha bo’ldi?
+====Kim ham dyengizda suzayotganda tabiatning qudratidan hayratlanmaydi dyeysiz!
+====#Birorta qalbaki xujjat dalil hisoblanmaydi.
+====Jurnalistning hammasi filologlarmi?
+++++
+
+Quyidagi gaplarning qaysi biri hukmni ifodalaydi?{
+====Alishyer Navoiyni kim ham syevmaydi !
+====Alishyer Navoiy qaysi ijodiy myetodda ijod qilgan ?
+====Har bir fuqaro huquq qonunlariga bo’ysunishi shart.
+====#Afrosiyob-Samarqandning eng qadimgi nomi.
+++++
+
+Hukm nima?{
+====chin fikrni tasdiq tarzida ifodalovchi tafakkur shakli;
+====xato fikrni inkor tarzida ifodalovchi tafakkur shakli;
+====tushunchalarning o’zaro bog’lanish shakli hamda tushunchalarning o’zaro bog’lanmaslik shaklini ifodalaydigan tafakkur shakli;
+====#pryedmyet, hodisalarning munosabatini, byelgilarini tasdiq yoki inkor tarzida ifodalovchi tafakkur shakli.
+++++
+
+Qaysi paytda hukm chin bo’ladi?{
+====so’zlar gapda muayyan qonuniyatlar bilan o’zaro bog’langanda;
+====#fikr ob’yektiv voqyelikka mos kelsa;
+====fikrni ifodalovchi gap grammatik qoidalar asosida tuzilgan bo’lsa;
+====agar pryedmyet, hodisalar ob’yektiv ryeallikda mavjud bo’lsa, lyekin bu fikrni tasdiqlamasa.
+++++
+
+Quyidagi savollarning qaysi biri hukmni ifodalaydi?{
+====Soat nyecha bo’ldi?
+====Darsga kelasizmi?
+====#Kim, qachon birinchi bo’lib Amyerika qit’asini kashf etgan?
+====Karimni taniysizmi, u nyechanchi kursda o’qiydi?
+++++
+
+Xulosa chiqarish bu:{
+====#bir yoki undan ortiq xukmlardan yangi bir xukmni chiqaradigan tafakkur shaklidir;
+====tushunchalarni analiz va sintyez qiladigan tafakkur shakli;
+====xukmlapning chin yoki xato ekanligini mantiqan va bevosita aniqlovchi tafakkur shakli;
+====pryedmyetning muhim byelgilarini fikran yaxlitlashtirish.
+++++
+
+Analogiya nima?{
+====umumiylikdan umumiylikka fikran o’tish asosida hodisada belgining borligini  aniqlab chiqarilgan gipotetik-induktiv xulosa;
+====#ikki predmet, hodisada belgining borligini  aniqlab, ularning boshqa o’xshash belgilarga ega ekanligi haqida chiqariladigan xulosa;
+====munosabatli hukumlarning mantiqiy bog’lanishi asosida chiqariladigan xulosa;
+====uchunchi predmet haqida chiqariladigan induktiv xulosa.
+++++
+
+Yakkalikdan yakkalikka qarab borish xulosa chiqarishning qaysi turiga xos?{
+====munosabatli;
+====induksiya;
+====#anologiya;
+====sillogizm.
+++++
+
+Qo’yidagi xalq maqolalaridan qaysi biri analogiyaga asoslangan?{
+====Sinamaganni sirtidan o’tma;
+====Ahmoq o’zini maqtar;
+====#Eru - xotin qo’sh ho’kiz;
+====Sirti yaltiroq, ichi qaltiroq.
+++++
+
+Gipoteza nima?{
+====analogiya bo’yicha xulosa chiqarishning maxsus turi;
+====kelajakni bashorat qilish;
+====huquqiy ishlar sohasida qo’llaniladigan versiya;
+====#biror predmet yoki hodisa haqidagi ilmiy faraz, ehtimolli qarashlar majmui.
+++++
+
+Sofizm bu:{
+====#muhokama yuritishdagi mantiqiy hiyla;
+====anglanmagan holda xatolikka yo’l qo’yish;
+====fikrlashdagi ziddiyat;
+====induktiv xulosa.
+++++
+
+Gepoteza [faraziy{
+====#ilmiy ahamiyatga ega bo’lgan faraz;
+====nazariy bilimlarning bir butun majmui;
+====ilmiy metod;
+====mantiqiy savol.
+++++
+
+Gepotezani ilgari surishning mantiqiy asosi bu:{
+====induksiya;
+====deduksiya;
+====#analogiya;
+====sillogizm.
+++++
+
+Nazariya bu:{
+====#ilmiy bilimlarning sistemalashtirilgan shakli;
+====ilmiy bilimlarning yuzaga kelish jarayoni;
+====muammoli, ilmiy xarakterga ega bo’lgan bilimlar tizimi;
+====ilmiy faraziyalar tizimi.
+++++
+EHM ga axborot qanday uzatiladi va yoziladi?{
+====raqamlar orqali
+====#elektr signallari kurinishida
+====dastur yordamida
+====faqat kiril va lotin alifbosi xarflari bilan
+++++
+
+Komp’yuter telekommunikatsiyalari - bu ...{
+====#axborotlarni bir kompyuterdan boshqasiga masofadan (distantsion) uzatish
+====bir nechta kompyuterni yagona tarmoqqa birlashtirish
+====axborotni bir kompyuterdan boshqasiga disketa yordamida olib utish
+====kompyuter ishlashining  axvoli  xaqidagi  axborotlarni  foydalanuvchilar urtasida uzaro almashish
+++++
+
+Axborotlarni uzatish tezligi - bu ...{
+====bir sekunda  uchirilgan axborotning bit miqdori
+====bir minutda nusxalangan axborotning bayt miqdori
+====#bir komp’yuterdan boshqa kompyuterga uzatilgan axborotning bayt miqdori
+====bir komp’yuterdan boshqa kompyuterga uzatilgan axborotning vaqt miqdori
+++++
+
+SHaxsiy EHM birinchi marta qachon ishlab chiqilgan ?{
+====#1980 yillar boshida
+====20 iyung’ 1970 yil
+====12 avgust 1976 yil
+====20 fevralg’ 1991 yil
+++++
+
+Raqamli xisoblash mashinalari tuzilishining  asosiy  printsiplarini kimlar ishlab chiqqan?{
+====XIX asrda turli mamlakat olimlari Eduard Lerua (1870-1954) va Pyer Teyyar de Sharden
+====akademik S.A.Lebedev  raxbarligida
+====#amerika olimlari Dj.fon Neyman, G.Goldstayn va A.Berks
+====frantsiya olimi Blez Paskal
+++++
+
+Kompyuterning qaysi qurilmasi kommunikatsion hisoblanadi ?{
+====monitor
+====klaviatura
+====#modem
+====vinchester
+++++
+
+Ma’lumotlar ombori va elektron jadvallar bilan jamoa bulib ishlash imkonini beruvchi korxona yoki tashkilot miqyosidagi komp’yuter tarmog’i:{
+====#Elektron tarmoq
+====Intranet
+====Usenet
+====Netsca’ Navigator
+++++
+
+Tug’ridan-tug’ri bog’lanish ta’rifini keltiring{
+====#Ikkita kompyuterni bir-biridan mag’lumotlarni olish uchun uzaro bog’lash tug’ridan-tug’ri bog’lanish deyiladi.
+====Bir necha kompyuterlarning lokal kampyuter tarmog’i tug’ridan-tug’ri bog’lanish deyiladi
+====Mintakaviy kompyuter tarmog’i tug’ridan-tug’ri bog’lanish deyiladi.
+====Global kompyuter tarmogi tugridan tugri bog’lanish deyiladi.
+++++
+
+Axborotni tarqatish usuliga ko’ra qanday turlarga bo’linadi{
+====#Xujjatlashtirilgan va xujjatlashtirilmagan axborot
+====Birlamchi, ikkilamchi
+====Ichki va tashqi
+====Kiruvchi va chiquvchi
+++++
+
+Axborot qayta ishlash darajasiga ko’ra qanday turlarga bo’linadi{
+====Xujjatlashtirilgan va xujjatlashtirilmagan axborot
+====#Birlamchi, ikkilamchi
+====Ichki va tashqi
+====Kiruvchi va chiquvchi
+++++
+
+Axborot harakat yo’nalishiga ko’ra qanday turlarga bo’linadi{
+====Xujjatlashtirilgan va xujjatlashtirilmagan axborot
+====Birlamchi, ikkilamchi
+====Ichki va tashqi
+====#Kiruvchi va chiquvchi
+++++
+
+.....bu kishilar o’rtasidagi o’zaro axborot almashinuvidir.{
+====O’zaro hurmat
+====#Kommunikasiya
+====Kompyuter
+====Telefon
+++++
+
+Bir pog’onadagi aholi o’rtasida axborot almashinuvi jarayoni kommunikasiyaning qaysi turiga kiradi{
+====Vertikal
+====#Gorizontal
+====Verbal
+====Noverbal
+++++
+
+Davlat boshlig’i va uning aholisi o’rtasida axborot almashinuvi jarayoni kommunikasiyaning qaysi turiga kiradi{
+====#Vertikal
+====Gorizontal
+====Verbal
+====Noverbal
+++++
+
+So’zlar yordamida muloqot qilish kommunikasiyaning qaysi turiga kiradi{
+====Vertikal
+====Gorizontal
+====#Verbal
+====Noverbal
+++++
+
+Kommunikasiya shakllari qaysilar:1-Yozma, 2-Gorizontal, 3-Og’zaki, 4-Verbal, 5-Video, 6-Elektron, 7-Emosional, 8-Noverbal{
+====1,2,3,4,5,6,7
+====2,3,4,7,8
+====#1,3,5,6,7
+====1,2,3,4,7
+++++
+
+Kommunikasiya vositalari qaysilar: 1-Yozma, 2-Xujjatlar, 3-Nutq, 4-Og’zaki, 5-Belgilar tizimi, 6-Elektron aloqa vositalari, 7-Gorizontal, 8-Video{
+====1,2,3,5,6
+====#2,3,5,6,8
+====1,2,3,4,5,7,8
+====2,3,4,5,8
+++++
+
+Quyidagilardan qaysi biri axborotni qabul qilish shartlari bo’la oladi.{
+====Kasb  tilining  birligi va intellekt  darajasini  hisobga olish
+====Axborot  to’liqligi
+====Axborotning mantiqiyligi va diqqatning  jamlanganligi
+====#Hamma javoblar to’g’ri
+++++
+
+Ilmiy taraqqiyotni tushuntirishdagi yondashuvlarni ko’rsating{
+====#kumulyativistik va antikumlyativizm yondashuv
+====bexervoristik va sinergetik yondashuv
+====materiarilistik va idealistik yondashuv
+====Hamma javoblar to’g’ri
+++++
+
+Ilmiy – yoki  nazariy – falsafiy inqilob tushunchasini fanga birinchi bo’lib kim kiritgan.{
+====#I.Kant
+====G.Gegel
+====Fexte
+====O.Shepingler
+++++
+
+...ma’lum davrda ilmiy jamoatchilikka barchalar tomonidantan olingan muammolarni qo’yish va ularni yechish modelini beradigan ilmiy yutuqlarni I.Kant qanday termin bilan ifodalaydi{
+====Kumulyasiya
+====Falsafikasiya
+====#Paradigma
+====Follibizm
+++++
+
+Odamlar o’rtasida amal qiladigan axloqiy, diniy, ilmiy, falsafiy, huquqiy, iqtisodiy, mafkuraviy kabi munosabatlar umumiy nomda qanday ifodalanadi{
+====moddiy munosabatlar
+====ma’naviy munosabatlar
+====jamiyat tarkibiy qismlari
+====#ijtimoiy munosabatlar
+++++
+
+Jamiyatni  ulkan organizm deb ifodalash qaysi oqimga xos{
+====Materializm
+====Atomizm
+====Idealizm
+====#Universalizm
+++++
+
+Inson hayotiga ta’sir qiluvchi abiotik omillarga nimalar kiradi{
+====#suvlar, gazlar uglerodlar, menerallar
+====suvlar, gazlar uglerodlar, menerallar, usimliklar, hayvonlar
+====menerallar, usimliklar, hayvonlar, yer osti boyliklari
+====hamma javoblar tug’ri
+++++
+
+«Texnika falsafasi» atamasini birinchi bo’lib ishlatgan faylasuf kim.{
+====Immanuel Kant
+====#Ernest Kapp
+====Osvald Shpengler
+====I. Bekman
+++++
+
+«Texnologiyaga oid qo’llanma» asarining mualllifi kim{
+====I. Kant
+====E. Kapp
+====O. Shpengler
+====#I. Bekman
+++++
+
+Quyidagi asarlardan qaysi biri Osvald Shpenglerning qalamiga mansub{
+====«Texnika falsafasi asoslari»
+====«Texnologiyaga oid qo’llanma»
+====#«Inson va texnika»
+====«Yevropa quyoshining ko’tarilishi»
+++++
+
+Quyidagi asarlardan qaysi biri Ernest Kappning qalamiga mansub{
+====#«Texnika falsafasi asoslari»
+====«Texnologiyaga oid qo’llanma»
+====«Inson va texnika»
+====«Yevropa quyoshining ko’tarilishi»
+++++
+
+Birinchi dvigatel qachon yaratilgan{
+====1777 yilda
+====#1776 yilda
+====1778 yilda
+====1775 yilda
+++++
+
+Birinchi elektromotor qachon yaratilgan{
+====1776 yilda
+====1967 yilda
+====#1867 yilda
+====1876 yilda
+++++
+
+“...tabiat endilikda bizning ko’rkam muhitimiz bo’lolmaydi. Texnikaning o’zi yaxlit yashash makoniga aylanadi, inson ana shu makonning ichida yashaydi” degan fikr muallifini toping.{
+====#Fransuz sotsiologi J. Ellyul
+====nemis faylasufi M. Xaydeger
+====Ispaniyalik faylasuf Ortega-i-Gasset
+====texnika falsafasi sohasidagi taniqli mutaxassis K.Yaspers
+++++
+
+Dastlab texnika ko’proq qaysi sohada qo’llanilgan{
+====#moddiy ishlab chiqarish sohasiga
+====harbiy sohaga
+====ma’naviy sohaga
+====harbiy va ma’naviy sohaga
+++++
+
+Artefakt so’zi qanday ma’noni anglatadi?{
+====#sun’iy tarzda bajarilgan
+====texnik qurulmalar
+====fakt asosida yaratilgan
+====biror narsani bajarish san’ati
+++++
+
+“Hozirgi zamon texnikasi tabiatni ham, insonni ham o’z «xizmatkori»ga (texnikaning funksional elementigaylantirganini davrimizning asosiy muammosi” deb hisoblagan shaxs kim?{
+====K.Yaspers
+====L.Memford
+====#M.Xaydegger
+====J.Martin
+++++
+
+“Bugungi kunda sayyoramizga yetkazilgan zarar oqibatlarini tugatishdan ko’ra sayyoramizning o’zini yo’q qilib tashlash osonroq”  degan fikr muallifi kim?{
+====#J.Martin
+====B. L.Memford
+====K.Yaspers
+====J. Ellyul
+++++
+
+Insonning texnika taraqqiyoti oqibatlari, texnikadan foydalanish natijalari uchun javobgarligi to’g’risidagi masala texnikaning qaysi bo’limlarning vujudga kelishiga olib keldi{
+====#texnoetika va texnikani baholash bo’limlarining
+====texnoetika va muhandislik bo’limlarining
+====muhandislik va menejirlik bo’limlarining
+====muhandislik va texnikani baholash bo’limlari
+++++
+
+Ayrim tadqiqotchilarning fikricha texnika insonning ramziy borlig’idir, lekin bu aynan ... dir. Nuqtalar o’rniga mos so’zni toping{
+====#inson borlig’i
+====moddiy borlig’i
+====ijtimoiy borlig’i
+====moddiy va ma’naviy borlig’i
+++++
+
+«Tabiatning yaratuvchanligi san’at yaratuvchanligidan oliyroqdir» degan fikrni kim aytgan?{
+====#Sitseron
+====Aristotel
+====Suqrot
+====Aflotun
+++++
+
+Galaktika –{
+====#yulduzlar tizimi, tumanliklar, yulduzlararo muxitlar, kosmik va elektromagnit nurlardan iborat;
+====quyosh sistemasidan iborat;
+====planetalar, kometalar, ateroidlar, meteoridlardan iborat;
+====oy va quyoshning uzaro ta’siri.
+++++
+
+Quyosh sistemasiga –{
+====#planetalar va ularning yuldoshlari, 100 mingdan ortik asteroidlar, kometalar va meteorit jismlar kiradi.
+====100 mingdan ortik asteroidlar va barcha yulduzlar kiradi;
+====somon yuli galaktikasi;
+====galaktikalar kiradi.
+++++
+
+Elektr tushunchasini fanga kiritgan olim-{
+====I.Nyuton;
+====#U.Gilbert;
+====Faradey;
+====Beruniy.
+++++
+
+Biosenoz-{
+====#tirik organizmlar jamoasi;
+====koinotdagi yulduzlar turkumi;
+====hashoratlar turkumi;
+====jamiyatda nogironlar toifasi.
+++++
+
+Aftotroflar-{
+====#noorganik moddalar bilan oziqlanuvchilar;
+====organik moddalar bilan oziqlanuvchi;
+====tog‘ zonasidagi o’simliklar;
+====chul zonasidagi yashil urmonlar;
+++++
+
+Geterotroflar-{
+====#organik moddalar bilan oziqlanuvchi organizmlar;
+====noorganik moddalar bilan oziqlanuvchilar;
+====usimlik yoki hayvonot qoldiqlari bilan oziqlanib organik moddalarni noorganik moddalarga aylantiradi;
+====chul zonasidagi yashil urmonlar;
+++++
+
+Sapratroflar-{
+====#o‘simlik yoki hayvonot qoldiqlari bilan oziqlanib organik moddalarni noorganik moddalarga aylantiradi;
+====kimyoviy reaksiya jarayonida uchraydigan element;
+====organik moddalar bilan oziqlanuvchi organizmlar;
+====noorganik moddalar bilan oziqlanuvchilar;
+++++
+
+Abiotik omillar-{
+====organik moddalar bilan oziqlanuvchi omillar;
+====tirik organizmlarni bir-biriga uzaro ta’siri majmui;
+====#notirik tabiat omillari;
+====geometrik vektorlar omili.
+++++
+
+Biotik omil-{
+====kosmosdagi kometalarni uzaro ta’siri;
+====#tirik organizmlarni bir-biriga uzaro ta’siri majmui;
+====tabiat va jamiyatning bir-biriga uzaro ta’siri;
+====yer ostidagi birikmalarni bir-biriga ta’siri;
+++++
+
+Barcha tirik mavjudotlar nimalardan tashkil topgan?{
+====#xujayralardan;
+====kisloroddan;
+====vodoroddan;
+====azotdan.
+++++
+
+Biosferada birlamchi organik moddalarni xosil qiluvchi organizmlar bo’lgan-{
+====#avtotroflardir;
+====sapratroflardir;
+====geterotroflardir;
+====bakteriyalardir.
+++++
+
+Ch.Darvinning nazariyasiga ko‘ra organik olam evolyutsiyasining xarakatlantiruvchi kuchlari nima edi.{
+====avtotroflar,santatroflar,geteratroflar va tabiiy tanlanish;;
+====#irsiy uzgarganlik, yashash uchun kurash va tabiiy tanlanish;
+====tog’lar,chullar,dashlar, irsiy uzgarganlik, yashash uchun kurash va tabiiy tanlanish;
+====tenglamalar, integral, sinus, kosinus.
+++++
+
+«Biosfera» atamasini fanga …  kiritgan.{
+====V.I.Vernadskiy;
+====I.Vavilov;
+====#E.Zyuse.
+====Ch.Darvin;
+++++
+
+Biosfera…{
+====#tirik organizmlar yashaydigan va ular ta’sirida o’zgarib turadigan yer sharining bir qismi;
+====yer sharining o’simliklar olami va hayvonot olami tarqalgan bir qismi;
+====notirik tabiat va uning insonga ta’sir qismi;
+====yer sharining notirik tabiat, o’simliklar olami va hayvonot olami tarqalgan bir qismi;
+++++
+
+Noosfera atamasi nimani anglatadi?{
+====«noos» - tabiat, «sfera» - ta’limot;
+====«noo» - inson, «sfera» -tabiat;
+====#«noos» - aql, «sfera» - shar;
+====barcha javoblar to’g‘ri.
+++++
+
+Antropogen omillar…{
+====tabiatga iqlimning ta’siri;
+====tabiatga geologik jarayonlarning ta’siri;
+====#tabiatga kishilik jamiyatining ta’siri;
+====tabiatga biologik ta’sirlar.
+++++
+
+Fan taraqqiyotida kumulyativistik yondashuv –{
+====#fan taraqqiyotini yangi bilimlarning asta-sekinlik bilan to’planib borishi orqali izohlab, inqiloblarni inkor etadi;
+====fan taraqqiyotida inqiloblar zarurligini e’tirof etadi;
+====ilmiy bilimlar taraqqiyotini fandagi inqiloblar orqali izohlab, fan taraqqiyotini yangi bilimlarning asta-sekinlik bilan to’planib borishini inkor etadi;
+====barcha javoblar to’g’ri.
+++++
+
+Jamiyatning sotsial borlig’i deganda nimani tushunasiz ?{
+====xalq, aholi, ijtimoiy munosabatlar
+====millat va milliy munosabatlar
+====tabaqa va toifalar
+====#javoblarning barchasi tug’ri
+++++
+
+Xalq tushunchasining tug’ri ta’rifini toping ?{
+====#xalq – tarixni harakatga keltiruvchi moddiy va ma’naviy ne’matlarni yaratuvchi borliq
+====xalq bu shaxslar yigindisi
+====xalq bu sinflar hamda turli kasb egalari birligi asosida moddiy va ma’naviy ne’matlarni yaratuvchilar
+====xalq bu turli kasb egalari birligi
+++++
+
+Jamiyatning ma’naviy borlig’iga nimalar kiradi?{
+====ijtimoiy ong shakllari va darajalari
+====ma’naviy ehtiyojlarni qondiruvchi qadriyatlar
+====ma’naviy ishlab chiqarish va iste’mol
+====#javoblarning barchasi to'g’ri
+++++
+
+Texnogen borliq nima?{
+====#Inson faoliyati notijasida tashkil topgan artefakt, ya’ni sun’iy yaratilgan muxit, narsalar
+====tabiiy jarayonlar natijasida paydo bulgan narsalar va har qanday texnologik jarayonlar majmui
+====faqat texnika va texnologiya
+====uy – joy, ketim kechak, transport
+++++
+
+Ijtimoiy soha nima?{
+====axloqiy va diniy maydon
+====siyosiy va xuquqiy maydon
+====#inson faoliyati yunaltirilgan maydon
+====ishlab chiqarish jarayoni bilan bog'liq soha.
+++++
+
+Ijtimoiy ong shakllarining to'g’ri tartibini toping.{
+====#iqtisodiy, siyosiy, huquqiy, axloqiy, diniy, badiiy ong
+====ehtiyojlar, his-tuyg‘ular, qarashlar, g‘oyalar, nazariyalar, ta’limotlar
+====Emprik bilimlar, normalar, urf-odatlar, qadriyatlar
+====ijtimoiy va individual, empirik va nazariy, emosional va rasional ong.
+++++
+
+Ijtimoiy munosabatlar asosida nima yotadi.{
+====Maqsadlar
+====#Ehtiyojlar
+====Faoliyat
+====Ijtimoiy ong shakllari
+++++
+
+Manfaat tushunchasi nimani ifodalaydi?{
+====#anglab yetilgan ehtiyoj.
+====istak va niyat
+====iroda va orzu
+====ideal va e’tiqod
+++++
+
+Quyidagilardan qaysi biri jamiyatga xos emas?{
+====Alohidalik va o’z-o’zicha nazoratning yuqori darajasi
+====Ichki o’zaro aloqalarning yuqori darajasini ta’minlaydigan va qayta ishlab chiqaradigan usul
+====#Integrasiya kuchining yo’qligi
+====Sotsial nazorat
+++++
+
+Ochiq va yopiq jamiyat nazariyasining asosichisi kim?{
+====G.Spenser
+====#K.Popper
+====O.Kont
+====G.Tard
+++++
+
+Jamiyatni organizm sifatida tasavvur qilgan olim bu …{
+====#Spenser
+====Voris
+====Kont
+====E.Dyurkgeym
+++++
+
+Demokratik jamiyatda siyosiy hokimiyat… asoslanadi?{
+====Mustaqillikka
+====Kuchga
+====#Qonunga
+====Axloqga
+++++
+
+"Ikkinchi tabiat" borlig’ini qanday tavsif qilish mumkin?{
+====tabiiy tabiatda mavjud bo’lgan narsalar borlig’i;
+====tabiiy tabiatda mavjud bo’lmagan narsalar borlig’i;
+====#odam mehnati bilan ishlab chiqarilgan narsalar borlig’i;
+====inson quli bilan yaratilgan ma’naviy borliq;
+++++
+
+Tabiat borlig’ining darajalari qaysi tushunchalar qatorida ifodalangan?{
+====tabiat, jamiyat, ong;
+====#makrodunyo, mikrodunyo, megadunyo;
+====organik dunyo, anorganik dunyo, ijtimoiy dunyo;
+====biosfera, noosfera, ekosfera;
+++++
+
+Quyidagi qaysi javobda jamiyat tushunchasining mohiyati to’g’ri tavsiflangan?{
+====tabiatning bir qismidir;
+====ijtimoiy borliq hisoblanadi;
+====odamlar uyushmasining maxsus shakli
+====#odamlar uyushmasining maxsus shakli bo’lib, kishilar o’rtasida amal qiladigan ko’plab munosabatlar yig’indisidir;
+++++
+
+Hozirgi zamon nazariyalarda berilgan jamiyat evolyutsion taraqqiyoti bosqichlarni to’g’ri belgilang:{
+====#agrar jamiyat, industrial jamiyat, postindustrial jamiyat;
+====industrial jamiyat, postindustrial jamiyat, agrar jamiyat;
+====postindustrial jamiyat, industrial jamiyat, agrar jamiyat;
+====agrar jamiyat, postindustrial jamiyat, industrial jamiyat;
+++++
+
+G’oya shakllarining quyidagi tasnifida bir-birini inkor qilmaydigan g’oyalar qatorini ko’rsating:{
+====diniy va dunyoviy g’oyalar;
+====diniy va tabiiy-ilmiy g’oyalar;
+====ilmiy va g’ayri ilmiy g’oyalar;
+====#milliy va umuminsoniy g’oyalar;
+++++
+
+Ijtimoiy ongning shakllari bilan bog’liq qadriyatlar qaysi javobda ifodalangan?{
+====milliy, sinfiy, irqiy va b. qadriyatlar;
+====#siyosiy, huquqiy, axloqiy, diniy va b. qadriyatlar;
+====iqtisodiy, ijtimoiy, madaniy, ma’naviy va b. qadriyatlar;
+===="global", "zonal" va "lokal" qadriyatlar;
+++++
+
+Ratsionalizm bu...{
+====#bilimimizning shakl va mazmunini, faoliyatimiz tartibi va yunalishini aql belgilaydi deb hisoblaydigan ta’limot;
+====barcha narsa va xodisalar, axborot va bilimlar manbai ongdir deb hisoblaydigan ta’limot;
+====butun moddiy va ma’naviy faoliyatimizni, uning yunalishi va istikbolini aql boshqaradi deb hisoblaydigan ta’limot;
+====barcha javoblar to’g’ridir ;
+++++
+
+«Dialektike texne» (baxslashuv san’ati) tushunchasini kim ishlab chiqqan?{
+====Zenon;
+====Parmenid;
+====#Suqrot;
+====Platon ;
+++++
+
+Dastlab vujudga kelgan qadimiy ijtimoiy ong{
+====#axloqiy ong;
+====huquqiy ong;
+====falsafiy ong ;
+====siyosiy ong ;
+++++
+
+Ekologiya bu...{
+====#organizmlar uyushmasi va tashqi muxit urtasidagi munosabat haqidagi fan;
+====tabiat haqidagi fan;
+====flora va fauna haqidagi fan;
+====Tabiiy muxit omillari haqidagi fan;
+++++
+
+Irrasional bilishning asosi{
+====aql;
+====#intuisiya;
+====idrok;
+====sezgi;
+++++
+
+Postindustrial jamiyat bu...{
+====#axborotlashgan jamiyati;
+====agrar jamiyat;
+====sanoat jamiyati;
+====industrial jamiyati.;
+++++
+
+Yerning hayot tarqalgan qismi:{
+====litosfera;
+====ozon qatlami;
+====#biosfera;
+====naosfera;
+++++
+
+Inson aql idrokining olamga ta’sir kursatish chegarasi{
+====nonosfera;
+====biosfera;
+====litosfera;
+====#noosfera;
+++++
+
+Tabiat borlig’ining tarkibiy qismi{
+====#organik, anorganik va ijtimoiy dunyo;
+====ijtimoiy borliq;
+====mikro olam, makrolam va elementlar majmui;
+====narsalar borlig’i;
+++++
+
+Shaxs o’zida qanday sifatlarni mujassamlashtirgan insonni ifodalaydi?{
+====ijobiy;
+====obyektiv;
+====#ijtimoiy;
+====subyektiv;
+++++
+
+Inson mohiyatini, uning tabiat va jamiyatdagi o’rnini, o’ziga xos xususiyatlarini o’rganuvchi fan:{
+====#antropologiya;
+====anatomiya;
+====antropogenezis;
+====andronomiya;
+++++
+
+Aqliy (mantiqiy) bilish shakllari qaysilar?{
+====#tushuncha, hukm, xulosa;
+====sezgi, idrok, tasavvur;
+====kuzatish, analiz, sintez;
+====induksiya, deduksiya, analogiya;
+++++
+
+Insonni faoliyatga undovchi sabablardan birini toping?{
+====#Ehtiyojlar;
+====Maqsadlar;
+====Orzular;
+====Xayollar;
+++++
+
+O’zbekistonda fuqarolik jamiyat qurish konsepsiyasi qanday nomlanadi?{
+====«Nodavlat, notijorat tashkilotlari»;
+====«Iqtisodiy munosabatlar takomillashgan jamiyat»;
+====«Kuch – bilim va tafakkurda»;
+====#«Kuchli davlatdan kuchli jamiyat sari»;
+++++
+
+Moddiy va ma’naviy boyliklar yig’indisi, jamiyat, insonning sifat ko’rsatkichi – bu...{
+====qadriyat;
+====ma’naviyat;
+====#madaniyat;
+====ong;
+++++
+
+«Sivilizasiya» qanday ma’noni bildiradi.{
+====«jamiyatga tegishli»;
+====#«fuqarolikka oid»;
+====«din rivoji»;
+====«rivojlanish, taraqqiyot»;
+++++
+
+Kimning nuqtai nazarida EHM kompyuter bilim egasi, balki insonni bilish faoliyatida vositachi predmet rolini uynaydi{
+====B.Blumfild
+====A.Nyuell
+====#G.S.Pospelov
+====A.V.Paninni
+++++
+
+Kimning fikricha kompyuterdagi ma’lumotlar tizimini bilish, kompyuterni o‘zi esa bilim sohibi, bilish subyekti desa bo‘ladi.{
+====B.Blumfild
+====#A.Nyuell
+====G.S.Pospelov
+====A.V.Paninni
+++++
+
+Gavdalantirilgan bilim bu...{
+====#Kompyuterda ma’lumotlarni qayta ishlash natijasida hosil bo‘lgan model
+====Tafakkur shakllari va qonunlari asosida inson tafakkurida qayta hosil qilingan bilim
+====Inson ongidagi bilimlar
+====Hamma javoblar to‘g‘ri
+++++
+
+Intellektual tizimlarga xos bo‘lgan funksional arxitekturalar tushunchasini kim ishlab chiqdi{
+====#Z.Pilishin
+====A.Nyuell
+====G.S.Pospelov
+====M.Killian
+++++
+
+XX asrning 80-yillarni boshlarida sun’iy aql yo‘nalishini asoschilaridan qaysi biri insonlarni fikrlash uslubi yoki jarayoniga yaqin keladigan noaynan mantiq, ma’nosi o‘zgaruvchan hukmlar mantig‘i g‘oyasini olg‘a surdi{
+====Z.Pilishin
+====G.S.Pospelov
+====M.Killian
+====#Dj.Mokkarti
+++++
+
+Kimlar tamonidan “Teran tafakkur” deb nomlangan kompyuterli shaxmat dasturi yaratildi.{
+====#Kornegi-Mellan universiteti aspirantlari
+====Kornegi-Mellan universiteti aspirantlari M.Minski va R.Shenk
+====Dj.Mokkarti va R.Shenk
+====Kornegi-Mellan universiteti talabalari
+++++
+
+Kimlarning baholashlaricha kompyuter tizimi bilishda murakkab texnik uskuna rolini uynab inson to‘plagan bilimni obyektivlashtirish vositasi bo‘lib xizmat qiladi, insonlarni ijtimoiy tarixiy tajribasini, nazariy va amaliy faoliyatiga doir tasavvurlarni ma’lumot shaklida o‘zida mujassamlashtiradi.{
+====P.V.Alekseyev va A.V.Paninni
+====#M.Minski va R.Shenk
+====Dj.Mokkarti va R.Shenk
+====Z.Pilishin va G.S.Pospelov
+++++
+
+Aqliy semantik tizimlar nazariyasini yaratishda freym g‘oyasini ishlab chiqargan olimlar kimlar?{
+====Dj.Mokkarti va R.Shenk
+====#M.Minski va R.Shenk
+====Z.Pilishin va G.S.Pospelov
+====Z.Pilishin va M.Minski
+++++
+
+Ayrim tasavvurlar yoki hukmlarni bir-biri bilan bog‘lovchi, semantik grafa ko‘rinishga ega bo‘lgan bilim bloki bu…{
+====Spam
+====#Freym
+====Slot
+====Framing
+++++
+
+….freym unsuri bo‘lib, ayni paytda quyi darajaga nisbatan mikrofreym rolini o‘ynaydi…..boshqa bir freymning ko‘rsatgichi mavjud Nuqtalar o’rniga mos so’zni toping.{
+====Spam
+====Freym
+====#Slot
+====Framing
+++++
+
+M.Minskiy Freym g‘oyasini nimaga o’xshatadi{
+====#T.Kunning “Paradigma” siga
+====K.Poperning “Falsafikasiya”siga
+====I.Kantning “Antinomiya”siga
+====Kompyuter dasturiga
+++++
+
+Dastlab vujudga kelgan qadimiy ijtimoiy ong{
+====huquqiy ong;
+====falsafiy ong ;
+====#axloqiy ong;
+====siyosiy ong ;
+++++
+
+Ibtidoiy ongda voqe’likning fantastik in’ikosi:{
+====#mifologiya;
+====teologiya;
+====ideologiya;
+====logika;
+++++
+
+In’ikosning oliy shakli, inson miyasining xossasi, ijtimoiy (jamiyat) taraqqiyotining mahsuli degan ta’rif qaysi ma’naviy hodisaga taalluqli?{
+====#Ongga;
+====Ma’naviyatga;
+====Ruhiyatga;
+====Sezgiga;
+++++
+
+Ijtimoiy ong shakllaridan qaysi biri voqelikni badiiy obrazlar orqali aks ettiradi?{
+====axloqiy ong;
+====diniy ong;
+====#estetik ong;
+====huquqiy ong;
+++++
+
+Onglilik (rasionallik) va noonglilik mohiyati nimada{
+====#onglilik – aqliy bilish shakllari va usullarini faoliyatida namoyon bo‘ladi, noonglilik ongsiz, beixtiyor, nomantiqiy faoliyat
+====onglilik ong, noonglilik psixika bilan bog‘langan
+====onglilik –qalban bilish shakllari va usullarini faoliyatida namoyon bo‘ladi, noonglilik ongsiz faoliyat jarayonidir
+====onglilik –hissiy bilish shakllari va usullarini faoliyatida namoyon bo‘ladi, noonglilik ongsiz, beixtiyor, nomantiqiy faoliyat
+++++
+
+Ongning turkumlanishini ko‘rsating{
+====#shaxsiyatli ong, individual ong, ijtimoiy ong
+====axloqiy ong, huquqiy ong, falsafiy ong, siyosiy ong, diniy ong, estetik ong
+====ruhiyat, hissiyot, ong
+====barcha javoblar to‘g‘ri
+++++
+
+Semantik turlar g‘oyasining kelib chiqishida kimlarning g‘oyalari muhim rol uynadi{
+====Nyuelni va Z.Pilishining g‘oyalari
+====#M.Killian va J.Makkartini g‘oyalari
+====M.Minskiy va T.Kunning g‘oyalari
+====Nyuelni va J.Makkartini g‘oyalari
+++++
+
+Nechanchi yilda M.Killian semantik turlar uslubini taklif etdi.{
+====1965 yilda
+====1978 yilda
+====1986 yilda
+====#1968 yilda
+++++
+
+Aqliy (mantiqiy) bilish shakllari qaysilar?{
+====#tushuncha, hukm, xulosa;
+====sezgi, idrok, tasavvur;
+====kuzatish, analiz, sintez;
+====induksiya, deduksiya, analogiya;
+++++
+
+Tafakkurning shakllari deb nimaga aytiladi?{
+====fikrning simvollar, belgilar sistemasida ifodalanganligi;
+====fikr mazmunining til shaklida ifodalanish usuli;
+====fikrning (ichki) strukturaviy tuzilishi;
+====#fikr mazmuni qismlarining o’zaro bog’lanish usullari.
+++++
+
+Mantiq fani nimani o’rgatadi?{
+====tafakkur taraqiyotinig qonunlarini;
+====to’g’ri fikr yuritishning (tafakkurning) asosiy qonun va qoidalarinii;
+====#to’g’ri fikr yuritishning (tafakkurning) asosiy qonun va shakllarini;
+====isbot va inkor etish nazariyasining qonun va shakllarini.
+++++
+
+Mantiq fani byevosita qaysi fan bilan bog’liq?{
+====psixologiya
+====pyedagogika
+====etika va estyetika
+====#grammatika
+++++
+
+SHakliy mantiq (formalashgan mantiq) fani predmeti;{
+====ruhiyat;
+====tafakkurning paydo bo’lishi, rivojlanishi;
+====#tafakkurning shakllari va qonunlari;
+====isbot va inkor etish nazariyasining mantiqiy asoslari.
+++++
+
+Fikrning chinligi bu:{
+====uning til shakllarida to’g’ri ifodalanish ;
+====uning tushuncha , muhokamaga mos kelishi;
+====#uning voqyelikka mos kelishi;
+====uning muhokamalari shaklida ifodalanishi.
+++++
+
+Tafakkur qonunlari deb nimaga aytiladi?{
+====to’g’ri xulosa chiqarishning qonunlarini;
+====muhokama yuritishning zarur talablarini;
+====isbot va inkor etishning eng muhim prinsiplarini;
+====#fikr elyemyentlarining ichki, zaruriy, muhim bog’lanishlari;
+++++
+
+Matematik mantiq fanining asoschisi:{
+====Arastu;
+====Aflotun;
+====#Lyeybnis.;
+====Pifagor.
+++++
+
+Tushuncha nima?{
+====tushuncha-tafakkurning negizi, asosiy yadrosi bulib nomuhim belgilari asosida aks ettiruvchi tafakkur shakli;
+====tushuncha- voqelikning hissiy tarzdagi obrazi;
+====tushuncha-ob’ektiv ryeallikning sub’ektiv obrazi;
+====#tushuncha- predmet- hodisalarni umumiy, muhim belgilari asosida aks ettiruvchi tafakkur shakli;
+++++
+Virtual reallik g’oyasi «kibermakon» - «cyberspace» sifatida dastlab kimning asarida shakllangan{
+====#U.Gibsonning “Neuromancer” asarida
+====N.A.Nosov va O.I.Genisaretskiylarning «Operator — inson faoliyatida virtual holat» nomli maqolasida
+====F.Xemmitning «Virtual reallik» asarida
+====N.A.Nosovning “Psixologik virtual reallik” asarida
+++++
+
+Kimning qaysi asari virtual reallik to’g’risidagi birinchi tarixiy-nazariy ish hisoblanadi{
+====U.Gibsonning “Neuromancer” asarida
+====N.A.Nosov va O.I.Genisaretskiylarning «Operator — inson faoliyatida virtual holat» nomli maqolasida
+====#F.Xemmitning «Virtual reallik» asarida
+====N.A.Nosovning “Psixologik virtual reallik” asarida
+++++
+
+Virtualistik olimlardan kim birinchilardan bo’lib konstant reallik va virtuallik tushunchalarni farqlab izohlab beradi{
+====U.Gibson
+====#N.A.Nosov
+====O.I.Genisaretskiy
+====F.Xemmit
+++++
+
+N.A.Nosov har qanday virtual reallikka xos bo’lgan nechta xususiyatni ko’rsatadi{
+====3
+====#4
+====2
+====5
+++++
+
+Quyidagi virtualistikaga oid tushunchalardan qaysi biri psixologiya sohasiga tegishli: 1-«virtual menejment», 2-«virtual qobiliyat», 3-«virtual holat», 4-«virtual teatr», 5-«virtual inson».{
+====1,2
+====#2,3
+====2,5
+====3,4
+++++
+
+Birinchi virtual reallik tizimi nechanchi yilda paydo bo’lgan?{
+====#1962-yilda
+====1972-yilda
+====1966-yilda
+====1926-yilda
+++++
+
+Virtuallik rivojlanishining ehtimolli qonununiyatlari, yashirin g’oyalar va mavjud shartlar bilan asoslanadigan turi qaysi{
+====Sun’iy virtual reallik
+====#Tabiiy virtual reallik
+====Psixologik virtual reallik
+====Kompyuterli virtual reallik
+++++
+
+Psixologik virtuallikning qanchalik ko’p hajmli axborotni qabul qilishi va saqlashiga qarab necha turga bo’lamiz{
+====3
+====4
+====#2
+====5
+++++
+
+Kompyuter va telekommunikasiya texnologiyalaridan foydalanish asosida internet orqali muloqot va munosabatlarni amalga oshiradigan odamlar jamoasiga nisbatan qullaniladigan tushuncha bu....{
+====Kompyuterli virtual reallik
+====#Virtual jamiyat
+====Kibermakon
+====Psixologik virtual reallik
+++++
+
+....bu dasturiy ta’minot bilan birgalikdagi va kompyuter xotirasidagi informatsion hududlar xaritasidir, hamda bu informatsiyani antropologiyalashtirish, unga topologik aniqlik kiritish va qoidalarini ishlab chiqishdir. Nuqtalar o’rniga mos so’zni tanlang.{
+====Virtual jamiyat
+====#Kompyuterli virtual reallik
+====Kibermakon
+====Psixologik virtual reallik
+++++
+
+Psixologik virtual reallikning turlarini ko’rsating.{
+====Tabiiy va  sun’iy
+====#konsuyetal va virtual
+====gratual va ingratual
+====onglilik va ongsizlik
+++++
+
+Shizofreniyaning mohiyati nimada{
+====#Uning asosida fikrlash, mulohaza yuritish jarayonining buzilishi yotadi.
+====Unda hissiyot,iroda, fikrlash va xulq-atvorning buzilishlari ustun bo‘lib, vasvasa, illyuzyya va gallyusinasiyalar paydo bo‘lishi xos emas
+====Unda hissiyot,iroda, fikrlash va xulq-atvorning buzilishlari qisman uchraydi.
+====Hamma javoblar to‘g‘ri
+++++
+
+Qaysi virtual reallik ko‘rinishi xuddi biz his etadigan, mushohada qilsa bo‘ladigan borliqqa o‘xshaydi{
+====Tabiiy virtual reallikda
+====Psixologik virtual reallikda
+====#Kompyuterli virtual reallikda
+====Virtual reallikning gratual va ingratual shakllarida
+++++
+
+"Sensorama" deb nomlangan ko‘p sezuvchi virtual reallik simulyatori qachon yaratildi{
+====1963-yilda
+====1961-yilda
+====#1962-yilda
+====1964-yilda
+++++
+
+N.Kuzanskiy qaysi asarida virtuallik mavjudligi va inergiyasi masalalarini bayon etgan.{
+====#«Ollohning anglanishi»
+====“Neuromancer”
+====«Virtual reallik»
+====“Psixologik virtual reallik”
+++++
+
+Bugungi kunda virtual reallikka asoslangan ta’lim resurslarini necha darajada tasniflash mumkin{
+====4
+====2
+====#3
+====5
+++++
+
+Virtual reallikka asoslangan ta’lim resurslarini tasniflashda uchinchi darajadagi vositalarga nimalarni kiritamiz{
+====#kompyuterning standart monitori yoki proyeksiya vositasi asosida virtual reallikni namoyish qilish;
+====maxsus texnik vositalar (shlem-displey, maxsus qo’lqop va boshqalar) vositasida to’la virtuallika yerishish;
+====uch o’lchamli (yoki stereoskopik) monitorlar yoki proyektor va maxsus ko’zoynak yordamida hajmli tasvir hosil qilish;
+====Hamma javoblar to’g’ri
+++++
+
+Virtual reallikka asoslangan ta’lim resurslarini tasniflashda birinchi darajadagi vositalarga nimalarni kiritamiz{
+====uch o’lchamli (yoki stereoskopik) monitorlar yoki proyektor va maxsus ko’zoynak yordamida hajmli tasvir hosil qilish;
+====#maxsus texnik vositalar (shlem-displey, maxsus qo’lqop va boshqalar) vositasida to’la virtuallikka erishish;
+====kompyuterning standart monitori yoki proyeksiya vositasi asosida virtual reallikni namoyish qilish;
+====Hamma javoblar to’g’ri
+++++
+
+Germaniyada virtual tergov kamerasini yaratgan startapi nomini ko’rsating?{
+====GAMELAB.BERLIN
+====SEHSUCHT BERLIN
+====#VRAGMENTS
+====WDR & ARTE
+++++
+
+Predmetni in’ikos etish xarakteriga qarab ko’rgazmali qurollarni qanday turlarga bo’lish mumkin: 1.tabiiy;  2. tasviriy; 3. matematik;  4. simvolik; 5. virtual; 6. modelli.{
+====23456
+====#1245
+====12345
+====2345
+++++
+
+Meyt Shtaynfort nechanchi yilda Berlindagi Produktionsstudio „ Sehsucht “ studiyasi bilan hamkorlikda „Eslatma“ nomli 360 darajali qamrovchi animasiyani suratga oldi.{
+====2006 yilda
+====#2016 yilda
+====2017 yilda
+====2019 yilda
+++++
+
+Hozirgi kunda kompyuterlardan ta’lim tizimida asosan qaysi yo’nalishda foydalanilmoqda.:{
+====o’rganish obyekti sifatida;
+====o’qitishning texnik vositalari sifatida;
+====ta’limni boshqarishda va ilmiy-pedagogik izlanishlarda
+====#hammasi to’g’ri
+++++
+
+O’quv-tarbiya jarayonida kompyuterlardan kompyuter imtihon oluvchi sifatida foydalanish qanday muloqat turiga kiradi?{
+====passiv qo’llash
+====#reaktiv muloqat
+====faol muloqat
+====interfaol muloqat
+++++
+
+Internetda ma’lumotlarni izlashning nechta asosiy usuli mavjud{
+====2
+====#3
+====4
+====5
+++++
+
+1997 yil 23 sentyabrda ish boshlagan qidiruv tizimi{
+====#Yandeks
+====Google
+====KtoTam
+====Tagoo
+++++
+
+Quyidagi qidiruv tizimlaridan qaysi biri O’zbekiston ta’lim portalini tashkil etadi{
+====ziyonet.uz
+====uforum.uz
+====#edu.uz
+====mtrk.uz
+++++
+
+Quyidagi qaysi dasturlarda inson qo‘li bilan bajarib bo‘lmaydigan, qiyin yoki bajarish uchun ko‘p vaqt va mablag‘ talab qiluvchi ishlarni amalga oshirishda foydalaniladi.{
+====Mashq qildiruvchi dasturlar
+====Nazorat olib boruvchi dasturlar
+====O’yin (o‘qishga mo‘ljallangan) dasturlar
+====#Imitasion-modellashtiruvchi dasturlar
+++++
+
+Quyidagi qaysi dasturlar avval o‘zlashtirilgan o‘quv materialini takrorlash va mustahkamlashga xizmat qiladi.{
+====#Mashq qildiruvchi dasturlar
+====Nazorat olib boruvchi dasturlar
+====O’yin (o‘qishga mo‘ljallangan) dasturlar
+====Imitasion-modellashtiruvchi dasturlar
+++++
+
+Quyidagi qaysi dasturlar o‘quvchiga biror-bir aniq bilimni berish uchun mo‘ljallangan bo‘ladi{
+====Mashq qildiruvchi dasturlar
+====Nazorat olib boruvchi dasturlar
+====O’yin (o‘qishga mo‘ljallangan) dasturlar
+====#O’rgatuvchi dasturlar
+++++
+
+Quyidagi qidiruv tizimlaridan qaysi biri musiqalarni qidirishga mo‘ljallangan qidiruv tizimi{
+====#“Tagoo”
+====“Truveo”
+====“Kinopoisk”
+====“Ebdb”
+++++
+
+Quyidagi qidiruv tizimlaridan qaysi biri internetning turli resurslaridagi videomateriallarni qidirishga ixtisoslashgan axborot – qidiruv tizimi{
+====“Tagoo”
+====#“Truveo”
+====“Kinopoisk”
+====“Ebdb”
+++++
+
+Matematikada 100 ta nolli raqam nomini angltuvchi qidiruv tizimi nomini aniqlang?{
+====Yandeks.ru
+====#google.com
+====Gmail.com
+====Ebdb.com
+++++
+
+Kompyuter tizimlarini ishlab chiqish va foydalanishning axloqiy masalalari bo’yicha munozaralarni boshlab bergan olim kim?{
+====G.S.Pospelov
+====M.Killian
+====Dj.Mokkarti
+====#Dj. Veysenbaum
+++++
+
+Kompyuter tomonidan xal qilinayotgan muammolar doirasini cheklashni tavsiya қiladi va shu bilan birga, inson xayotini saqlab qolishga qodir bulgan joylarda, masalan, tibbiyot soxasida kompyuterlarni taqiqlash axloqiy jixatdan notug’ridir, deb xisoblagan mutafakkur kim?{
+====#Dj. Mur
+====M.Killian
+====Dj.Mokkarti
+====Dj. Veysenbaum
+++++
+
+«Kompyuter etikasi» kitobi muallifi kim?{
+====Dj. Mur
+====Dj.Mokkarti
+====Dj. Veysenbaum
+====#D. Djonson
+++++
+
+Axloq ko’proq qaysi fanlar bilan bog’liq?{
+====Tarix va siyosatshunoslik fanlari bilan.
+====#Pedagogik va huquqshunoslik fanlari bilan.
+====Ijtimoiy-psixologiya va iqtisodiyot fanlari bilan.
+====San’at va adabiyot fanlari bilan.
+++++
+
+Axloqning tabiiy manbalari nimalardan iborat?{
+====Axloq tug’ma xarakterga ega, inson tug’ilishi bilan unga in’om etiladi.
+====Axloqning negizida shaxsiy va ijtimoiy manfaatlar yotadi.
+====#Axloq kishining aql-zakovati va fahm-farosotiga bog’liq.
+====Axloq ota-onadan o’tadigan genetik meros.
+++++
+
+Axloqning ma’naviy manbalari nimadan iborat?{
+====Axloq xudoning irodasiga bog’liq.
+====Axloq hayotiy tajribalar davomida takomillashadi.
+====#Axloq ilm-ma’rifat orqali shakllanadi.
+====Axloq kishining ijtimoiy faolligi, intilishlari va epchilligining mahsulidir.
+++++
+
+Axloqiy me’yor - qoidalar qachon paydo bo’lgan?{
+====Odamzod urug’ining paydo bo’lishi bilan.
+====#Inson jamiyati yuzaga kelishi bilan.
+====Iqtisodiy tuzum inqirozi davrida.
+====Quldorlik tuzumi shakllangandan keyin.
+++++
+
+Axloqiy va huquqiy ongning bir-biriga ta’sirini aniqlang:{
+====Xar ikkalasi ham kishilarning muayyan jamiyatda rioya qilishlari lozim bo’lgan yurish-turish qoidalari va me’yorlarini ifoda etadi.
+====#Huquqiy me’yorlar axloqan yuksak adolat tamoyillariga rioya qilmog’i darkor.
+====Huquqiy me’yorlarning axloqiy qoidalarga hyech qanaqa ta’siri yo’q.
+====Huquqiy me’yorlar jamiyat a’zolarining hayotiy zaruriy ichki axloqiy ehtiyojlariga aylanib bormog’i lozim.
+++++
+
+Axloq va fanning bir-biriga munosabatini aniqlang:{
+====#Ilm-fan axloqiy barkamollik negizidir.
+====Yuksak axloqiy me’yorlarni o’zida mujassamlashtira olgan odamgina ijtimoiy taraqqiyotga xizmat qiladi.
+====Fanning axloqqa hyech qanday aloqasi yo’q.
+====Axloq ham fanga deyarlik ta’sir qilmaydi.
+++++
+
+Axborot xavfsizligini ta’minlash usullari va uni himoya qilish vositalari umumiy holda qanday savollarga javob berishi kerak?{
+====#nimani, nimadan va qanday himoya qilish
+====fayllarni arxivlash va ularni viruslardan himoya qilish
+====kompyuterga parol qo’yish va fayllarni viruslardan himoya qilish
+====faylni yashirish va unga parol qo’yish
+++++
+
+Dastlabki virtual reallik garniturasi nechanchi yilda sotuvga chiqariladi{
+====2015 yilning oxirida oyida
+====2012 yilning yanvar oyida
+====#2015 yilning yanvar oyida
+====2016 yilning yanvar oyida
+++++
+
+Ilk virtual reallik garniturasi qaysi startap tamonidan sotuvga chiqariladi{
+====SonyPlaystation VR
+====Inreal Technologies Inreal Technologies
+====#Oculus Rift CV1
+====Art.com
+++++
+
+Google nechanchi yilda birinchi virtual musiqiy konsertini tashkil qildi{
+====#2016 yilda
+====2017 yilda
+====2018 yilda
+====2015 yilda
+++++
+
+Hozirda qaysi startap uy sotib olmoqchi bo‘lgan xaridorlar biror uyni borib ko‘rish o‘rniga virtual reallik shlemi orqali uni ko‘zdan kechirishlari mumkin bo‘lgan texnologiya ustida ishlayapti{
+====Oculus Rift CV1
+====SonyPlaystation VR
+====#iStaging
+====Art.com
+++++
+
+Hozirda devorlarni virtual san’at asarlari bilan bezab beradigan kompaniya qaysi{
+====Oculus Rift CV1
+====Virgin Galactic
+====iStaging
+====#Art.com
+++++
+
+Qaysi dastur uch o‘lchamli virtual makonda tasvirlar chizish imkoniyatiga ega «Tilt Brush» dasturiga asoslangan{
+====Oculus Rift CV1
+====#Just a Line
+====iStaging
+====Art.com
+++++
+
+Fishingning bir turi bo’lib, bunda foydalanuvchi haqiqiy veb-saytga kirmoqchi bo’lsa, foydalanuvchini avtomatik tarzda qalbaki veb-saytga yo’naltiradi.{
+====Dizkreyter
+====#Framing
+====Spam
+====Trolling
+++++
+
+Veb-saytlarga noqonuniy kirish, firibgarlik, mualliflik huquqini buzish, kredit kartochkalari raqami va bank rekvizitlarini o’g’irlash kabi huquqbuzarlikdir{
+====#Fishing
+====Framing
+====Spam
+====Trolling
+++++
+
+Kompyuterlarning o‘zaro axborot almashish imkoniyatlarini beruvchi qurilmalar majmui nima deb ataladi?{
+====Kompyuter tizimlari
+====Kompyuter dasturlari
+====#Kompyuter tarmoqlari
+====Kompyuter aloqa kabllari
+++++
+
+Ko‘p sonli qabul qiluvchilarga tarqatiladigan, keraksiz elektron xabarlar odatda nima deb ataladi?{
+====#Spam
+====Freym
+====Fishing
+====Framing
+++++
+
+Ko‘pgina axborotlarni o‘zida jamlagan Internet sahifalari yig‘indisi qanday nomlanadi?{
+====Xosting
+====Brovzer
+====#Web sayt
+====server
+++++
+
+Quyida keltirilan saxifalarning qaysi biri O’zbekiston Respublikasi hukumat portali hisoblanadi?{
+====www.edu.uz
+====#www.gov.uz
+====www.portal.uz
+====www.uz
+++++
+
+Ijtimoiy tarmoqlardan foydalanuvchilari umumiy nomda qanday ataladi.{
+====#Follover
+====Trolling
+====Xeyter
+====Agitator
+++++
+
+Ijtimoiy tarmoqlarda dezinformator ya’ni noto‘g‘ri axborot tarqatuvchi shaxslar nomi qaysi javobda to‘g‘ri ko‘rsatilgan: 1-Trolling, 2- Brainly, 3-Kibberbulling, 4-Xeyter, 5-Follover, 6-Xayper{
+====13456
+====3456
+====#1346
+====12346
+++++
+
+Kompyuter o‘yinlari janriga ko‘ra necha turga bo‘linadi?{
+====8
+====5
+====#7
+====6
+++++
+
+Kompyuter o‘yinlarining dastlabki avlodi nechanchi yillarda yaratilgan{
+====1976 – 1977 yillarda
+====1982 – 1987 yillarda
+====#1972 – 1977 yillarda
+====1962 – 1976 yillarda
+++++
+
+Ekshn so‘zining ma’nosi nima{
+====#inglizcha, action – harakat degan ma’noni beradi
+====inglizcha, eksh – taktika degan ma’noni beradi
+====lotincha, action – qo‘llash degan ma’noni beradi
+====lotincha, eksh – harakat degan ma’noni beradi
+++++
+
+Ta’limga qo’yilgan umumiy  talablar{
+====ta’lim sifati, hammabop (kirish mumkin) bo’lganligi
+====#ta’lim sifati, hammabop (kirish mumkin) bo’lganligi, tengligi
+====ta’lim sifati, hammabop (kirish mumkin) bo’lganligi, tengligi, ixtisoslashganligi
+====ta’lim sifati, hammabop (kirish mumkin) bo’lganligi, tengligi, Yevropada reytingi yuqoriligi
+++++
+
+Elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan hamda elektron hujjatning uni identifikasiya qilish imkonini beradigan boshqa rekvizitlariga ega bo’lgan axborot bu{
+====#Elektron hujjat
+====Elektron axborot
+====Elektron matn
+====Elektron pochta
+++++
+
+Elektron raqamli imzo to’g’risidagi Qonunda qanday kalitlar ta’riflanadi?{
+====Bir va ikki tomonli kalitlar
+====#Ochiq va yopiq kalitlar
+====Moddiy va nomoddiy kalitlar
+====Shifrli va kodli kalitlar
+++++
+
+Insonni faoliyatga undovchi sabablardan birini toping?{
+====#Ehtiyojlar;
+====Maqsadlar;
+====Orzular;
+====Xayollar;
+++++
+
+Ko’zga ko’rinmas lekin ulkan va mutloq aybsiz ahloqiy mezoniy tushuncha nima deb ataladi?{
+====#vijdon;
+====burch;
+====ezgulik;
+====yovuzlik;
+++++
+
+Mohiyatan davlat jamiyat shaxslarga nisbatan muayyan individdagi munosabat, ular oldidagi majburiyat qanday ataladi?{
+====or – nomus;
+====#burch;
+====vijdon;
+====yaxshilik;
+++++
+
+Ahloq tuzilmasini ko’rsating.{
+====ahloqiy anglash;
+====ahloqiy xis etish;
+====ahloqiy munosabat;
+====#barcha javoblar tug’ri;
+++++
+
+Etika atamasini birinchi bo’lib kim muomalaga kiritgan?{
+====Fales;
+====Demokrit;
+====Sokrot;
+====#Aristotel;
+++++
+
+«Axloq » so’zi arabchadan  olingan bo’lib u ...{
+====«Madaniyat» so’zining xususiy  shaklidir;
+====#«Xulq» so’zining ko’plik shaklidir ;
+====«Yashxi» so’zining  ko’plik shaklidir;
+====«Odob» so’zining  juz’iy shaklidir;
+++++
+
+Jamiyat, zamon, insoniyat tarixi uchun namuna bo’la oladigan ijobiy xatti – xarakatlar   yig’indisi – bu...{
+====#ahloq;
+====huquq;
+====san’at;
+====din;
+++++
+
+Insonparvarlik tuyg’usini qanday tushunasiz?{
+====kishining o’zi uchun, o’z urug’-aymog’i uchun qayg’urishi;
+====nogiron va ojiz kishilarga qilgan g’amxo’rligi;
+====#insonlarni sevish, yordamga muxtoj kishiga mehr-shavqat qilib yordam bera olishi, rostgo’y, adolatparvar, axloqan barkamol insonparvar degan nomga sazovor bo’la olishi;
+====insonparvar bo’lish qiyin, chunki bunday tushuncha chiroyli ibora xolos, odamlar bir-birlarini ko’ra olmaydi, bir-biriga dushman;
+++++
+
+Axloq deganda nimani tushuniladi?{
+====axloq xudoning insonga bergan in’omi;
+====axloq kishining turli xil kayfiyatlari;
+====#axloq ijtimoiy ong shakllaridan biri, insonning yurish-turish qoidalari va xulq-atvori me’yorlari;
+====axloq yaxshilik va yomonlikning o’lchov mezoni;
+++++
+
+Oddiy axloq me’yorlarini aniqlang.{
+====o’z burchiga sadoqatligi;
+====hayot mazmunini to’g’ri tushunishni bilishm va o’z hayotida adashmaslik, hayot maqsadini to’g’ri tanlash;
+====#halollik, haqiqatgo’ylik, sahiylik, mehmondo’stlik, xushmuomalalik, kamtarlik;
+====o’z hayotida adashmaslik, hayot maqsadini to’g’ri tanlash;
+++++
+
+Axloq qanday kuchga tayanadi?{
+====muayyan siyosiy tuzum tomonidan himoya qilinadi;
+====#jamoatchilik fikriga;
+====zo’rlik kuchiga tayanadi;
+====tarbiyalash, o’qitish va o’rgatishga;
+++++
+
+Axloqiy me’yorlarni buzgan shaxslarga qarshi qanday chora va tadbirlar ko’riladi?{
+====jismoniy qiynash zarur, tayoq tarbiyasini qo’llash ma’qul;
+====jismoniy javobgarlikka tortmoq lozim;
+====#jamoatchilik hukmi asosiy vosita bo’lmog’i lozim;
+====ota-ona tegishli tanbeh bermog’i lozim;
+++++
+
+«Estetika» terminining ilmiy muamalaga kim kiritgan?{
+====Gegel;
+====#Baumgarten ;
+====Aflotun ;
+====Kant ;
+++++
+
+Estetik faoliyat asosini nima tashkil etadi?{
+====san’at
+====#insonning muayyan talab va extiyojlari
+====estetik extiyojlar
+====badiy faoliyat
+++++
+
+Estetikaning asosiy tushunchasini ko’rsating?{
+====#go’zallik ;
+====Fojiaviylik;
+====Kulgililik;
+====ulug’vorlik ;
+++++
+
+San’at asarlarining umrboqiyligi nimaga bog’liq?{
+====badiiy shakliga;
+====#G’oyasiga;
+====uslubiga ;
+====obrazlariga ;
+++++
+
+«Teatr» so’zi qaysi tildan olingan?{
+====lotincha;
+====#Yunon;
+====Ingliz;
+====franso’z;
+++++
+
+Teatr san’ati qanday san’at?{
+====ichki harakat ;
+====drammatik harakat ;
+====tomosha san’ati ;
+====#saxna harakati san’ati;
+++++
+
+Estetik tarbiya nima?{
+====guzallikni tatbik etish;
+====#ijodiy faol bulgan inson shaxsini shakllantirish ;
+====insonparvarlik ;
+====ta’lim tarbiya vositasi;
+++++
+
